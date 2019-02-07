@@ -110,7 +110,7 @@ def repaso():
 
 
 
-def repasar_fallos()
+def repasar_fallos():
     print(preguntas_fallidas)
     for clave in preguntas_fallidas:
         bold(preguntas[clave])
@@ -160,7 +160,6 @@ def uno_a_uno():
 
 def examen():
     # Empieza el test al usuario
-    respuestas_usuario = {}
     for clave, pregunta in preguntas.items():
         bold(pregunta)
         for respuesta in respuestas[clave]:
@@ -172,42 +171,14 @@ def examen():
         print("\n\n\n")
 
     print("Fin del test. Correccion:")
-    preguntas_fallidas = []
-    nota = 0
-    total_preguntas = len(preguntas)
-    valor_pregunta = 10 / total_preguntas
-
-    for clave, pregunta in preguntas.items():
-        if respuestas_usuario[clave].lower() == "z":
-            # Pregunta sin respuesta
-            print(clave + " No Contestada")
-            continue
-        if soluciones[clave].lower() == respuestas_usuario[clave].lower():
-            print(clave + " Acierto")
-            nota = nota + valor_pregunta
-        else:
-            print(clave + " Fallo " + respuestas_usuario[clave].lower() + " -> " + soluciones[clave].lower())
-            nota = nota - (valor_pregunta/2)
-            preguntas_fallidas.append(clave)
-
-    print("Tu nota es: " + str(nota))
+    correccion()
 
     respuesta_usuario = str(input("¿quieres repasar los fallos? (y/n):").lower().strip())
     while not re.match("^[yn]+$", respuesta_usuario):
         respuesta_usuario = str(input("¿quieres repasar los fallos? (y/n):").lower().strip())
 
     if respuesta_usuario == "y":
-        print(preguntas_fallidas)
-        for clave in preguntas_fallidas:
-            bold(preguntas[clave])
-            for respuesta in respuestas[clave]:
-                if re.match("^["+soluciones[clave].lower()+"]+", respuesta.lower()):
-                    warning(respuesta)
-                else:
-                    print(respuesta)
-            print("")
-            input("Pulsa Enter para continuar")
-            print("\n\n\n")
+        repasar_fallos()
 
 def validar_test():
     if len(preguntas) != len(soluciones):
