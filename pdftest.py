@@ -5,7 +5,8 @@
 
 import re
 import os
-from utils import log, warning, bold
+import datetime
+from utils import warning, bold
 
 preguntas = {}
 respuestas = {}
@@ -13,9 +14,16 @@ soluciones = {}
 respuestas_usuario = {}
 preguntas_fallidas = []
 
+def log_test():
+    script_dir = os.path.dirname(__file__) # <-- absolute dir the script is in
+    abs_file_path = os.path.join(script_dir, "history.log")
+    f = open(abs_file_path, "a")
+    f.write(str(datetime.datetime.now()) + ";" + str(len(preguntas_fallidas)))
+
+
 def parsear_fichero(fichero_test):
 
-    script_dir = os.path.dirname(__file__) #<-- absolute dir the script is in
+    script_dir = os.path.dirname(__file__) # <-- absolute dir the script is in
     rel_path = "tests/" + fichero_test
     abs_file_path = os.path.join(script_dir, rel_path)
 
@@ -219,6 +227,7 @@ def principal():
     else:
         examen()
 
+    log_test()
     print("Fin del test")
 
 
