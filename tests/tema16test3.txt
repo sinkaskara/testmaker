@@ -1,0 +1,536 @@
+Decreto 19/2011, de 10 de febrero, por el que se regula la utilización de los
+medios electrónicos en la Administración pública de la Comunidad Autónoma de
+Canarias, 36 preguntas.
+SEDE ELECTRÓNICA
+
+91
+
+1) El punto general de acceso a través del cual se facilita el acceso a los servicios
+y procedimientos de las distintas sedes electrónicas de la AP de la CA de
+Canarias y de sus organismos públicos vinculados o dependientes es:
+a) La sede electrónica cuya dirección electrónica es https://sede.gobcan.es.
+b) El registro electrónico cuya dirección electrónica es
+http://www.gobiernodecanarias.org/cpj/dgfp/index.jsp
+c) La sede electrónica cuya dirección electrónica es
+http://www.gobiernodecanarias.org/cpj/dgfp/index.jsp
+d) La sede electrónica cuya dirección electrónica es http://www.gobcan.es/boc/
+
+2) Indica la falsa:
+a) La titularidad del punto general de acceso corresponde a la Administración de la
+Comunidad Autónoma de Canarias y será gestionado por la consejería
+competente en materia de información y atención ciudadana y administración
+electrónica, con la participación y colaboración del resto de los departamentos y
+organismos públicos para garantizar la completa y exacta incorporación de la
+información y servicios publicados en éste.
+b) Todas
+las
+sedes
+electrónicas
+deberán
+alojarse
+bajo
+el
+subdominio sede.gobcan.es.
+c) Las sedes electrónicas se crearán mediante orden del titular de la consejería
+correspondiente o resolución del órgano competente del organismo público, que
+deberá publicarse en el Boletín Oficial de Canarias.
+d) El órgano titular de una sede electrónica que contenga un enlace o vínculo a otra
+sede cuya titularidad corresponda a distinto órgano o Administración Pública será
+responsable de la integridad, veracidad y la actualización de esta última.
+
+3) Conforme al artículo 12 “Contenido y servicios de las sedes electrónicas” del
+Decreto 19/2011, de 10 de febrero, por el que se regula la utilización de los
+medios electrónicos en la Administración pública de la Comunidad Autónoma
+de Canarias, las sedes electrónicas deberán disponer, como mínimo, de los
+siguientes servicios:
+a) Un servicio de contacto para el asesoramiento electrónico al usuario en la
+correcta utilización de la sede.
+b) Acceso al estado de tramitación de los procedimientos.
+c) Acceso al sistema de sugerencias y reclamaciones.
+d) Todas son correctas.
+
+TEMA 16
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+IDENTIFICACIÓN Y AUTENTIFICACIÓN
+4) Con la finalidad de llevar a cabo una gestión uniforme y homogénea de los
+datos de los interesados que interactúen por medios electrónicos con los
+distintos órganos de la Administración Pública de la Comunidad Autónoma de
+Canarias y sus organismos públicos, las aplicaciones informáticas que den
+soporte a la gestión de los servicios y tramites electrónicos deberán utilizar:
+92
+
+a) El Servicio de Base de Datos de Terceros de la Plataforma de Interoperabilidad
+Corporativa del Gobierno de Canarias.
+b) El servicio clave.
+c) El servicio DNIE.
+d) Ninguna es correcta.
+
+5) El uso por los ciudadanos de sistemas de firma electrónica (señala la
+respuesta incorrecta):
+a) No excluye la obligación de incluir en el documento o comunicación electrónica
+los datos de identificación que sean necesarios de acuerdo con la normativa que
+le sea de aplicación.
+b) Implicará que los órganos de la Administración Pública de la Comunidad
+Autónoma de Canarias y sus organismos públicos pueden tratar los datos
+personales consignados, a los efectos de la verificación de la firma.
+c) Se podrán utilizar otros sistemas de firma electrónica distintos de los previstos
+en el artículo 15 siempre que se garantice la autenticidad del signatario y la
+integridad del contenido de la información firmada, así como su no repudio.
+d) Solo podrán utilizar los sistemas de firma electrónica incorporados en el
+documento nacional de identidad electrónico y los de firma electrónica avanzada.
+
+6) La Sede Electrónica facilita el acceso mediante el uso de varios sistemas de
+identificación en función del nivel de seguridad exigido para el acceso a la
+información, la definición correcta del Nivel de seguridad medio se conoce
+como:
+a) Sistema basado en información conocida por ambas partes (DNI/NIE).
+b) Sistemas basados en claves concertadas (sistemas de usuario y contraseña) así
+como certificados electrónicos de tipo software.
+c) Certificados electrónicos de tipo hardware o tarjeta criptográfica.
+d) Ninguna es correcta.
+
+7) ¿Cuál de las siguientes entidades reconocidas, la AP de la CA de Canarias
+dispone de una red de Oficinas para la acreditación de la identidad para la
+obtención del Certificado software o Certificado digital?
+a) DNI electrónico o DNIe.
+b) Fábrica Nacional de Moneda y Timbre.
+c) ANF Autoridad de certificación.
+d) AC Camerfirma.
+
+TEMA 16
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+8) ¿El uso de firma electrónica excluye la obligación de incluir en el documento
+o comunicación electrónica los datos de identificación?
+a) Sí, en todo caso.
+b) No, en cualquier caso.
+c) No, excepto a efectos de solicitud de acceso a pruebas selectivas.
+d) Sí, cuando se trata de familia numerosa.
+
+93
+
+9) Según el artículo 18 del Decreto 19/2011, la utilización de otros sistemas de
+firma electrónica deberá aprobarse mediante:
+a) Orden departamental.
+b) Resolución en el caso de organismos públicos.
+c) A y b son correctas.
+d) Ley orgánica.
+
+10) La aprobación de la orden departamental o resolución para la utilización de
+otros sistemas de firma electrónica contendrá:
+a) La denominación y descripción general del sistema de identificación, órgano u
+organismo público responsable de su aplicación.
+b) Garantías de su funcionamiento y actuaciones en las que son admisibles estos
+sistemas de firma electrónica.
+c) Además, se deberán publicar en las sedes electrónicas donde sean de
+aplicación.
+d) Todas son correctas.
+11) Conforme al artículo 20 de “representación de terceros”, del Decreto 19/2011,
+las personas físicas o jurídicas habilitadas para la realización de determinadas
+transacciones electrónicas en representación de los interesados, deberán
+ostentar dicha representación en los términos establecidos en el artículo:
+a) 3 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de
+las administraciones públicas.
+b) 4 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de
+las administraciones públicas.
+c) 5 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de
+las administraciones públicas.
+d) 25 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común
+de las administraciones públicas.
+12) La Ley de Firma Electrónica es:
+a) 59/2003.
+b) 14/1999.
+c) 5/2015.
+d) 40/2015.
+13) El personal al servicio de la AP de la CA de Canarias y de sus organismos
+públicos vinculados o dependientes utilizará los sistemas de firma electrónica
+que se determinen en cada caso, entre los siguientes, señala la incorrecta:
+a) Sistemas de código seguro de verificación.
+b) Sistemas de firma avanzada.
+c) Sistemas de firma reconocida.
+d) Firma basada en el DNI.
+
+TEMA 16
+
+94
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+14) El personal al servicio de la Administración Pública de la Comunidad
+Autónoma de Canarias y de sus organismos públicos vinculados o
+dependientes utilizarán el sistema de firma electrónico, en el contenido del
+mismo tendrá, al menos, señala la incorrecta:
+a) Dirección del titula del certificado.
+b) Nombre y apellidos del titula del certificado.
+c) Número de identificación fiscal del órgano u organismo público en el que presta
+servicios el titular del certificado.
+d) Descripción del tipo de certificado en el que deberá incluirse la denominación
+"certificado electrónico de empleado público".
+
+15) Según Decreto 19/2011, ¿qué sistema de firma electrónica se utilizará para la
+identificación y la autentificación del ejercicio de la competencia en la
+actuación administrativa automatizada?
+a) El código seguro de verificación.
+b) La firma electrónica reconocida.
+c) El sello electrónico.
+d) Ninguna es correcta.
+
+16) La creación del sistema de la pregunta anterior se realizará por:
+a) Resolución de la secretaría general técnica.
+b) Orden de la secretaría general técnica u órgano equivalente del departamento u
+organismos público competente de la actuación automatizada.
+c) Resolución del órgano equivalente del departamento u organismos público
+competente de la actuación automatizada.
+d) A y c son correctas.
+
+17) Conforme al Decreto 19/2011, en la publicación en la sede electrónica del
+sistema de sello electrónico deberá constar, señala la incorrecta:
+a) Servicio de validación para la verificación del certificado.
+b) La posibilidad de que el sello electrónico se pueda emplear para garantizar la
+autenticidad y la integridad de un documento o expediente electrónico, a cuyo
+efecto se podrá superponer al código seguro de verificación con que se haya
+firmado.
+c) Órgano u organismo titular del sello.
+d) Número de identificación fiscal.
+
+18) Conforme al Decreto 19/2011, los certificados de sello electrónico tendrán, al
+menos, los siguientes contenidos, señala la incorrecta:
+a) Identificación del órgano u organismo actuante.
+b) Descripción del tipo de certificado, con la denominación “firma electrónica
+habitual”.
+c) Número de identificación fiscal.
+d) A y c son correctas.
+
+TEMA 16
+
+95
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+19) De acuerdo con el artículo 25 del Decreto 19/2011, que regula la utilización de
+otros sistemas de autentificación en el ejercicio de las actuaciones
+automatizadas, indica la respuesta incorrecta:
+a) Se podrán utilizar sistemas de código seguro de verificación de documentos en
+el desarrollo de actuaciones automatizadas.
+b) Los sistemas de código seguro de verificación vincularán al órgano u organismo
+y, en su caso, a la persona firmante del documento, permitiéndose en todo caso
+la comprobación de la integridad del documento mediante el acceso a la sede
+electrónica correspondiente.
+c) El sistema de código seguro de verificación deberá garantizar, en todo caso, el
+carácter único del código generado para cada documento.
+d) El sistema de código seguro de verificación se establecerá por orden
+departamental en el caso de organismos públicos.
+20) Según el Decreto 19/2011, los órganos u organismos públicos responsables
+de la aplicación del sistema de sello electrónico adoptarán las medidas
+necesarias para garantizar la constancia de la autenticación e integridad de los
+documentos con:
+a) Posterioridad al vencimiento del plazo de disponibilidad del sistema de
+verificación, a los efectos de su posterior archivo.
+b) Anterioridad al vencimiento del plazo de disponibilidad del sistema de
+verificación, a los efectos de su posterior archivo.
+c) 2 meses antes del vencimiento del plazo de disponibilidad del sistema de
+verificación, a los efectos de su posterior archivo.
+d) 15 días antes vencimiento del plazo de disponibilidad del sistema de verificación,
+a los efectos de su posterior archivo.
+
+REGISTROS ELECTRÓNICOS
+21) En atención a lo establecido en el artículo 26 del Decreto 19/2011, en el que se
+regula la creación de registros electrónicos, en la sede electrónica de acceso
+al registro figurarán:
+a) Los días que se consideren inhábiles.
+b) La relación actualizada de las solicitudes, escritos y comunicaciones que puedan
+presentarse en el mismo.
+c) La posibilidad de presentar solicitudes, escritos y comunicaciones distintos de
+los anteriores.
+d) Todas son correctas.
+22) De conformidad con el Decreto 19/2011, la presentación de solicitudes,
+escritos y comunicaciones a través de los registros electrónicos tendrá
+carácter voluntario, salvo lo previsto en el artículo 32, siendo alternativa a la
+utilización de los lugares señalados en el artículo:
+a) 16 de la Ley 40/2015.
+b) 16 de la Ley 39/2015.
+c) 6 de la Ley 39/2015.
+d) 6 de la Ley 40/2015.
+23) La dirección url del registro general electrónico del Gobierno de Canarias es:
+a) http://www.gobiernodecanarias.org/
+b) https://sede.gobcan.es/sede/rge
+c) http://www.gobiernodecanarias.org/cpj/dgfp/index.jsp
+d) http://www.gobiernodecanarias.org/boc/
+
+TEMA 16
+
+96
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+24) Según lo dispuesto en el Decreto 19/2011, en el artículo 29 que regula los
+recibos acreditativos de la presentación de solicitudes, escritos,
+comunicaciones y otros documentos, es falso indicar que:
+a) Los registros electrónicos emitirán automáticamente un recibo consistente en
+una copia autenticada del escrito, solicitud o comunicación de que se trate,
+incluyendo la fecha y hora de presentación y el número de entrada de registro.
+Estos recibos se configurarán de forma que puedan ser impresos o archivados
+informáticamente por el intereso y que garanticen la identidad de los registros
+electrónicos mediante la inclusión en los recibos emitidos de la huella electrónica
+y de un código seguro de verificación.
+b) Los registros electrónicos emitirán automáticamente un recibo consistente en
+una copia autenticada del escrito, solicitud o comunicación de que se trate,
+incluyendo la fecha y hora de presentación y el número de entrada de registro.
+En caso de que los registros electrónicos no emitan los recibos acreditativos
+implicará que la presentación de la solicitud, escrito o comunicación no se ha
+llevado a cabo, debiendo realizarse dicha presentación en otro momento o
+utilizando los medios señalados en el apartado 6 del artículo 26 del presente
+Decreto.
+c) Los registros electrónicos emitirán automáticamente un recibo consistente en
+
+una copia autenticada del escrito, solicitud o comunicación de que se trate,
+incluyendo la fecha y hora de presentación y el número de entrada de registro.
+En caso de que dichos registros no emitan los recibos implicará que la solicitud
+no se ha llevado a cabo, debiendo realizarse dicha presentación en otro
+momento o utilizando los medios señalados en el artículo 6 de la Ley 39/2015.
+d) En los servicios, procedimientos y trámites que lo permitan, se habilitaran los
+sistemas precisos para que en los casos en que por problemas técnicos en el
+funcionamiento del servicio del registro electrónico o por sobrecarga del sistema
+no sea posible efectuar la anotación registral, no se interrumpa la recepción de
+solicitudes, escritos y comunicaciones por las diversas aplicaciones informáticas
+gestoras de los servicios, procedimientos y trámites.
+
+COMUNICACIONES Y LAS NOTIFICACIONES ELECTRÓNICAS
+
+25) De conformidad con el Decreto 19/2011, en el artículo 31 que regula las
+comunicaciones electrónicas, la opción de comunicarse por unos u otros
+medios no vincula al ciudadano, que podrá, en cualquier momento, optar por
+un medio distinto del inicialmente elegido, cuando los ciudadanos opten por
+un medio distinto de comunicación inicialmente elegido, éste comenzará a
+producir efectos respecto de las comunicaciones que se practiquen a partir…
+a) del día siguiente al de la recepción de la solicitud de cambio del medio de
+comunicación en el registro del órgano competente.
+b) del tercer día siguiente al de la recepción de la solicitud de cambio del medio de
+comunicación en el registro del órgano competente.
+c) De las 24 horas siguientes después de la recepción de la solicitud de cambio del
+medio de comunicación en el registro del órgano competente.
+d) De las 48 horas siguientes después de la recepción de la solicitud de cambio del
+medio de comunicación en el registro del órgano competente.
+
+TEMA 16
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+26) Siguiendo con el artículo anterior, cuando los interesados sean personas
+jurídicas o colectivos de personas físicas que tengan garantizado el acceso y
+disponibilidad de los medios tecnológicos precisos, la obligatoriedad de
+comunicarse por medios electrónicos con los órganos y organismos públicos
+incluidos en el ámbito de aplicación del presente Decreto, podrá establecerse
+mediante orden del titular del departamento que sea competente en el ámbito
+material de que se trate. Señala la falsa.
+97
+
+a) Si existe la obligación de comunicarse a través de medios electrónicos y no se
+utilizan dichos medios, el órgano administrativo competente requerirá, a través
+de medios electrónicos, la correspondiente subsanación, advirtiendo que, de no
+ser atendido el requerimiento, la presentación carecerá de validez o eficacia.
+b) En la disposición normativa que establezca dicha obligación se especificarán,
+como mínimo, las comunicaciones a la que se aplique, el medio electrónico de
+que se trate y los sujetos obligados. Dicha norma deberá publicarse en el Boletín
+Oficial de la Provincia y en la sede electrónica del órgano u organismo público
+de que se trate.
+c) Esta obligación puede comprender, en su caso, la práctica de notificaciones
+administrativas por medios electrónicos, así como la necesaria utilización de los
+registros electrónicos que se especifiquen.
+d) A y c son correctas.
+27) Podrá practicarse la notificación por medios electrónicos a los interesados
+cuando lo hayan manifestado expresamente, bien indicando (Decreto 19/2011,
+art.33):
+a) El medio electrónico como preferente para la recepción de notificaciones en su
+solicitud, escrito o comunicación.
+b) Consintiendo dicho medio a propuesta del correspondiente órgano u organismo
+público.
+c) Es incorrecto, están en todo caso obligados.
+d) A y b son correctas.
+
+LA GESTIÓN ELECTRÓNICA DE LOS PROCEDIMIENTOS
+28) Se entiende por metadato, a los efectos del Decreto 19/2011:
+a) Cualquier tipo de información en forma electrónica asociada a los registros
+electrónicos, de carácter instrumental e independiente de su contenido,
+destinada al conocimiento inmediato y automatizable de alguna de sus
+características, con la finalidad de garantizar la disponibilidad, el acceso, la
+conservación y la interoperabilidad del propio documento.
+b) Cualquier tipo de información en forma electrónica asociada a los expedientes
+electrónicos, de carácter instrumental e independiente de su contenido,
+destinada al conocimiento inmediato y automatizable de alguna de sus
+características, con la finalidad de garantizar la disponibilidad, el acceso, la
+conservación y la interoperabilidad del propio documento.
+c) Cualquier tipo de información en forma electrónica asociada a los documentos
+electrónicos, de carácter instrumental e independiente de su contenido,
+destinada al conocimiento inmediato y automatizable de alguna de sus
+características, con la finalidad de garantizar la disponibilidad, el acceso, la
+conservación y la interoperabilidad del propio documento.
+d) Ninguna es correcta.
+
+TEMA 16
+
+98
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+29) Una vez asociados los metadatos a un documento electrónico:
+a) No podrán ser modificados en ninguna fase posterior del procedimiento
+administrativo excepto cuando se observe la existencia de errores u omisiones
+en los metadatos inicialmente asignados.
+b) No podrán ser modificados en ninguna fase posterior del procedimiento
+administrativo excepto cuando se trate de metadatos que requieran
+actualización, si así lo dispone el Esquema Nacional de Interoperabilidad.
+c) No podrán ser modificados en ninguna fase posterior.
+d) A y b son correctas.
+30) Conforme al artículo 37 del Decreto 19/2011, los documentos electrónicos se
+han de gestionar de acuerdo con lo que establezca en cada momento la
+normativa que regule el sistema de gestión documental y organización de los
+archivos dependientes de la Administración Pública de la Comunidad
+Autónoma de Canarias y en lo establecido en el presente Decreto, ¿cuál es la
+normativa actual?
+a) La Orden 23 de febrero 2015, por la que se aprueba la Política de gestión de
+documentos electrónicos y archivo electrónico de la AP de la CA de Canarias.
+b) DECRETO 160/2006, de 8 de noviembre, por el que se aprueba el Reglamento
+del Sistema de gestión documental y organización de los archivos dependientes
+de la Administración Pública de la Comunidad Autónoma de Canarias.
+c) La Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los
+Servicios Públicos.
+d) Ninguna es correcta.
+31) Según lo dispuesto en el artículo 39 del Decreto 19/2011, los documentos
+administrativos electrónicos deberán incluir, de acuerdo con lo que
+determinen las normas reguladoras de los respectivos procedimientos, una de
+las siguientes modalidades de referencia temporal:
+a) Marca de tiempo.
+b) Calendario de días inhábiles.
+c) Sellos de tiempo.
+d) A y c son correctas.
+32) En atención a lo establecido en el artículo 40 del Decreto 19/2011, los
+interesados podrán aportar al expediente, en cualquier fase del procedimiento,
+copias digitalizadas de los documentos en soporte papel. Estos documentos
+deberán ajustarse a los formatos y estándares aprobados para tales procesos
+por el ENI (Esquema Nacional de Interoperabilidad). En caso de
+incumplimiento de este requisito, se requerirá al interesado para que subsane
+el defecto advertido en los términos establecidos en el artículo:
+a) 68 de la Ley 39/2015.
+b) 71 de la Ley 30/1992.
+c) 8 de la Ley 39/2015.
+d) 58 de la Ley 39/2015.
+33) ¿Cuál es el sistema que garantiza la identidad de los contenidos del
+documento original y de la imagen electrónica a los efectos de compulsa
+electrónica en el Decreto 19/2011?
+a) Firma basada en el documento nacional de identidad electrónico.
+b) Sistemas de firma electrónica avanzada o reconocida.
+c) Sistemas de código seguro de verificación.
+d) Cualquiera de los tres anteriores.
+
+34) A los efectos del Decreto 19/2011, la compulsa electrónica, señala la falsa:
+a) Se entiende como el proceso tecnológico que permite convertir un documento
+en soporte papel o en otro soporte no electrónico en uno o varios ficheros
+electrónicos que contienen la imagen codificada, fiel e íntegra del documento.
+b) Se entiende como un proceso seguro de digitalización de los documentos en
+soporte papel que produce una copia electrónica del documento original,
+utilizando para ello alguno de los sistemas de firma electrónica de empleado
+público previstos en artículo 23 del presente Decreto, que es la que garantiza la
+identidad de los contenidos del documento original y de la imagen electrónica.
+c) Para que la copia electrónica así obtenida tenga la misma validez y eficacia que
+el documento original en soporte papel, deberá cumplir el requisito de utilización
+del sistema de firma electrónica de empleado público, que la compulsa se
+efectúe por empleado público expresamente habilitado para ello.
+d) Para que la copia electrónica así obtenida tenga la misma validez y eficacia que
+el documento original en soporte papel, deberá cumplir el requisito de utilización
+del sistema de firma electrónica de empleado público, que las copias electrónicas
+estén codificadas conforme a algunos de los formatos y con los niveles de
+calidad y condiciones técnicas que especifique el ENI.
+
+35) En cuanto a la destrucción de documentos en soporte papel a efectos del
+Decreto 19/2011:
+a) No se podrán destruir documentos con valor histórico.
+b) No se podrán destruir documentos en el que figuren firmas u otras expresiones
+manuscritas o mecánicas que confieran al documento un valor especial.
+c) No se podrán destruir documentos con valor artístico o de otro carácter relevante
+que aconseje su conservación y protección.
+d) Ninguna respuesta es incorrecta.
+
+36) Señala la respuesta incorrecta:
+a) Los documentos electrónicos que contengan actos administrativos que afecten
+a derechos o intereses de las entidades privadas deberán conservarse en
+soportes de esta naturaleza, ya sea en el mismo formato a partir del que se
+originó el documento o en otro cualquiera que asegure la identidad e integridad
+de la información necesaria para reproducirlo.
+b) El archivo de documentos electrónicos se realizará de acuerdo con lo establezca
+en cada momento la normativa que regule el sistema de gestión documental y
+organización de los archivos dependientes de la Administración Pública de la
+Comunidad Autónoma de Canarias. Actualmente la normativa es la Orden 23
+febrero 2015, por la que se aprueba la Política de gestión de documentos
+electrónicos y archivo electrónico de la Administración Pública de la Comunidad
+Autónoma de Canarias.
+c) Con el fin de agilizar la tramitación de los procedimientos administrativos y
+facilitar de este modo la creación de expedientes electrónicos y su tramitación
+telemática, y para dar efectividad a lo dispuesto en el artículo 30.3 de la Ley
+11/2007, de 22 de junio, los órganos y organismos públicos incluidos en el ámbito
+de aplicación del Decreto 19/2011, tienen que incorporar a sus procedimientos
+administrativos la compulsa electrónica de documentos originales en soporte
+papel. A tal efecto la consejería competente en materia de gestión documental y
+archivos, administración electrónica y nuevas tecnologías aprobará el
+correspondiente protocolo de digitalización de documentos. Este protocolo se
+recoge en la Orden 23 abril 2013, por la que se aprueba el Protocolo de
+Digitalización de documentos de la Administración Pública de la Comunidad
+Autónoma de Canarias.
+d) De conformidad con lo dispuesto en el artículo 30.3 de la Ley 11/2007, de 22 de
+junio, el proceso de digitalización de documentos podrá hacerse de forma
+automatizada mediante el correspondiente sello electrónico.
+
+SOLUCIONES
+1	A
+2	D
+3	D
+4	A
+5	D
+6	B
+7	B
+8	B
+9	C
+10	D
+11	C
+12	A
+13	D
+14	A
+15	C
+16	D
+17	D
+18	B
+19	D
+20	A
+21	D
+22	B
+23	B
+24	C
+25	A
+26	B
+27	D
+28	C
+29	D
+30	A
+31	D
+32	A
+33	D
+34	A
+35	D
+36	A

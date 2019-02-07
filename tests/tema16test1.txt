@@ -1,0 +1,458 @@
+1. ¿Qué ley convierte la Administración Pública en una «Administración
+Electrónica», a través de la generalización del uso de los medios
+electrónicos en el quehacer diario de la Administración?
+a) La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector
+Público
+b) La Ley 41/2015, de 1 de octubre, de Régimen Jurídico del Sector
+Público
+c) La Ley 42/2015, de 1 de octubre, de Régimen Jurídico del Sector
+Público
+d) Ninguna es correcta
+
+2. ¿Qué conlleva el empleo generalizado de los medios electrónicos con la
+Administración?
+a) Que siga sirviendo con objetividad a los intereses generales
+b) Que siga respondiendo especialmente a un criterio de eficiencia en la
+asignación de los recursos económicos que la Administración consume.
+c) Las dos anteriores
+d) Ninguna de las anteriores
+
+3. ¿Qué se señala en la Exposición de Motivos de la Ley 11/2007, de 22 de
+junio, de acceso electrónico de los ciudadanos a los Servicios Públicos?
+a) las Administraciones deben comprometerse con su época y ofrecer a
+sus ciudadanos las ventajas y posibilidades que la sociedad de la
+información tiene, asumiendo su responsabilidad de contribuir a hacer
+realidad la sociedad de la información
+b) Las Administraciones intentan comprometerse con su época y ofrecer a
+sus ciudadanos las ventajas y posibilidades que la sociedad de la
+información tiene, asumiendo su responsabilidad de contribuir a hacer
+realidad la sociedad de la información
+c) Las Administraciones optan por comprometerse con su época y ofrecer
+a sus ciudadanos las ventajas y posibilidades que la sociedad de la
+información tiene, asumiendo su responsabilidad de contribuir a hacer
+realidad la sociedad de la información
+d) Ninguna es correcta
+
+TEMA 16
+
+81
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+4. En esta transformación hacia lo digital, la búsqueda de una prestación de
+los servicios más eficiente, como hemos visto, se erige en un objetivo de
+primer orden. ¿Cuál de los siguientes es un parámetro de necesaria
+consideración en el Derecho Administrativo?
+a) El factor económico
+b) El criterio de la eficiencia
+c) Los dos anteriores
+d) Ninguno de los anteriores
+
+5. Hay que recordar que la LRJSP se gesta en un grave contexto económico,
+marcado por la necesidad de consolidación fiscal y de fomento del
+crecimiento económico. ¿ Cuál de los siguientes es principal finalidad
+que guía el modelo establecido en la LRJSP?
+a) La mejora de la eficiencia en el uso de los recursos públicos
+b) El aumento de su productividad
+c) A y b son correctas
+d) Ninguna de las anteriores
+
+6. ¿Quién elabora el Informe CORA?
+a) La Comisión para la Reforma de las Administraciones Públicas.
+b) La Comisión para la Gestión de las Administraciones Públicas
+c) La Comisión para la Administración de las Administraciones Públicas
+d) Ninguna de las anteriores
+
+7. Como destaca este Informe CORA, la nueva normativa responde a la
+consecución de un objetivo para :
+a) La mejor prestación de servicios a ciudadanos y empresas
+b) Con el empleo de sistemas que redunden en la eficiencia y
+simplificación del actuar de los poderes públicos.
+c) Las dos anteriores son correctas
+d) Ninguna de las anteriores
+
+8. ¿Cuál de los siguientes elementos fundamentales inspiran en último
+grado la regulación de la LRJSP?
+a) El fomento de la eficiencia
+b) La facilitación de los derechos
+c) A y b son elementos fundamentales
+d) Ninguno de los anteriores
+
+TEMA 16
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+El destierro del papel en la LRJSP
+
+82
+
+9. Indica la falsa en relación al destierro del papel en la LRJSP
+a) La LRJSP establece una batería de medidas que, por una parte, dan
+una regulación unitaria a la normativa hasta ahora vigente en la materia
+y, por otra, establece los mecanismos jurídicos para que el empleo de
+medios electrónicos sea lo habitual en las relaciones entre las
+Administraciones Públicas.
+b) Se destaca como mayor novedad que las Administraciones Públicas
+pasen a relacionarse entre sí y con sus entidades dependientes, a
+través de medios electrónicos.
+c) Dichos medios electrónicos deben asegurar la interoperabilidad y
+seguridad de los sistemas y soluciones adoptadas.
+d) Todas las anteriores son verdaderas
+
+10. Indica la verdadera de las Relaciones electrónicas entre las
+Administraciones:
+a) Se establece la obligación de facilitar el acceso a las restantes
+Administraciones a los datos relativos a los interesados que obren en su
+poder.
+b) La disponibilidad de estos datos está ilimitada a aquellos que son
+requeridos a los interesados por otras Administraciones para la
+tramitación y resolución de los procedimientos y actuaciones de su
+competencia, de acuerdo con su normativa reguladora.
+c) Las Administraciones territoriales pueden adoptar las medidas
+opcionales para posibilitar la interconexión de las redes con el fin de
+crear una red de comunicaciones que interconecte los sistemas de
+información de las Administraciones.
+d) Todas son verdaderas
+
+11. ¿Qué es el Portal de Internet?
+a) Es la dirección electrónica que está disponible para los ciudadanos a
+través de redes de telecomunicaciones, cuya titularidad corresponde a
+una Administración Pública o a varios organismos públicos o entidades
+de Derecho Público.
+b) Es el punto de acceso electrónico cuya titularidad corresponde a una
+Administración Pública, a un organismo público, o entidad de Derecho
+Público, que permite el acceso a través de internet a la información
+publicada y, en su caso, a la sede electrónica.
+c) Las Administraciones Públicas pueden identificarse mediante el uso de
+un sello electrónico basado en un certificado electrónico reconocido o
+cualificado que reúna los requisitos exigidos por la legislación de firma
+electrónica.
+d) Ninguna es correcta
+
+TEMA 16
+
+83
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+12. En relación con los órganos colegiados de las Administraciones Públicas,
+se facilita la convocatoria través de la celebración de sesiones a
+distancia por medios electrónicos, siempre que se asegure:
+a) La identidad de sus miembros
+b) El contenido de sus manifestaciones
+c) El momento en el que estas se producen, la interactividad e
+intercomunicación entre ellos en tiempo real y la disponibilidad de estos
+medios durante la celebración de la sesión.
+d) Todas las anteriores
+
+13. ¿Para qué se crea un Registro Electrónico estatal de Órganos e
+Instrumentos de Cooperación?
+a) Se crea de forma que se pueda conocer la información relativa a los
+órganos de cooperación y coordinación en los que participa la
+Administración General del Estado y sus organismos públicos y
+entidades vinculados, y qué convenios hay en vigor en cada momento.
+b) Se crea de forma que se pueda conocer la información relativa a los
+órganos de cooperación y coordinación en los que participa la
+Administración General del Estado y sus organismos públicos y
+entidades vinculados o dependientes, y qué convenios hay en vigor en
+cada momento.
+c) Se crea de forma que se pueda conocer la información relativa a los
+órganos de cooperación y coordinación en los que participa la
+Administración General del Estado y sus organismos públicos y
+entidades dependientes, y qué convenios hay en vigor en cada
+momento.
+d) Ninguna de las anteriores es correcta
+
+El reto de la implantación electrónica, incidencia en los particulares y valoración
+14. La Administración Pública se encuentra aquí, ciertamente, ante un reto
+formidable, como es alcanzar un nivel generalizado de uso de los medios
+electrónicos para el desempeño de las funciones que constitucionalmente
+le corresponden. ¿Con qué tipo de dificultad se pueden encontrar?
+a) El desigual acceso al servicio universal de telecomunicaciones en todo
+el territorio
+b) La falta de cultura administrativa en el empleo de medios electrónicos
+c) Las dos anteriores son dificultades
+d) Ninguna es correcta
+
+TEMA 16
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+FUNCIONAMIENTO ELECTRÓNICO DEL SECTOR PÚBLICO
+
+84
+
+15. ¿Qué es la sede electrónica?
+a) Es aquella dirección electrónica, disponible para los ciudadanos a
+través de redes de telecomunicaciones, cuya titularidad corresponde a
+una Administración Pública, o bien a una o varios organismos públicos o
+entidades de Derecho Público en el ejercicio de sus competencias.
+b) Es aquella dirección electrónica, disponible para los ciudadanos a
+través de redes de comunicaciones, cuya titularidad corresponde a una
+Administración Pública, o bien a una o varios organismos públicos o
+entidades de Derecho Público en el ejercicio de sus competencias.
+c) Es aquella dirección electrónica, disponible para los ciudadanos a
+través de redes de telecomunicaciones, cuya titularidad corresponde
+exclusivamente a una Administración Pública
+d) Ninguna es correcta
+
+16. Cada Administración Pública determinará las condiciones e instrumentos
+de creación de las sedes electrónicas, con sujeción a los principios de:
+a) Transparencia, publicidad, responsabilidad, calidad y seguridad
+b) Disponibilidad y accesibilidad
+c) Neutralidad e interoperabilidad
+d) Todas las anteriores
+
+17. ¿Qué se entiende por actuación administrativa automatizada?
+a) Cualquier actuación realizada íntegramente a través de medios
+electrónicos por una Administración Pública en el marco de un
+procedimiento administrativo y en la que haya intervenido de forma
+indirecta un empleado público.
+b) Cualquier acto o actuación realizada íntegramente a través de medios
+electrónicos por una Administración Pública en el marco de un
+procedimiento administrativo y en la que no haya intervenido de forma
+directa un empleado público.
+c) Cualquier acto realizad íntegramente a través de medios electrónicos
+por una Administración Pública en el marco de un procedimiento
+administrativo y en la que no haya intervenido de forma directa un
+empleado público.
+d) Ninguna es correcta
+
+18. En el ejercicio de la competencia en la actuación administrativa
+automatizada, cada Administración Pública podrá determinar los
+supuestos de utilización de algún sistema de firma siguiente:
+a) Sello electrónico de Administración Pública
+b) Código seguro de verificación vinculado a la Administración Pública
+c) A y b son correctas
+d) A y b son incorrectas
+
+TEMA 16
+
+85
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+19. Indica la falsa en relación al Intercambio electrónico de datos en
+entornos cerrados de comunicación:
+a) Los documentos electrónicos transmitidos en entornos cerrados de
+comunicaciones establecidos entre Administraciones Públicas, órganos,
+organismos públicos y entidades de derecho público, serán
+considerados válidos a efectos de autenticación e identificación de los
+emisores y receptores.
+b) Cuando los participantes en las comunicaciones pertenezcan a una
+misma Administración Pública, ésta determinará las condiciones y
+garantías por las que se regirá que, al menos, comprenderá la relación
+de emisores y receptores autorizados y la naturaleza de los datos a
+intercambiar.
+c) En todo caso deberá garantizarse la seguridad del entorno cerrado de
+comunicaciones y la protección de los datos que se transmitan.
+d) Todas son verdaderas
+
+20. Con el fin de favorecer la interoperabilidad y posibilitar la verificación
+automática de la firma electrónica de los documentos electrónicos,
+cuando una Administración utilice sistemas de firma electrónica distintos
+de aquellos basados en certificado electrónico reconocido o cualificado,
+para remitir o poner a disposición de otros órganos, organismos
+públicos, entidades de Derecho Público o Administraciones la
+documentación firmada electrónicamente, podrá:
+a) Superponer un sello electrónico basado en un certificado electrónico
+reconocido o cualificado.
+b) Superponer un sello electrónico basado en un certificado electrónico
+c) Superponer un sello electrónico
+d) Ninguna es correcta
+
+21. Todos los documentos utilizados en las actuaciones administrativas se
+almacenarán:
+a) Por medios electrónicos, salvo cuando no sea posible
+b) Por medios electrónicos siempre
+c) Por medios físicos
+d) Ninguna es correcta
+
+22. ¿Dónde deberán conservarse los documentos electrónicos que
+contengan actos administrativos que afecten a derechos o intereses de
+los particulares?
+a) Deberán conservarse en soportes de esta naturaleza, en el mismo
+formato a partir del que se originó el documento.
+b) Deberán conservarse en soportes de esta naturaleza, en un formato
+que asegure la identidad e integridad de la información necesaria para
+reproducirlo.
+c) A y b son correctas
+d) Ninguna es correcta
+
+TEMA 16
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+23. Los medios o soportes en que se almacenen documentos, deberán contar
+con medidas de seguridad, de acuerdo con lo previsto en:
+a) El Esquema Nacional de Seguridad
+b) El Esquema de Seguridad
+c) En la Seguridad Nacional
+d) Ninguna es correcta
+86
+
+24. ¿Qué garantizan las medidas de seguridad de los medios o soportes en
+que se almacenen documentos?
+a) La integridad, autenticidad y confidencialidad de los documentos
+almacenados
+b) La calidad y protección de los documentos almacenados
+c) La conservación de los documentos almacenados
+d) Todas son correctas
+
+25. ¿ Y qué asegurarán?
+a) La identificación de los usuarios y el control de accesos
+b) El cumplimiento de las garantías previstas en la legislación de
+protección de datos.
+c) La recuperación y conservación a largo plazo de los documentos
+electrónicos producidos por las Administraciones Públicas que así lo
+requieran, de acuerdo con las especificaciones sobre el ciclo de vida de
+los servicios y sistemas utilizados.
+d) Todos son correctos
+
+26. El funcionamiento electrónico del sector público, se regula de forma
+expresa en el capítulo de:
+a) En el Título I, capítulo V de la LRJSP.
+b) En el Título Preliminar, Capítulo V de la LRJSP.
+c) En el Título I capítulo V de la LPAC.
+d) En el título Preliminar capítulo V de la LPAC.
+De las relaciones electrónicas entre las AAPP.
+27. El conjunto de criterios recomendaciones en materia de seguridad,
+conservación y normalización de la información, de los formatos y de las
+aplicaciones que deberán ser tenidos en cuenta por las Administraciones
+públicas se denomina:
+a) Esquema Nacional de Seguridad.
+b) Esquema Nacional de Interoperabilidad.
+c) Esquema Nacional de operaciones.
+d) Esquema nacional informático.
+
+TEMA 16
+
+87
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+28. Respecto a las transmisiones de datos entre Administraciones Públicas:
+a) cada Administración deberá facilitar el acceso de las restantes
+Administraciones Públicas a los datos relativos a los interesados que
+obren en su poder
+b) la disponibilidad de los datos estará limitada estrictamente a aquellos
+que son requeridos a los interesados por las restantes Administraciones
+para la tramitación y resolución de los procedimientos y actuaciones de
+su competencia, de acuerdo con la normativa reguladora de los mismos
+c) la Administración General del Estado, las Administraciones
+Autonómicas y las Entidades Locales, adoptarán las medidas
+necesarias e incorporarán en sus respectivos ámbitos las tecnologías
+precisas para posibilitar la interconexión de sus redes
+d) todas son correctas
+
+29. Tiene por objeto establecer la política de seguridad en la utilización de
+medios electrónicos en el ámbito de la presente Ley, y está constituido
+por los principios básicos y requisitos mínimos que garanticen
+adecuadamente la seguridad de la información tratada:
+a) el Esquema Nacional de Interoperabilidad
+b) el Esquema Nacional Sectorial
+c) el Esquema Nacional de Seguridad
+d) el Esquema Nacional Integrado
+
+30. No es correcto respecto a la reutilización de sistemas y aplicaciones de
+propiedad de la Administración:
+a) las Administraciones pondrán a disposición de cualquiera de ellas que
+lo solicite las aplicaciones, desarrolladas por sus servicios o que hayan
+sido objeto de contratación y de cuyos derechos de propiedad
+intelectual sean titulares, salvo que la información a la que estén
+asociadas sea objeto de especial protección por una norma
+b) las Administraciones cedentes y cesionarias no podrán acordar la
+repercusión del coste de adquisición o fabricación de las aplicaciones
+cedidas
+c) las aplicaciones podrán ser declaradas como de fuentes abiertas,
+cuando de ello se derive una mayor transparencia en el funcionamiento
+de la Administración Pública o se fomente con ello la incorporación de
+los ciudadanos a la Sociedad de la información
+d) las Administraciones Públicas, con carácter previo a la adquisición,
+desarrollo o al mantenimiento a lo largo de todo el ciclo de vida de una
+aplicación, deberán consultar en el directorio general de aplicaciones si
+existen soluciones disponibles para su reutilización
+
+TEMA 16
+
+88
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+31. Respecto a la Transferencia de tecnología entre Administraciones no es
+correcto:
+a) las Administraciones Públicas mantendrán directorios actualizados de
+aplicaciones para su libre reutilización, de conformidad con lo dispuesto
+en el Esquema Nacional de Interoperabilidad
+b) la Administración General del Estado, mantendrá un directorio general
+de aplicaciones para su reutilización
+c) los directorios de las Administraciones Públicas no tendrán ninguna
+conexión con el directorio general de la Administración General del
+Estado
+d) la Administración General del Estado, prestará apoyo para la libre
+reutilización de aplicaciones e impulsará el desarrollo de aplicaciones,
+formatos y estándares comunes en el marco de los esquemas
+nacionales de interoperabilidad y seguridad
+
+32. El Título III de la Ley 40/2015 se denomina:
+a) Relaciones interadministrativas
+b) Organización y funcionamiento del sector público institucional
+c) Administración General del Estado
+d) Relaciones de cooperación
+
+33. El Título III de la Ley 40/2015 comprende los artículos:
+a) 109 a 133
+b) 125 a 160
+c) 140 a 158
+d) 136 a 163
+
+SOLUCIONES
+1	A
+2	C
+3	A
+4	C
+5	C
+6	A
+7	C
+8	C
+9	D
+10	A
+11	B
+12	D
+13	B
+14	C
+15	A
+16	D
+17	B
+18	C
+19	D
+20	A
+21	A
+22	C
+23	A
+24	D
+25	D
+26	B
+27	B
+28	D
+29	C
+30	B
+31	C
+32	A
+33	C

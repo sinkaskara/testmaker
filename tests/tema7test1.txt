@@ -1,0 +1,27 @@
+TEST La política regional comunitaria. 3 preguntas.
+
+89
+
+1) ¿Cuáles son los instrumentos financieros de la Política Regional?
+a) Los fondos estructurales.
+b) El Fondo de Cohesión.
+c) Los Fondos.
+d) Todas son correctas.
+
+2) ¿Cómo se define una región a nivel europeo?
+a) Según la nomenclatura de unidades territoriales estadísticas conocida por la
+sigla NUTS.
+b) RUP.
+c) RNEU.
+d) MEC.
+
+3) ¿Qué se entiende por regiones ultraperiféricas?
+a) Zonas de la Unión Europea que están a más de 10 kilómetros del continente.
+b) Zonas pertenecientes a la UE pero lejos del continente europeo.
+c) Zonas marginadas en la Unión Europea.
+d) Todas son correctas.
+
+SOLUCIONES
+1	D
+2	A
+3	B

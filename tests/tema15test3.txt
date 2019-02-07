@@ -1,0 +1,491 @@
+1) La evolución de la calidad viene marcada por varias etapas:
+a) Inspección de la calidad y calidad total.
+b) Control de calidad.
+c) Aseguramiento de la calidad.
+d) Todas son etapas.
+
+TEMA 15
+
+145
+
+ING. INDUSTRIALES
+
+CA DE CANARIAS
+
+2) La evolución de la calidad viene marcada por varias etapas, la etapa inspección
+consistía en:
+a) El producto se comprobaba al final de la producción, se rechaza lo defectuoso
+pero no se contempla la mejora para no producir errores.
+b) Se controla el proceso utilizando técnicas de muestreo estadístico.
+c) Aparece el concepto de “autocontrol”, cada persona tiene los medios necesarios
+para controlar lo que produce y de este modo responde de la calidad que
+obtiene.
+d) Los dos sistemas anteriores no son suficientes, se introduce el concepto de
+“prevención”. Hay que garantizar la calidad desde el proyecto, las materias
+primas, los componentes, el procedimiento de distribución, servicio post-venta.
+
+3) Se entiende por mejora continua:
+a) La totalidad de las características de un producto o servicio que soportan su
+capacidad para satisfacer las necesidades establecidas o implícitas.
+b) Mejora continuada de procesos que conduce al logro de niveles sobresalientes
+de rendimiento mediante un cambio incremental.
+c) Propiedad o conjunto de propiedades inherentes a algo, que permiten juzgar
+su valor.
+d) Ninguna es correcta.
+
+4) Se entiende por proceso:
+a) Conjunto de actividades que interactúan entre sí donde la salida de una actividad
+se convierte en entrada de otra. Los procesos añaden valor transformado
+elementos de entrada en resultados utilizando recursos.
+b) Conjunto de propiedades y características de un producto, proceso o servicio, que
+le confiere su aptitud para satisfacer necesidades establecidas o implícitas.
+c) Propiedad o conjunto de propiedades inherentes a algo, que permiten juzgar
+su valor.
+d) La totalidad de las características de un producto o servicio que soportan su
+capacidad para satisfacer las necesidades establecidas o implícitas.
+
+5) La Calidad Total (TQ) asume todos los ingredientes de la Gestión Integral de la
+Calidad y la amplía con los siguientes criterios (señala el falso):
+a) La figura del cliente es importantísima en sus dos vertientes, cliente interno y
+externo.
+b) La calidad es sólo responsabilidad del departamento de calidad.
+c) Se considera no solo la calidad del producto o servicio, sino de todas las
+actividades de la organización.
+d) El factor humano es fundamental (formación, medios apropiados, motivación).
+
+TEMA 15
+
+146
+
+ING. INDUSTRIALES
+
+CA DE CANARIAS
+
+6) Conforme a la calidad desde la Administración Pública, en la misma se
+proporcionan servicios que tienen unas características distintas a los
+productos, una de ellas es la intangibilidad que consiste en:
+a) Es la diferencia fundamental, puesto que el servicio no se puede medir, pesar, no
+se toca.
+b) El servicio se produce o fabrica en el mismo tiempo que se consume, no hay
+periodo de tiempo que permita introducir variables.
+c) No se puede enjuiciar separadamente porque influyen muchas circunstancias:
+el lugar donde se da, si es cómodo o no, si hay ruido, tranquilidad, el tiempo de
+espera, el modo de darlo.
+d) Cada acto informativo es único en sí mismo, irrepetible, porque no se emplea la
+misma terminología, no se está con el mismo estado de ánimo. Cuando se finaliza
+el acto, no se puede modificar para bien o para mal, se puede aprender de cada
+uno de ellos.
+
+7) Algunos componentes básicos de la calidad son:
+a) Fomentar la utilización de los medios humanos.
+b) Hacer las cosas bien a la primera.
+c) Prevenir errores.
+d) Todas son correctas.
+
+8) Entre las diversas definiciones de calidad existentes, William Edwards Deming
+la define como:
+a) Calidad es satisfacción del cliente.
+b) Cumplir especificaciones.
+c) Adecuación al uso previsto.
+d) La calidad como resultado de la interacción de dos dimensiones: dimensión
+subjetiva (lo que el cliente quiere) y dimensión objetiva (lo que se ofrece).
+
+9) Se entiende norma como:
+a) Examen sistemático e independiente de la eficiencia del sistema de calidad o de
+alguna de sus partes.
+b) La especificación técnica de aplicación repetitiva o continuada cuya observancia
+no es obligatoria, establecer con participación de todas las partes interesadas,
+que aprueba un organismo reconocido, a nivel nacional o internacional, por la
+actividad normativa.
+c) Conjunto de la estructura, responsabilidades, actividades, recursos y
+procedimientos en una organización, que ésta establece para llevar a cabo la
+gestión de su calidad.
+d) Ninguna es correcta.
+
+TEMA 15
+
+ING. INDUSTRIALES
+
+CA DE CANARIAS
+
+10) Se entiende como Sistema de calidad:
+a) La especificación técnica de aplicación repetitiva o continuada cuya observancia
+no es obligatoria, establecer con participación de todas las partes interesadas,
+que aprueba un organismo reconocido, a nivel nacional o internacional, por la
+actividad normativa.
+b) Examen sistemático e independiente de la eficiencia del sistema de calidad o de
+alguna de sus partes.
+147
+
+c) Conjunto de la estructura, responsabilidades, actividades, recursos y
+procedimientos en una organización, que ésta establece para llevar a cabo la
+gestión de su calidad.
+d) Ninguna es correcta.
+
+11) La calidad total se implanta como medio de la gestión de la calidad total, por
+lo tanto, se diferencian en que:
+a) TQ, siendo una filosofía sobre cómo interpretar el concepto de calidad, TQM, que
+es una forma de implementarla.
+b) TQM, siendo una filosofía o un punto de vista sobre cómo interpretar el concepto
+de calidad, QM, que es una forma de implementarla.
+c) TQ, siendo un punto de vista sobre cómo interpretar el concepto de calidad, TQM,
+que es una forma de implementarla.
+d) A y c son correctas.
+12) ¿Cuál es el objetivo de la calidad total?
+a) Satisfacer las necesidades del cliente, tanto interno como externo.
+b) Obtener los mejores resultados al coste más bajo.
+c) Obtener unos resultados medios a un coste medio.
+d) Todas son falsas.
+
+13) En relación a la norma ISO 9001 es cierto afirmar que:
+a) Es un modelo de excelencia.
+b) Es una herramienta de evaluación y mejora.
+c) Es un estándar en el que se incluyen los diferentes requisitos mínimos que debe
+tener un Sistema de Gestión de Calidad.
+d) Ninguna es correcta.
+
+14) ISO es:
+a) Un principio de calidad.
+b) Una red de organismos nacionales de normalización.
+c) Un modelo de excelencia.
+d) El ciclo de mejora.
+
+TEMA 15
+
+ING. INDUSTRIALES
+
+CA DE CANARIAS
+
+15) ¿A qué hace referencia las siglas ISO?
+a) Organización Internacional de Normalización.
+b) International Organization for Standardization.
+c) Las dos anteriores son correctas.
+d) Ninguna es correcta.
+
+148
+
+16) ¿Cuál es la última versión de la norma ISO 9001?
+a) 2008
+b) 2010
+c) 2015
+d) 2018
+17) ISO 9001 se entiende como:
+a) Una norma de sistemas de gestión de calidad reconocida internacionalmente.
+b) Un modelo de excelencia para la autoevaluación.
+c) Una norma de sistemas de gestión de calidad española.
+d) Ninguna es correcta.
+
+18) La ISO 9001:2015 se basa en ___ principios de gestión de calidad:
+a)
+b)
+c)
+d)
+
+5
+6
+7
+8
+
+19) Entre los principios de la ISO 9001:2015, están los de:
+a) Toma de decisiones basadas en la evidencia.
+b) Enfoque basado en procesos, enfoque al cliente.
+c) Liderazgo, mejora.
+d) Todos los anteriores más compromiso de las personas y gestión de las
+relaciones.
+20) El enfoque primordial de la gestión de la calidad es la satisfacción de los
+requisitos de los clientes y esforzarse en exceder sus expectativas. Se refiere
+al principio de gestión de calidad:
+a) Mejora.
+b) Liderazgo.
+c) Compromiso de las personas.
+d) Enfoque al cliente.
+21) Resultados consistentes y predecibles se alcanzan de manera más eficaz y
+eficiente cuando se entienden y gestionan actividades como procesos
+interrelacionados que funcionan como un sistema coherente. Se refiere al
+principio de gestión de calidad:
+a) Enfoque al cliente.
+b) Enfoque a procesos.
+c) Gestión de las relaciones.
+d) Ninguna es correcta.
+
+TEMA 15
+
+ING. INDUSTRIALES
+
+CA DE CANARIAS
+
+22) El principio subraya la importancia de los proveedores de la Organización en
+la gestión de las relaciones, destacando la importancia de gestionar otras
+relaciones a determinar por la Organización. ¿A qué principio de la gestión de
+la calidad hace referencia?
+a) Liderazgo.
+b) Gestión de las relaciones.
+c) Toma de decisiones basadas en la evidencia.
+d) Mejora.
+149
+
+23) Con respecto a información documentada, ¿en qué momento se refiere a
+procedimientos y a manuales?
+a) Cuando se debe conservar la información documentada.
+b) Cuando se debe mantener información documentada.
+c) En ningún momento.
+d) En ciertas condiciones.
+
+24) ¿Cómo se llama el autor del ciclo de mejora PDCA?
+a) Edwards Deming.
+b) Walter A. Shewhart.
+c) Armand V. Feigenbaum.
+d) Juran.
+
+25) ¿Con qué otro nombre se le conoce al ciclo PDCA?
+a) Ciclo PHVA.
+b) Ciclo PHCA.
+c) Ciclo PDVA.
+d) Ninguna es correcta.
+
+26) ¿Qué fases componen el Círculo Deming de la mejora continua?
+a) Planificar, diseñar, hacer y vender.
+b) Planificar, hacer, verificar y actuar.
+c) Pensar, diseñar, fabricar y comercializar.
+d) Pensar, hacer, repensar y fabricar.
+
+27) El concepto de Excelencia en el modelo EFQM se define “ como la forma de
+conseguir prácticas sobresalientes en la gestión con logros de resultados, a
+través de la aplicación de conceptos fundamentales”, varios de los conceptos
+son:
+a) Innovación y mejora.
+b) Gestión por procesos.
+c) Orientación a resultados.
+d) Todas son correctas.
+
+28) El Modelo EFQM de Excelencia está integrado por varios componentes:
+a) Esquema lógico REDER.
+b) Criterios del modelo.
+c) Valores fundamentales de la excelencia.
+d) Todas son correctas.
+
+TEMA 15
+
+ING. INDUSTRIALES
+
+CA DE CANARIAS
+
+29) El modelo EFQM ha sido desarrollado por:
+a) La Fundación Europea para Gestión de la Calidad.
+b) European Foundation for Quality Management.
+c) Las dos anteriores son correctas.
+d) Ninguna es correcta.
+150
+
+30) El modelo EFQM no es:
+a) La herramienta no es normativa.
+b) La herramienta no es prescriptiva.
+c) Las dos anteriores son incorrectas.
+d) A y b son correctas.
+31) En el modelo EFQM hay dos grupos de criterios:
+a) Resultados y Liderazgo.
+b) Resultados y Excelencia.
+c) Agentes facilitadores y Resultados.
+d) Procesos y Resultados.
+32) El modelo EFQM se basa en ____criterios:
+a) 8
+b) 9
+c) 10
+d) 11
+33) ¿Cuál es el alcance del modelo EFQM?
+a) Se aplica a toda la organización, ya que es un modelo de gestión global y esta es
+su principal diferencia con la normativa ISO 9000.
+b) Se aplica a la parte interna de la organización.
+c) Se aplica a la parte externa.
+d) Se aplica sólo al producto.
+34) El principio Crear un futuro sostenible se encuentra en:
+a) La norma ISO 9001:2015.
+b) El modelo EFQM.
+c) El modelo CAF.
+d) El modelo EVAM.
+35) El principio en el que las organizaciones excelentes, incrementan sus
+capacidades gestionando el cambio de manera eficaz dentro y fuera de ellas
+se denomina y se encuentra en:
+a) Desarrollar la capacidad de la organización, en la norma ISO 9001:2015.
+b) Desarrollar la capacidad de la organización, en el modelo EFQM.
+c) Crear un futuro sostenible, en el modelo CAF.
+d) Añadir valor para los clientes, en el modelo EVAM.
+
+TEMA 15
+
+ING. INDUSTRIALES
+
+CA DE CANARIAS
+
+36) Las organizaciones excelentes, recogen los derechos, necesidades y
+expectativas de los grupos de interés incorporándolas al desarrollo y revisión
+de su estrategia y mecanismos de apoyo, manteniéndose atentas a cualquier
+cambio, esta práctica pertenece al principio de excelencia:
+a) Mantener en el tiempo resultados sobresalientes.
+b) Mejora.
+c) Alcanzar el éxito mediante el talento de las personas.
+d) Ninguna es correcta.
+151
+
+37) ¿En qué colectivos el modelo EFQM genera resultados en los procesos de
+satisfacción?
+a) En la sociedad, empleados y clientes.
+b) Sociedad y clientes.
+c) Clientes y empleados.
+d) Sociedad y empleados.
+
+38) Los criterios Agentes Facilitadores en el modelo EFQM son:
+a) Procesos, personas, alianzas y recursos, estrategia, liderazgo.
+b) Clientela, personas, sociedad, resultados clave.
+c) Procesos, personas, estrategia y liderazgo.
+d) ninguna es correcta.
+
+39) Según
+el
+modelo
+EFQM.
+El
+criterio
+______________________________________ indica que las organizaciones
+excelentes tienen líderes que dan forma al futuro y lo hacen realidad, actuando
+como modelo de referencia de sus valores y principios éticos e inspirando
+confianza en todo momento. Son flexibles, permitiendo a la organización
+anticiparse y reaccionar de manera oportuna con el fin de asegurarse un éxito
+continuo:
+a) Liderazgo.
+b) Procesos.
+c) Estrategia.
+d) Recursos.
+
+40) Los líderes de las organizaciones excelentes: Aseguran el futuro de la
+organización al definir y comunicar su objeto fundamental de servicio público
+que constituye el fundamento de la Visión, Misión, valores, principios éticos y
+cultura. Se refiere a un:
+a) Criterio.
+b) Subcriterio del criterio liderazgo.
+c) Subcriterio del criterio estrategia.
+d) Subcriterio del criterio recursos.
+41) Estrategia es un criterio englobado dentro del grupo:
+a) Resultados.
+b) Aprendizaje.
+c) Agentes facilitadores.
+d) Todas son correctas.
+
+TEMA 15
+
+42) No es un subcriterio del criterio Personas:
+a) Los planes de gestión de las personas apoyan la estrategia de la organización.
+b) Las personas se comunican eficazmente en toda la organización.
+c) Recompensa, reconocimiento y atención a las personas de la organización.
+d) Las relaciones con los clientes se gestionan y mejoran.
+
+43) Utilizan el análisis de la demanda, estudios del entorno y, en su caso, de
+mercado o sector de actuación, las encuestas de clientes y otras formas de
+información para anticipar e identificar mejoras destinadas a fortalecer la
+cartera de productos y servicios públicos.
+a) Es un subcriterio del criterio “Procesos, Productos y Servicios”.
+b) Es un subcriterio del criterio “Estrategia”.
+c) Es un subcriterio del criterio “Personas”.
+d) Es un subcriterio del criterio “Liderazgo”.
+44) Las percepciones que de la organización tienen los clientes pueden obtenerse
+de:
+a) Una serie de fuentes como, por ejemplo, encuestas, quejas, etc.
+b) Una serie de fuentes como, por ejemplo, calificaciones de la organización como
+proveedora de servicios públicos.
+c) Felicitaciones.
+d) Todas son correctas.
+45) Según el esquema lógico REDER, el enfoque es:
+a) Elemento que trata de lo que hace una organización para valorar y examinar el
+enfoque y su despliegue en términos de medición, aprendizaje y mejora.
+b) Lo que se hace para implantar sistemáticamente el enfoque en las áreas
+consideradas relevantes para la gestión.
+c) Forma o manera general de que algo tenga lugar. El enfoque se compone de
+procesos y acciones estructuradas, integrados en un marco de principios y
+políticas.
+d) Ninguna es correcta.
+46) Los elementos del modelo EVAM son:
+a) Cinco ejes.
+b) Personas, procesos, alianzas y recursos, resultados.
+c) Política, planificación y estrategia a través del liderazgo.
+d) Todas son correctas.
+
+47) El Sistema de Sugerencias y Reclamaciones del Gobierno de Canarias se
+regula:
+a) En el Decreto 161/2002.
+b) Decreto 220/2000.
+c) Decreto 105/2000.
+d) Ninguna es correcta.
+
+TEMA 15
+
+ING. INDUSTRIALES
+
+CA DE CANARIAS
+
+48) La Carta de Servicios es:
+a) Un documento público.
+b) Un documento accesible, sencillo y claro que proporciona a los ciudadanos
+información acerca de los servicios que se prestan en un órgano administrativo.
+c) Documento público, en el que se le pone énfasis en los estándares de calidad
+que, de manera explícita, se compromete a cumplir e incluyendo formas de
+participación ciudadana.
+d) Todas son correctas.
+153
+
+49) ¿Mediante qué Decreto de la CA de Canarias se establece el Marco para la
+Innovación y Mejora?
+a) 68/2015, de 30 abril.
+b) 220/2000, de 4 de diciembre.
+c) En el Decreto 161/2002.
+d) Decreto 220/2000.
+
+SOLUCIONES
+1	D
+2	A
+3	B
+4	A
+5	B
+6	A
+7	D
+8	A
+9	B
+10	C
+11	D
+12	A
+13	C
+14	B
+15	C
+16	C
+17	A
+18	C
+19	D
+20	D
+21	B
+22	B
+23	B
+24	A
+25	A
+26	B
+27	D
+28	D
+29	C
+30	D
+31	C
+32	B
+33	A
+34	B
+35	B
+36	A
+37	A
+38	A
+39	A
+40	B
+41	C
+42	D
+43	A
+44	D
+45	C
+46	D
+47	B
+48	D
+49	A
