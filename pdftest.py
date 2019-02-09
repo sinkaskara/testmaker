@@ -14,11 +14,32 @@ soluciones = {}
 respuestas_usuario = {}
 preguntas_fallidas = []
 
-def log_test():
+def log_test(fecha_inicio, tema, test, modo):
+    fecha_fin = datetime.datetime.now()
+    duracion_test = fecha_fin - fecha_inicio
+    print("Duracion test:")
+    print(datetime.time(0, 0, duracion_test.seconds).strftime('%H:%M:%S'))
+
     script_dir = os.path.dirname(__file__) # <-- absolute dir the script is in
     abs_file_path = os.path.join(script_dir, "history.log")
     f = open(abs_file_path, "a")
-    f.write(str(datetime.datetime.now()) + ";" + str(len(preguntas_fallidas)))
+    if modo == "repaso":
+        aciertos = 0
+        fallos = 0
+        no_contestadas = 0
+    else:
+        aciertos, fallos, no_contestadas = correccion_silenciosa()
+
+    f.write("\n" + datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S') + ";"
+            + modo + ";"
+            + tema + ";"
+            + test + ";"
+            + datetime.time(0, 0, duracion_test.seconds).strftime('%H:%M:%S') + ";"
+            + str(len(soluciones)) + ";"
+            + str(aciertos) + ";"
+            + str(fallos) + ";"
+            + str(no_contestadas) + ";"
+            + str(respuestas_usuario))
 
 
 def parsear_fichero(fichero_test):
@@ -104,6 +125,23 @@ def correccion():
 
     print("Tu nota es: " + str(nota))
 
+def correccion_silenciosa():
+    aciertos = 0
+    fallos = 0
+    no_contestadas = 0
+
+    for clave, pregunta in preguntas.items():
+        if respuestas_usuario[clave].lower() == "z":
+            # Pregunta sin respuesta
+            no_contestadas = no_contestadas + 1
+            continue
+        if soluciones[clave].lower() == respuestas_usuario[clave].lower():
+            aciertos = aciertos + 1
+        else:
+            fallos = fallos + 1
+
+    return aciertos, fallos, no_contestadas
+
 
 def repaso():
     for clave, pregunta in preguntas.items():
@@ -120,17 +158,22 @@ def repaso():
 
 
 def repasar_fallos():
-    print(preguntas_fallidas)
-    for clave in preguntas_fallidas:
-        bold(preguntas[clave])
-        for respuesta in respuestas[clave]:
-            if re.match("^[" + soluciones[clave].lower() + "]+", respuesta.lower()):
-                warning(respuesta)
-            else:
-                print(respuesta)
-        print("")
-        input("Pulsa Enter para continuar")
-        print("\n\n\n")
+    respuesta_usuario = str(input("¿quieres repasar los fallos? (y/n):").lower().strip())
+    while not re.match("^[yn]+$", respuesta_usuario):
+        respuesta_usuario = str(input("¿quieres repasar los fallos? (y/n):").lower().strip())
+
+    if respuesta_usuario == "y":
+        print(preguntas_fallidas)
+        for clave in preguntas_fallidas:
+            bold(preguntas[clave])
+            for respuesta in respuestas[clave]:
+                if re.match("^[" + soluciones[clave].lower() + "]+", respuesta.lower()):
+                    warning(respuesta)
+                else:
+                    print(respuesta)
+            print("")
+            input("Pulsa Enter para continuar")
+            print("\n\n\n")
 
 
 def uno_a_uno():
@@ -160,13 +203,6 @@ def uno_a_uno():
     print("Fin del test. Correccion:")
     correccion()
 
-    respuesta_usuario = str(input("¿quieres repasar los fallos? (y/n):").lower().strip())
-    while not re.match("^[yn]+$", respuesta_usuario):
-        respuesta_usuario = str(input("¿quieres repasar los fallos? (y/n):").lower().strip())
-
-    if respuesta_usuario == "y":
-        repasar_fallos()
-
 def examen():
     # Empieza el test al usuario
     for clave, pregunta in preguntas.items():
@@ -181,13 +217,6 @@ def examen():
 
     print("Fin del test. Correccion:")
     correccion()
-
-    respuesta_usuario = str(input("¿quieres repasar los fallos? (y/n):").lower().strip())
-    while not re.match("^[yn]+$", respuesta_usuario):
-        respuesta_usuario = str(input("¿quieres repasar los fallos? (y/n):").lower().strip())
-
-    if respuesta_usuario == "y":
-        repasar_fallos()
 
 def validar_test():
     if len(preguntas) != len(soluciones):
@@ -221,15 +250,15 @@ def principal():
     validar_test()
     print("\n\n\n")
 
+    fecha_inicio = datetime.datetime.now()
     if modo == "repaso":
         repaso()
     elif modo == "one":
         uno_a_uno()
-        log_test()
     else:
         examen()
-        log_test()
-
+    repasar_fallos()
+    log_test(fecha_inicio, tema, test, modo)
 
     print("Fin del test")
 
