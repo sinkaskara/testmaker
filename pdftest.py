@@ -92,6 +92,7 @@ def correccion():
         if respuestas_usuario[clave].lower() == "z":
             # Pregunta sin respuesta
             print(clave + " No Contestada")
+            preguntas_fallidas.append(clave)
             continue
         if soluciones[clave].lower() == respuestas_usuario[clave].lower():
             print(clave + " Acierto")
@@ -203,7 +204,7 @@ def principal():
     modo = input("¿Que modo quieres? (examen,repaso,one):")
     tema = input("¿Que tema deseas probar?:")
 
-    script_dir = os.path.dirname(__file__) #<-- absolute dir the script is in
+    script_dir = os.path.dirname(__file__) # <-- absolute dir the script is in
     rel_path = "tests/"
     abs_file_path = os.path.join(script_dir, rel_path)
 
@@ -224,10 +225,12 @@ def principal():
         repaso()
     elif modo == "one":
         uno_a_uno()
+        log_test()
     else:
         examen()
+        log_test()
 
-    log_test()
+
     print("Fin del test")
 
 
