@@ -41,21 +41,30 @@ def loadYaml(file):
 
   return result
 """
+
+
 def save_dict_to_file(dic, file_name):
-    f = open(file_name,'w')
-    f.write(str(dic))
-    f.close()
+    try:
+        f = open(file_name,'w')
+        f.write(str(dic))
+        f.close()
+    except Exception as error:
+        print("Hubo un problema guardando, no pasa nada, continuamos")
+        print(error)
+
 
 def load_dict_from_file(file_name):
     f = open(file_name,'r')
-    data=f.read()
+    data = f.read()
     f.close()
     return eval(data)
+
 
 def save_list_to_file(list, file_name):
     with open(file_name, 'w') as filehandle:
         for listitem in list:
             filehandle.write('%s\n' % listitem)
+
 
 def load_list_to_file(file_name):
     # define an empty list

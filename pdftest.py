@@ -17,33 +17,35 @@ preguntas_fallidas = []
 
 
 def log_test(fecha_inicio, fecha_fin, tema, test, modo):
-    duracion_test = fecha_fin - fecha_inicio
-    print("Duracion test: {}".format(duracion_test))
+    try:
+        duracion_test = fecha_fin - fecha_inicio
+        print("Duracion test: {}".format(duracion_test))
 
-    script_dir = os.path.dirname(__file__) # <-- absolute dir the script is in
-    abs_file_path = os.path.join(script_dir, "history.log")
-    f = open(abs_file_path, "a")
-    if modo == "repaso":
-        aciertos = 0
-        fallos = 0
-        no_contestadas = 0
-    else:
-        aciertos, fallos, no_contestadas = correccion_silenciosa()
+        script_dir = os.path.dirname(__file__) # <-- absolute dir the script is in
+        abs_file_path = os.path.join(script_dir, "history.log")
+        f = open(abs_file_path, "a")
+        if modo == "repaso":
+            aciertos = 0
+            fallos = 0
+            no_contestadas = 0
+        else:
+            aciertos, fallos, no_contestadas = correccion_silenciosa()
 
-    print('Time elapsed (hh:mm:ss.ms) {}'.format(duracion_test))
-    f.write("\n"
-            + fecha_inicio.strftime('%Y-%m-%d %H:%M:%S') + ";"
-            + datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S') + ";"
-            + '{}'.format(duracion_test) + ";"
-            + modo + ";"
-            + tema + ";"
-            + test + ";"
-            + str(len(soluciones)) + ";"
-            + str(aciertos) + ";"
-            + str(fallos) + ";"
-            + str(no_contestadas) + ";"
-            + str(respuestas_usuario))
-
+        f.write("\n"
+                + fecha_inicio.strftime('%Y-%m-%d %H:%M:%S') + ";"
+                + datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S') + ";"
+                + '{}'.format(duracion_test) + ";"
+                + modo + ";"
+                + tema + ";"
+                + test + ";"
+                + str(len(soluciones)) + ";"
+                + str(aciertos) + ";"
+                + str(fallos) + ";"
+                + str(no_contestadas) + ";"
+                + str(respuestas_usuario))
+    except Exception as error:
+        print("Hubo un problema logueando, no pasa nada, continuamos")
+        print(error)
 
 def parsear_fichero(fichero_test):
 
@@ -69,7 +71,7 @@ def parsear_fichero(fichero_test):
             if question_match:
                 current_question = question_match.group().replace(". ", "")
                 current_question = current_question.replace(") ", "")
-                print("Line -> " + current_question + " -> " + line)
+                #print("Line -> " + current_question + " -> " + line)
                 preguntas[current_question] = line
                 question_mode = True
                 answer_mode = False
@@ -179,7 +181,7 @@ def repasar_fallos():
             print("\n\n\n")
 
 
-def uno_a_uno():
+def uno_a_uno(tema, test):
     # Empieza el test al usuario
     for clave, pregunta in preguntas.items():
         bold(pregunta)
@@ -190,13 +192,11 @@ def uno_a_uno():
             print("Respuesta ya registrada, pasamos a la siguiente")
             continue
         respuesta_usuario = str(input("Respuesta:").lower().strip())
-        while not re.match("^[abcdesz]{1,1}$", respuesta_usuario):
+        while not re.match("^[abcdez]{1,1}$", respuesta_usuario):
             respuesta_usuario = str(input("Respuesta:").lower().strip())
-        if respuesta_usuario.lower() == "s":
-            save_dict_to_file(respuestas_usuario, "respuestas_usuario.txt")
-            print("Answers saved. Bye!")
-            exit(0)
         respuestas_usuario[clave] = respuesta_usuario
+        # Always save up to last question
+        save_dict_to_file(respuestas_usuario, "respuestas_tema"+tema+"test"+test+".txt")
 
         # Comprobar la respuesta sobre la marcha
         if respuestas_usuario[clave].lower() == "z":
@@ -265,17 +265,18 @@ def principal():
     if modo == "repaso":
         repaso()
     elif modo == "one":
-        uno_a_uno()
+        uno_a_uno(tema, test)
     elif modo == "load":
-        respuestas_usuario.update(load_dict_from_file("respuestas_usuario.txt"))
-        uno_a_uno()
+        respuestas_usuario.update(load_dict_from_file("respuestas_tema"+tema+"test"+test+".txt"))
+        uno_a_uno(tema, test)
     else:
         examen()
     fecha_fin = datetime.datetime.now()
-    repasar_fallos()
+    print("Fin del tema " + tema + " test " + test)
     log_test(fecha_inicio, fecha_fin, tema, test, modo)
+    repasar_fallos()
 
-    print("Fin del test")
+    print("Salida del tema " + tema + " test " + test)
 
 
 principal()
