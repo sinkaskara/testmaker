@@ -7,6 +7,7 @@ import re
 import os
 import datetime
 from utils import warning, bold
+from utils import load_dict_from_file, save_dict_to_file
 
 preguntas = {}
 respuestas = {}
@@ -14,11 +15,10 @@ soluciones = {}
 respuestas_usuario = {}
 preguntas_fallidas = []
 
-def log_test(fecha_inicio, tema, test, modo):
-    fecha_fin = datetime.datetime.now()
+
+def log_test(fecha_inicio, fecha_fin, tema, test, modo):
     duracion_test = fecha_fin - fecha_inicio
-    print("Duracion test:")
-    print(datetime.time(0, 0, duracion_test.seconds).strftime('%H:%M:%S'))
+    print("Duracion test: {}".format(duracion_test))
 
     script_dir = os.path.dirname(__file__) # <-- absolute dir the script is in
     abs_file_path = os.path.join(script_dir, "history.log")
@@ -30,11 +30,14 @@ def log_test(fecha_inicio, tema, test, modo):
     else:
         aciertos, fallos, no_contestadas = correccion_silenciosa()
 
-    f.write("\n" + datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S') + ";"
+    print('Time elapsed (hh:mm:ss.ms) {}'.format(duracion_test))
+    f.write("\n"
+            + fecha_inicio.strftime('%Y-%m-%d %H:%M:%S') + ";"
+            + datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S') + ";"
+            + '{}'.format(duracion_test) + ";"
             + modo + ";"
             + tema + ";"
             + test + ";"
-            + datetime.time(0, 0, duracion_test.seconds).strftime('%H:%M:%S') + ";"
             + str(len(soluciones)) + ";"
             + str(aciertos) + ";"
             + str(fallos) + ";"
@@ -66,7 +69,7 @@ def parsear_fichero(fichero_test):
             if question_match:
                 current_question = question_match.group().replace(". ", "")
                 current_question = current_question.replace(") ", "")
-                #print("Line -> " + current_question + " -> " + line)
+                print("Line -> " + current_question + " -> " + line)
                 preguntas[current_question] = line
                 question_mode = True
                 answer_mode = False
@@ -182,9 +185,17 @@ def uno_a_uno():
         bold(pregunta)
         for respuesta in respuestas[clave]:
             print(respuesta)
+        if clave in respuestas_usuario:
+            # In this case have just loaded a file
+            print("Respuesta ya registrada, pasamos a la siguiente")
+            continue
         respuesta_usuario = str(input("Respuesta:").lower().strip())
-        while not re.match("^[abcdez]{1,1}$", respuesta_usuario):
+        while not re.match("^[abcdesz]{1,1}$", respuesta_usuario):
             respuesta_usuario = str(input("Respuesta:").lower().strip())
+        if respuesta_usuario.lower() == "s":
+            save_dict_to_file(respuestas_usuario, "respuestas_usuario.txt")
+            print("Answers saved. Bye!")
+            exit(0)
         respuestas_usuario[clave] = respuesta_usuario
 
         # Comprobar la respuesta sobre la marcha
@@ -230,7 +241,7 @@ def validar_test():
 def principal():
 
     print("Heyyyyy")
-    modo = input("¿Que modo quieres? (examen,repaso,one):")
+    modo = input("¿Que modo quieres? (examen,repaso,one,load):")
     tema = input("¿Que tema deseas probar?:")
 
     script_dir = os.path.dirname(__file__) # <-- absolute dir the script is in
@@ -255,10 +266,14 @@ def principal():
         repaso()
     elif modo == "one":
         uno_a_uno()
+    elif modo == "load":
+        respuestas_usuario.update(load_dict_from_file("respuestas_usuario.txt"))
+        uno_a_uno()
     else:
         examen()
+    fecha_fin = datetime.datetime.now()
     repasar_fallos()
-    log_test(fecha_inicio, tema, test, modo)
+    log_test(fecha_inicio, fecha_fin, tema, test, modo)
 
     print("Fin del test")
 
@@ -269,7 +284,7 @@ principal()
 # Tema 28 Test Mezclados 1 no se puede parsear, es imagen.
 # Tema 28 Ademas hay muchisimos mas tests dentro de las carpetas de la ley!!
 # Tema 25 monton de tests en la carpeta de actualización al nuevo estatuto por partes
-# Tema 24 EBEP test 312 preguntas
-# TESTs extra del tema 20,21,22 ¡¡son montones!!
+# Tema 24 EBEP test 312 preguntas. Al parsearlo se ve mal
+# Ya se metieron!!! PERO FALTAN LOS 4 PDFS de la carpeta TESTS NUEVOS (mal parseados). TESTs extra del tema 20,21,22
 # TESTs extra del tema 13 test ley transparencia canaria (no creo que valga la pena)
 # Tema 1 Falta por meter Test extra titulo preliminar
