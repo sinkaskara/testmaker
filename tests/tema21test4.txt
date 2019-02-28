@@ -1,0 +1,37 @@
+Por compatibilidad pongo las ultimas preguntas 100-104 del test anterior aqui
+1) ¿Cuál de las siguientes no es causa de nulidad del contrato?
+a) La insuficiencia de crédito.
+b) La desviación de poder en su adjudicación.
+c) La celebración fuera del lugar de la sede del órgano de contratación.
+d) La b y c son correctas.
+2) En el supuesto de delegación de las competencias para contratar ¿Quién
+tiene la competencia para declarar la lesividad o nulidad del contrato?
+a) El órgano delegante siempre.
+b) El órgano delegado siempre.
+c) Dependerá de si existe o no relación jerárquica.
+d) El órgano delegado salvo que lleve aparejada la fijación de una indemnización.
+3) ¿El responsable del contrato no podrá ser?
+a) Un funcionario de la Administración contratante.
+b) Un facultativo designado por el contratista.
+c) Un Concejal.
+d) Una empresa de consultoría.
+4) Para que una empresa no comunitaria pueda celebrar contratos en
+España el pliego de cláusulas administrativas podrá exigir a las empresas
+no comunitarias:
+a) Tener abierta sucursal en cualquier país de la UE.
+b) Tener abierta sucursal en España.
+c) Tener una empresa filial en España.
+d) Ninguna de las anteriores es correcta.
+5) ¿No será prohibición para contratar?
+a) Haber incurrido en falsedad en datos relativos a la capacidad y solvencia.
+b) Estar procesado por tráfico de influencias.
+c) No hallarse al corriente de sus obligaciones con la Seguridad Social.
+d) Haber retirado indebidamente su proposición en un procedimiento de
+adjudicación.
+
+SOLUCIONES
+1	D
+2	D
+3	B
+4	B
+5	B
