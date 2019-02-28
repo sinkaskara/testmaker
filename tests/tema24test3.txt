@@ -86,11 +86,6 @@ preste servicios en la Administración de la Comunidad Autónoma de
 Canarias, podrá solicitarse la prolongación de la permanencia en el servicio
 activo como máximo hasta que se cumpla la edad prevista en la legislación
 básica del Estado. La solicitud deberá presentarse desde el momento en que
-
-TEMA 24
-
-ING. INDUSTRIALES
-
 le falten _______ para cumplir la edad establecida para la jubilación forzosa
 hasta el día en que le falten cuatro meses para cumplir dicha edad.
 a) Tres meses.
@@ -139,12 +134,6 @@ d) Excedencia forzosa. La excedencia forzosa se producirá por la supresión del
 puesto de trabajo de que sea titular el funcionario, cuando signifique el cese
 obligado en el servicio activo.
 
-TEMA 24
-
-42
-
-ING. INDUSTRIALES
-
 12) Conforme al artículo 38 de la Ley 2/1987, de 30 de marzo, de la Función
 Pública Canaria, se encuentra en situación de servicio activo el funcionario
 que ocupe un puesto de trabajo y el que se halle en los casos de comisión de
@@ -173,12 +162,12 @@ derecho.
 d) A y c son correctas.
 14) Podrá concederse igualmente la excedencia voluntaria a los funcionarios
 cuando lo soliciten por interés particular. (Señala la incorrecta)
-a)	La situación prevista en este apartado no podrá declararse hasta haber completado
+a) La situación prevista en este apartado no podrá declararse hasta haber completado
 tres años de servicios efectivos desde que se accedió al Cuerpo o Escala o desde el reingreso.
-b)	En ella no se podrá permanecer  menos de dos años.
-c)	Los funcionarios excedentes no devengarán retribuciones ni les será computable el
+b) En ella no se podrá permanecer  menos de dos años.
+c) Los funcionarios excedentes no devengarán retribuciones ni les será computable el
 tiempo permanecido en tal situación a efectos de ascensos, trienios y derechos pasivos.
-d)	La denegación de la excedencia voluntaria por interés particular deberá hacerse por
+d) La denegación de la excedencia voluntaria por interés particular deberá hacerse por
 escrito y motivada, en el plazo máximo de dos meses.
 
 TEMA 24
@@ -563,7 +552,7 @@ SOLUCIONES
 3	D
 4	C
 5	D
-6	D
+6	C
 7	D
 8	B
 9	C
