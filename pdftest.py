@@ -14,7 +14,7 @@ respuestas = {}
 soluciones = {}
 respuestas_usuario = {}
 preguntas_fallidas = []
-
+ruta_tests = "tests_pol/"
 
 def log_test(fecha_inicio, fecha_fin, tema, test, modo):
     try:
@@ -50,7 +50,7 @@ def log_test(fecha_inicio, fecha_fin, tema, test, modo):
 def parsear_fichero(fichero_test):
 
     script_dir = os.path.dirname(__file__) # <-- absolute dir the script is in
-    rel_path = "tests/" + fichero_test
+    rel_path = ruta_tests + fichero_test
     abs_file_path = os.path.join(script_dir, rel_path)
 
     # path = "tema11test3.txt"
@@ -67,7 +67,7 @@ def parsear_fichero(fichero_test):
             continue
 
         if solution_mode is False:
-            question_match = re.match("[0-9]{1,2}[\.\)]{1,1} ", line)
+            question_match = re.match("[0-9]{1,3}[\.\)]{1,1} ", line)
             if question_match:
                 current_question = question_match.group().replace(". ", "")
                 current_question = current_question.replace(") ", "")
@@ -229,6 +229,17 @@ def examen():
     print("Fin del test. Correccion:")
     correccion()
 
+def comprobar_parseo():
+    # Empieza el test al usuario
+    for clave, pregunta in preguntas.items():
+        bold(pregunta)
+        for respuesta in respuestas[clave]:
+            print(respuesta)
+        print("\n\n\n")
+
+    print("Fin del test. Correccion:")
+    print("Si llega esto aquí todo parece ok")
+
 def validar_test():
     if len(preguntas) != len(soluciones):
         print("pero tiene " + str(len(soluciones)) + " soluciones, hay algo raro")
@@ -245,7 +256,7 @@ def principal():
     tema = input("¿Que tema deseas probar?:")
 
     script_dir = os.path.dirname(__file__) # <-- absolute dir the script is in
-    rel_path = "tests/"
+    rel_path = ruta_tests
     abs_file_path = os.path.join(script_dir, rel_path)
 
     for file in os.listdir(abs_file_path):
@@ -264,6 +275,8 @@ def principal():
     fecha_inicio = datetime.datetime.now()
     if modo == "repaso":
         repaso()
+    elif modo == "check":
+        comprobar_parseo()
     elif modo == "one":
         uno_a_uno(tema, test)
     elif modo == "load":
