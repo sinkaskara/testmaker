@@ -164,7 +164,7 @@ d) A y c son correctas.
 cuando lo soliciten por interés particular. (Señala la incorrecta)
 a) La situación prevista en este apartado no podrá declararse hasta haber completado
 tres años de servicios efectivos desde que se accedió al Cuerpo o Escala o desde el reingreso.
-b) En ella no se podrá permanecer  menos de dos años.
+b) En ella no se podrá permanecer menos de un año.
 c) Los funcionarios excedentes no devengarán retribuciones ni les será computable el
 tiempo permanecido en tal situación a efectos de ascensos, trienios y derechos pasivos.
 d) La denegación de la excedencia voluntaria por interés particular deberá hacerse por
@@ -552,7 +552,7 @@ SOLUCIONES
 3	D
 4	C
 5	D
-6	C
+6	D
 7	D
 8	B
 9	C
