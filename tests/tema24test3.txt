@@ -453,15 +453,10 @@ resarcir los daños causados, la Administración se dirigirá contra el
 funcionario que resulte causante de aquellos, en el ámbito de esta Ley, por
 culpa grave o ignorancia inexcusable, mediante la instrucción del
 correspondiente expediente, con audiencia del interesado.
-a)
-b)
-c)
-d)
-
-106.1
-106.2
-107
-108
+a) 106.1
+b) 106.2
+c) 107
+d) 108
 
 Régimen disciplinario
 Faltas
@@ -513,20 +508,20 @@ d) Todas son correctas.
 
 36) La sanción de suspensión de funciones impuestas por comisión de falta muy
 grave:
-a) No podrá ser superior a seis meses ni inferior a tres.
+a) No podrá ser superior a seis años ni inferior a tres.
 b) No excederá de tres años.
 c) No podrá ser superior a tres años ni inferior a 6 meses.
 d) No excederá de un año.
 37) Las faltas prescribirán:
-a)	Las muy graves a los tres años, las graves a los dos años y las leves al mes.
-b)	Las muy graves a los cinco años, las graves a los dos años y las leves al mes.
-c)	Las muy graves a los tres años, las graves a los dos años y las leves a los 6 meses.
-d)	Las muy graves a los tres años, las graves a los dos años y las leves al año.
+a) Las muy graves a los tres años, las graves a los dos años y las leves al mes.
+b) Las muy graves a los cinco años, las graves a los dos años y las leves al mes.
+c) Las muy graves a los tres años, las graves a los dos años y las leves a los 6 meses.
+d) Las muy graves a los tres años, las graves a los dos años y las leves al año.
 38) Las sanciones prescribirán:
-a)	Por faltas muy graves a los cinco años, las graves a los dos años y las leves al mes.
-b)	Por faltas muy graves a los tres años, las graves a los dos años y las leves al año.
-c)	Por faltas muy graves a los siete años, las graves a los dos años y las leves al mes.
-d)	Por faltas muy graves a los tres años, las graves a los dos años y las leves al mes.
+a) Por faltas muy graves a los cinco años, las graves a los dos años y las leves al mes.
+b) Por faltas muy graves a los tres años, las graves a los dos años y las leves al año.
+c) Por faltas muy graves a los siete años, las graves a los dos años y las leves al mes.
+d) Por faltas muy graves a los tres años, las graves a los dos años y las leves al mes.
 39) Faltas y Sanciones:
 a) El plazo de prescripción comenzará a contarse: Sanciones, a partir del día
 siguiente a aquel en que hayan adquirido firmeza las resoluciones que las
