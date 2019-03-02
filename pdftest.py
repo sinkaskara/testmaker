@@ -9,14 +9,10 @@ import datetime
 from utils import warning, bold
 from utils import load_dict_from_file, save_dict_to_file
 
-preguntas = {}
-respuestas = {}
-soluciones = {}
-respuestas_usuario = {}
-preguntas_fallidas = []
 ruta_tests = "tests/"
 
-def log_test(fecha_inicio, fecha_fin, tema, test, modo):
+
+def log_test(fecha_inicio, fecha_fin, tema, test, modo, preguntas, soluciones, respuestas_usuario):
     try:
         duracion_test = fecha_fin - fecha_inicio
         print("Duracion test: {}".format(duracion_test))
@@ -29,7 +25,7 @@ def log_test(fecha_inicio, fecha_fin, tema, test, modo):
             fallos = 0
             no_contestadas = 0
         else:
-            aciertos, fallos, no_contestadas = correccion_silenciosa()
+            aciertos, fallos, no_contestadas = correccion_silenciosa(preguntas, soluciones, respuestas_usuario)
 
         f.write("\n"
                 + fecha_inicio.strftime('%Y-%m-%d %H:%M:%S') + ";"
@@ -56,6 +52,10 @@ def parsear_fichero(fichero_test):
     # path = "tema11test3.txt"
     log_file = open(abs_file_path, 'r')
 
+    preguntas_parseo = {}
+    respuestas_parseo = {}
+    soluciones_parseo = {}
+
     question_mode = False
     answer_mode = False
     current_question = ""
@@ -72,44 +72,46 @@ def parsear_fichero(fichero_test):
                 current_question = question_match.group().replace(". ", "")
                 current_question = current_question.replace(") ", "")
                 #print("Line -> " + current_question + " -> " + line)
-                preguntas[current_question] = line
+                preguntas_parseo[current_question] = line
                 question_mode = True
                 answer_mode = False
                 continue
 
             if re.match("[a-dA-D][\.\)] ", line):
                 #print("Respuesta: current_question: " + current_question + " -> " + line)
-                if current_question not in respuestas:
+                if current_question not in respuestas_parseo:
                     answer_list = []
                     answer_list.append(line)
-                    respuestas[current_question] = answer_list
+                    respuestas_parseo[current_question] = answer_list
                 else:
                     #print("elsito")
-                    #print(respuestas[current_question])
-                    respuestas[current_question].append(line)
-                #print(respuestas[current_question])
+                    #print(respuestas_parseo[current_question])
+                    respuestas_parseo[current_question].append(line)
+                #print(respuestas_parseo[current_question])
                 question_mode = False
                 answer_mode = True
                 continue
             if question_mode is True:
                 #print("qmode -> " + line)
-                preguntas[current_question] = preguntas[current_question] + line
+                preguntas_parseo[current_question] = preguntas_parseo[current_question] + line
                 continue
             if answer_mode is True:
                 #print("amode -> " + line)
-                respuestas[current_question][len(respuestas[current_question])-1] = \
-                    respuestas[current_question][len(respuestas[current_question])-1] + line
+                respuestas_parseo[current_question][len(respuestas_parseo[current_question])-1] = \
+                    respuestas_parseo[current_question][len(respuestas_parseo[current_question])-1] + line
                 continue
 
         else:
             # Parse solutions
             #print("Parsing solution")
             #print(line.split())
-            soluciones[line.split()[0]] = line.split()[1]
+            soluciones_parseo[line.split()[0]] = line.split()[1]
             #print(soluciones)
+    return preguntas_parseo, respuestas_parseo, soluciones_parseo
 
 
-def correccion():
+def correccion(preguntas, soluciones, respuestas_usuario):
+    preguntas_fallidas = []
     nota = 0
     total_preguntas = len(preguntas)
     valor_pregunta = 10 / total_preguntas
@@ -129,8 +131,10 @@ def correccion():
             preguntas_fallidas.append(clave)
 
     print("Tu nota es: " + str(nota))
+    return preguntas_fallidas
 
-def correccion_silenciosa():
+
+def correccion_silenciosa(preguntas, soluciones, respuestas_usuario):
     aciertos = 0
     fallos = 0
     no_contestadas = 0
@@ -148,7 +152,7 @@ def correccion_silenciosa():
     return aciertos, fallos, no_contestadas
 
 
-def repaso():
+def repaso(preguntas, respuestas, soluciones):
     for clave, pregunta in preguntas.items():
         bold(pregunta)
         for respuesta in respuestas[clave]:
@@ -161,8 +165,7 @@ def repaso():
         print("\n\n\n")
 
 
-
-def repasar_fallos():
+def repasar_fallos(preguntas, respuestas, soluciones, preguntas_fallidas):
     respuesta_usuario = str(input("¿quieres repasar los fallos? (y/n):").lower().strip())
     while not re.match("^[yn]+$", respuesta_usuario):
         respuesta_usuario = str(input("¿quieres repasar los fallos? (y/n):").lower().strip())
@@ -181,7 +184,7 @@ def repasar_fallos():
             print("\n\n\n")
 
 
-def uno_a_uno(tema, test):
+def uno_a_uno(tema, test, preguntas, respuestas, soluciones, respuestas_usuario):
     # Empieza el test al usuario
     for clave, pregunta in preguntas.items():
         bold(pregunta)
@@ -212,9 +215,12 @@ def uno_a_uno(tema, test):
         print("\n\n\n")
 
     print("Fin del test. Correccion:")
-    correccion()
+    preguntas_fallidas = correccion(preguntas, soluciones, respuestas_usuario)
+    return preguntas_fallidas
 
-def examen():
+
+def examen(preguntas, respuestas, soluciones):
+    respuestas_usuario = {}
     # Empieza el test al usuario
     for clave, pregunta in preguntas.items():
         bold(pregunta)
@@ -227,9 +233,11 @@ def examen():
         print("\n\n\n")
 
     print("Fin del test. Correccion:")
-    correccion()
+    correccion(preguntas, soluciones, respuestas_usuario)
+    return respuestas_usuario
 
-def comprobar_parseo():
+
+def comprobar_parseo(preguntas, respuestas):
     # Empieza el test al usuario
     for clave, pregunta in preguntas.items():
         bold(pregunta)
@@ -240,7 +248,8 @@ def comprobar_parseo():
     print("Fin del test. Correccion:")
     print("Si llega esto aquí todo parece ok")
 
-def validar_test():
+
+def validar_test(preguntas, soluciones):
     if len(preguntas) != len(soluciones):
         print("pero tiene " + str(len(soluciones)) + " soluciones, hay algo raro")
         respuesta_usuario = ""
@@ -249,45 +258,52 @@ def validar_test():
         if respuesta_usuario == "n":
             exit(0)
 
-def principal():
 
-    print("Heyyyyy")
-    modo = input("¿Que modo quieres? (examen,repaso,one,load):")
-    tema = input("¿Que tema deseas probar?:")
-
+def list_files(tema):
     script_dir = os.path.dirname(__file__) # <-- absolute dir the script is in
     rel_path = ruta_tests
     abs_file_path = os.path.join(script_dir, rel_path)
 
     for file in os.listdir(abs_file_path):
         if file.startswith("tema" + tema + "test"):
-            print(file)
+            preguntas_temp, respuestas_temp, soluciones_temp = parsear_fichero(file)
+            print(file + " -> " + str(len(preguntas_temp)) + " preguntas. " + str(len(soluciones_temp)) + " soluciones")
+
+def principal():
+
+    print("Heyyyyy")
+    modo = input("¿Que modo quieres? (examen,repaso,one,load):")
+    tema = input("¿Que tema deseas probar?:")
+
+    list_files(tema)
 
     test = input("¿Que test del tema " + tema + "?:")
     fichero_test = "tema" + tema + "test" + test + ".txt"
-    parsear_fichero(fichero_test)
+    preguntas, respuestas, soluciones = parsear_fichero(fichero_test)
 
     print("\n\n\n")
     print("Este test tiene " + str(len(preguntas)) + " preguntas")
-    validar_test()
+    validar_test(preguntas, soluciones)
     print("\n\n\n")
 
+    respuestas_usuario = {}
+    preguntas_fallidas = []
     fecha_inicio = datetime.datetime.now()
     if modo == "repaso":
-        repaso()
+        repaso(preguntas, respuestas, soluciones)
     elif modo == "check":
-        comprobar_parseo()
+        comprobar_parseo(preguntas, respuestas)
     elif modo == "one":
-        uno_a_uno(tema, test)
+        preguntas_fallidas = uno_a_uno(tema, test, preguntas, respuestas, soluciones, respuestas_usuario)
     elif modo == "load":
         respuestas_usuario.update(load_dict_from_file("respuestas_tema"+tema+"test"+test+".txt"))
-        uno_a_uno(tema, test)
+        preguntas_fallidas = uno_a_uno(tema, test, preguntas, respuestas, soluciones, respuestas_usuario)
     else:
-        examen()
+        preguntas_fallidas = examen(preguntas, respuestas, soluciones)
     fecha_fin = datetime.datetime.now()
     print("Fin del tema " + tema + " test " + test)
-    log_test(fecha_inicio, fecha_fin, tema, test, modo)
-    repasar_fallos()
+    log_test(fecha_inicio, fecha_fin, tema, test, modo, preguntas, soluciones, respuestas_usuario)
+    repasar_fallos(preguntas, respuestas, soluciones, preguntas_fallidas)
 
     print("Salida del tema " + tema + " test " + test)
 
