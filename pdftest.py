@@ -14,7 +14,7 @@ respuestas = {}
 soluciones = {}
 respuestas_usuario = {}
 preguntas_fallidas = []
-ruta_tests = "tests_pol/"
+ruta_tests = "tests/"
 
 def log_test(fecha_inicio, fecha_fin, tema, test, modo):
     try:
