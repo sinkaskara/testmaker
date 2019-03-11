@@ -67,10 +67,11 @@ def parsear_fichero(fichero_test):
             continue
 
         if solution_mode is False:
-            question_match = re.match("[0-9]{1,3}[\.\)]{1,1} ", line)
+            question_match = re.match("[0-9]{1,3}[\.\)]{1,1}-{0,1} ", line)
             if question_match:
                 current_question = question_match.group().replace(". ", "")
                 current_question = current_question.replace(") ", "")
+                current_question = current_question.replace(".- ", "")
                 #print("Line -> " + current_question + " -> " + line)
                 preguntas_parseo[current_question] = line
                 question_mode = True
@@ -199,7 +200,7 @@ def uno_a_uno(tema, test, preguntas, respuestas, soluciones, respuestas_usuario)
             respuesta_usuario = str(input("Respuesta:").lower().strip())
         respuestas_usuario[clave] = respuesta_usuario
         # Always save up to last question
-        save_dict_to_file(respuestas_usuario, "respuestas_tema"+tema+"test"+test+".txt")
+        save_dict_to_file(respuestas_usuario, "saves/respuestas_tema"+tema+"test"+test+".txt")
 
         # Comprobar la respuesta sobre la marcha
         if respuestas_usuario[clave].lower() == "z":
@@ -233,20 +234,24 @@ def examen(preguntas, respuestas, soluciones):
         print("\n\n\n")
 
     print("Fin del test. Correccion:")
-    correccion(preguntas, soluciones, respuestas_usuario)
-    return respuestas_usuario
+    preguntas_fallidas = correccion(preguntas, soluciones, respuestas_usuario)
+    return preguntas_fallidas
 
 
-def comprobar_parseo(preguntas, respuestas):
+def comprobar_parseo(preguntas, respuestas, soluciones):
     # Empieza el test al usuario
+    respuestas_usuario = {}
     for clave, pregunta in preguntas.items():
         bold(pregunta)
         for respuesta in respuestas[clave]:
             print(respuesta)
+        respuestas_usuario[clave] = "a"
         print("\n\n\n")
 
+    preguntas_fallidas = correccion(preguntas, soluciones, respuestas_usuario)
     print("Fin del test. Correccion:")
     print("Si llega esto aquí todo parece ok")
+    return preguntas_fallidas
 
 
 def validar_test(preguntas, soluciones):
@@ -292,11 +297,11 @@ def principal():
     if modo == "repaso":
         repaso(preguntas, respuestas, soluciones)
     elif modo == "check":
-        comprobar_parseo(preguntas, respuestas)
+        preguntas_fallidas = comprobar_parseo(preguntas, respuestas, soluciones)
     elif modo == "one":
         preguntas_fallidas = uno_a_uno(tema, test, preguntas, respuestas, soluciones, respuestas_usuario)
     elif modo == "load":
-        respuestas_usuario.update(load_dict_from_file("respuestas_tema"+tema+"test"+test+".txt"))
+        respuestas_usuario.update(load_dict_from_file("saves/respuestas_tema"+tema+"test"+test+".txt"))
         preguntas_fallidas = uno_a_uno(tema, test, preguntas, respuestas, soluciones, respuestas_usuario)
     else:
         preguntas_fallidas = examen(preguntas, respuestas, soluciones)
@@ -311,6 +316,7 @@ def principal():
 principal()
 
 # Cosas que faltan:
+# Examen fruticultura es imagen y faltan preguntas de 34 a 41
 # Tema 28 Test Mezclados 1 no se puede parsear, es imagen.
 # Tema 28 Ademas hay muchisimos mas tests dentro de las carpetas de la ley!!
 # Tema 25 monton de tests en la carpeta de actualización al nuevo estatuto por partes
