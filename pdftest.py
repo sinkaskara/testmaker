@@ -117,20 +117,32 @@ def correccion(preguntas, soluciones, respuestas_usuario):
     total_preguntas = len(preguntas)
     valor_pregunta = 10 / total_preguntas
 
+    aciertos = 0
+    fallos = 0
+    no_contestadas = 0
+
     for clave, pregunta in preguntas.items():
         if respuestas_usuario[clave].lower() == "z":
             # Pregunta sin respuesta
             print(clave + " No Contestada")
             preguntas_fallidas.append(clave)
+            no_contestadas = no_contestadas + 1
             continue
         if soluciones[clave].lower() == respuestas_usuario[clave].lower():
             print(clave + " Acierto")
             nota = nota + valor_pregunta
+            aciertos = aciertos + 1
         else:
             print(clave + " Fallo " + respuestas_usuario[clave].lower() + " -> " + soluciones[clave].lower())
             nota = nota - (valor_pregunta/2)
             preguntas_fallidas.append(clave)
+            fallos = fallos + 1
 
+    print("")
+    print("Aciertos: " + str(aciertos))
+    print("No contestadas: " + str(no_contestadas))
+    print("Fallos: " + str(fallos))
+    print("")
     print("Tu nota es: " + str(nota))
     return preguntas_fallidas
 
