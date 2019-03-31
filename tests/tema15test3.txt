@@ -176,15 +176,10 @@ c) Una norma de sistemas de gestión de calidad española.
 d) Ninguna es correcta.
 
 18) La ISO 9001:2015 se basa en ___ principios de gestión de calidad:
-a)
-b)
-c)
-d)
-
-5
-6
-7
-8
+a) 5
+b) 6
+c) 7
+d) 8
 
 19) Entre los principios de la ISO 9001:2015, están los de:
 a) Toma de decisiones basadas en la evidencia.
