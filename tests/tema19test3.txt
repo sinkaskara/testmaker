@@ -13,7 +13,8 @@ TEMA 19
 
 ING. INDUSTRIALES
 
-2. Si existiese un error en la calificación del recurso por parte del recurrente:
+2. RESPUESTA MODIFICADA 
+Si existiese un error en la calificación del recurso por parte del recurrente:
 a) Será obstáculo para su tramitación,
 b) No será obstáculo para su tramitación.
 c) Ninguna es correcta
@@ -53,7 +54,7 @@ c) Congruencia y de no agravación a la situación.
 
 SOLUCIONES
 1	B
-2	A
+2	B
 3	B
 4	C
 5	B

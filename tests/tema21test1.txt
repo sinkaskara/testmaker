@@ -392,7 +392,8 @@ C) Los acuerdos que celebre el Estado con otros Estados o con otros sujetos de
 derecho internacional.
 D) Todas las respuestas anteriores son correctas.
 
-45) Están excluidos del ámbito de aplicación de la Ley de Contratos del Sector
+45) RESPUESTA CORREGIDA
+Están excluidos del ámbito de aplicación de la Ley de Contratos del Sector
 Público:
 A) Los contratos financieros.
 B) Los contratos relativos a servicios de arbitraje y conciliación.
@@ -539,7 +540,7 @@ SOLUCIONES
 42	D
 43	C
 44	D
-45	A
+45	B
 46	D
 47	D
 48	D
