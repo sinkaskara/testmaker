@@ -512,13 +512,15 @@ a) No podrá ser superior a seis años ni inferior a tres.
 b) No excederá de tres años.
 c) No podrá ser superior a tres años ni inferior a 6 meses.
 d) No excederá de un año.
-37) Las faltas prescribirán:
+37) PREGUNTA Y RESPUESTA CORREGIDAS
+Las faltas prescribirán:
 a) Las muy graves a los tres años, las graves a los dos años y las leves al mes.
-b) Las muy graves a los cinco años, las graves a los dos años y las leves al mes.
+b) Las muy graves a los seis años, las graves a los dos años y las leves al mes.
 c) Las muy graves a los tres años, las graves a los dos años y las leves a los 6 meses.
 d) Las muy graves a los tres años, las graves a los dos años y las leves al año.
-38) Las sanciones prescribirán:
-a) Por faltas muy graves a los cinco años, las graves a los dos años y las leves al mes.
+38) PREGUNTA Y RESPUESTA CORREGIDAS
+Las sanciones prescribirán:
+a) Por faltas muy graves a los seis años, las graves a los dos años y las leves al mes.
 b) Por faltas muy graves a los tres años, las graves a los dos años y las leves al año.
 c) Por faltas muy graves a los siete años, las graves a los dos años y las leves al mes.
 d) Por faltas muy graves a los tres años, las graves a los dos años y las leves al mes.
@@ -533,7 +535,8 @@ c) Las faltas y sanciones, así como sus cancelaciones, se inscribirán en el
 Registro de Personal.
 d) Ninguna es correcta.
 Aplicación del régimen estatutario
-40) ¿Qué tipo de personal no podrá disfrutar de las licencias previstas para la
+40) PREGUNTA MAL (VER MODIFICACION DEL ARTICULO 69.2 de LFP Canaria)
+¿Qué tipo de personal no podrá disfrutar de las licencias previstas para la
 realización de estudios relacionados con su puesto de trabajo ni por asuntos
 propios?
 a) Personal laboral.
@@ -578,7 +581,7 @@ SOLUCIONES
 34	D
 35	D
 36	A
-37	C
-38	B
+37	B
+38	A
 39	A
 40	C
