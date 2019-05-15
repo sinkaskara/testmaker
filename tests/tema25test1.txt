@@ -83,7 +83,8 @@ a) Con la que modifica el Régimen Económico y Fiscal de Canarias.
 b) Con la que modifica el IGIC.
 c) No hubo otra ley.
 d) Ninguna es correcta.
-13) La reforma del Estatuto de Autonomía de Canarias se regula en el Título:
+13) RESPUESTA CORREGIDA (correccion oficial de la tipa)
+La reforma del Estatuto de Autonomía de Canarias se regula en el Título:
 a) V
 b) VI
 c) VII
@@ -111,9 +112,10 @@ d) 17
 
 20
 
-16) El nuevo Estatuto de Autonomía de Canarias ¿cuántos títulos tiene?
-a) 7 más el Preliminar.
-b) 8
+16) CORREGIDA opcion a y b DEL PDF, originalmente estaba mal y la corrigieron
+El nuevo Estatuto de Autonomía de Canarias ¿cuántos títulos tiene?
+a) 8 más el Preliminar.
+b) 9
 c) Ambas son correctas.
 d) 7
 
@@ -180,7 +182,7 @@ SOLUCIONES
 10	B
 11	B
 12	A
-13	C
+13	D
 14	A
 15	A
 16	C
