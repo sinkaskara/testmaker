@@ -1,0 +1,1086 @@
+Input file is " alatest3.html
+Output file is " 
+Inicio principal
+
+
+
+1. A efectos de la LCSP ¿cuál de los siguientes entes, organismos y entidades no se considerarán poderes adjudicadores?
+A) Las Administraciones Públicas
+B)  Las fundaciones sin ánimo de lucro.
+C) Todos los demás entes, organismos o entidades con personalidad jurídica propia distintos de las administraciones públicas que hayan sido creados específicamente para satisfacer necesidades de interés general que no tengan carácter industrial o mercantil, siempre que uno o varios sujetos que deban considerarse poder adjudicador financien mayoritariamente su actividad, controlen su gestión, o nombren a más de la mitad de los miembros de su órgano de administración, dirección o vigilancia
+D) Las asociaciones constituidas por los entes, organismos y entidades pertenecientes a las administraciones públicas o las que sean creadas para satisfacer el interés general.
+
+
+
+2. Cuál de los siguientes negocios y relaciones jurídicas no está excluido del ámbito de la LCSP?
+A) La contratación con una empresa privada de la construcción de una depuradora que sea financiada por la UE
+B)  Los convenios que, con arreglo a las normas específicas que los regulan, celebre la Administración con personas físicas o jurídicas sujetas al derecho privado, siempre que su objeto no esté comprendido en el de los contratos regulados en esta Ley o en normas administrativas especiales
+C) Los convenios incluidos al efecto del Tratado Constitutivo de la Comunidad Europea que se concluyan en el sector de la defensa
+D) Los acuerdos que celebre el Estado con otros Estados o con entidades de derecho internacional público
+
+
+
+3. ¿Cuál de los siguientes entes, organismos o entidades del Sector Público NO es una Administración Pública?
+A) La Administración General del Estado, las Administraciones de las Comunidades Autónomas y las Entidades que integran la Administración Local.
+B)  Las entidades gestoras y los servicios comunes de la Seguridad Social.
+C) Las Mutuas colaboradoras con la  Seguridad Social
+D) Los organismos autónomos, las Universidades Pública y las autoridades administrativas independientes.
+
+
+
+4. ¿Cuál de los siguientes contratos no tendrá carácter administrativo?
+A) Los contratos de obra
+B)  Los que tenga por objeto la creación e interpretación artística y literaria
+C) Los de concesión de obra pública
+D) Los de gestión de servicios públicos
+
+
+
+5. ¿ Cabe la posibilidad de elaborar un contrato público con empresarios extranjeros?
+A) Con carácter general no, salvo que el empresario sea nacional de un Estado Miembro y cumpla los requisitos
+B)  Si, siempre que prueben su capacidad de obrar con un informe de la Misión Diplomática Permanente en España
+C) Si, cuando se acredite su capacidad de obras con un informe de la Oficina Consular  y la declaración jurada de la embajada del país de origen del empresario extranjero
+D) No, salvo que lo acrediten a través de la escritura de constitución, estatutos, acta fundacional y presenten los libros contables de los últimos 3 ejercicios
+
+
+
+6. ¿Cuál de las siguientes cuestiones no está regulada en el Título Preliminar de la Constitución Española de 1978?
+A) Las lenguas oficiales
+B)  Los símbolos
+C) El principio de igualdad ante la ley
+D) La capitalidad
+
+
+
+7. ¿Cuál es considerada la fecha de la Constitución Española?
+A) 31/10/1978
+B)  6/12/1978
+C) 27/12/1978
+D) 29/12/1978
+
+
+
+8. Según la Constitución Española de 1978, España se constituye en un Estado:
+A) Social de Derecho
+B)  Democrático de Derecho
+C) Social y democrático de Derecho.
+D) Plural y democrático de Derecho
+
+
+
+9. Señala la afirmación correcta con respecto al principio de jerarquía previsto en la Constitución:
+A) Su manifestación más importante es el principio de reserva de ley
+B)  Implica que la Administración no puede dictar reglamentos contrarios a la Constitución o a las leyes
+C) Implica que para que produzcan efectos jurídicos, las normas deben ser publicadas
+D) Ninguna de las respuestas anteriores es correcta
+
+
+
+10. Siguiendo el artículo 149 de la Constitución Española, señala cuál de las siguientes no es una competencia exclusiva del Estado.
+A) Administración de Justicia
+B)  La pesca en aguas interiores, el marisqueo y la acuicultura, la caza y la pesca fluvial
+C) Defensa y Fuerzas Armadas
+D) Extranjería
+
+
+
+11. La entidad local básica de la organización territorial del Estado es:
+A) Comarca
+B)  Provincia
+C) Municipio
+D) Mancomunidades
+
+
+
+12. Según el artículo 149 de la Constitución, son materias de competencia exclusiva del Estado:
+A) Nacionalidad, inmigración, emigración, extranjería y derecho de asilo.
+B)  Ferias interiores.
+C) Los montes y aprovechamientos forestales.
+D) La agricultura y ganadería.
+
+
+
+13. Según la Constitución Española, podrán constituirse en Comunidades Autónomas:
+A) Las provincias limítrofes con características culturales, económicas e históricas  comunes
+B)  Territorios peninsulares
+C) Provincias sin entidad regional histórica
+D) Todas las respuestas son correctas
+
+
+
+14. Señala la respuesta correcta con respecto a la vía cualificada de acceso a la autonomía:
+A) La iniciativa puede partir de los municipios que representen las 2/3 partes de aquéllos con mayoría electoral
+B)  Si la iniciativa parte de los municipios, ésta debe ser ratificada mediante referéndum por mayoría simple
+C) La iniciativa puede partir de los municipios que representen las 3/4 partes de aquéllos con mayoría electoral
+D) Para la ampliación de competencias, es necesario que transcurra un periodo de 5 años
+
+
+
+15. ¿En qué fechas fue modificada la Constitución?
+A) 27/08/1992 y 27/09/2011
+B)  22/07/1992 y 27/09/2011
+C) 28/08/1992 y 28/09/2011
+D) 27/08/1992 y 26/08/2011
+
+
+
+16. En materia de contratación pública,¿podrá el órgano de contratación incluir en el pliego, en función de la naturaleza y complejidad de éste, un plazo para que los licitadores puedan solicitar las aclaraciones que estimen pertinentes sobre su contenido?
+A) Sí, siempre
+B)  No, nunca
+C) No, ya que basta con la información pública
+D) Ninguna de las anteriores
+
+
+
+17. El Consejo de Ministros, ¿cuándo podrá reclamar el conocimiento y autorización de un contrato del sector público?
+A) Nunca.
+B)  Siempre, ya que podrá hacerlo discrecionalmente.
+C) Siempre que se trate de contratos de más de 6 millones de euros de presupuesto.
+D) Sólo cuando se trate de contratos de más de 12 millones de euros de presupuesto.
+
+
+
+18. Según la legislación en materia de contratación pública, ¿será exigible la clasificación a los empresarios no españoles de Estados miembros de la Unión Europea, ya concurran al contrato aisladamente o integrados en una unión, sin perjuicio de la obligación de acreditar su solvencia?
+A) No, como caso general
+B)   Sí, las reglas de juego son iguales para todos.
+C) Sí, pero solo cuando se trate de obras civiles.
+D) Ninguna de las anteriores
+
+
+
+19. Señala la respuesta correcta en relación con el régimen de garantías establecido en la Ley de Contratos del Sector Público:
+A) Los órganos de contratación no podrán exigir a los licitadores la constitución de una garantía que responda del mantenimiento de sus ofertas hasta la adjudicación del mismo.
+B)  La garantía provisional se extinguirá automáticamente y será devuelta a los licitadores inmediatamente después de la adjudicación del contrato.
+C) En los pliegos de cláusulas administrativas se determinará el importe de la garantía provisional, que no podrá ser superior a un 5% del presupuesto del contrato, excluido el Impuesto sobre el Valor Añadido, y el régimen de su devolución.
+D) El adjudicatario no podrá aplicar el importe de la garantía provisional a la definitiva o proceder a una nueva constitución de esta última, en cuyo caso la garantía provisional se cancelará simultáneamente a la constitución de la definitiva.
+
+
+
+20. En virtud de lo dispuesto en la normativa de contratos del sector público, la garantía constituida mediante contrato de seguro de caución:
+A) La garantía provisional y definitiva en este caso podrá constituirse aunque el contrato no se celebre con entidad aseguradora autorizada para operar en España en el ramo del seguro de caución y que dicha entidad cumpla los siguientes requisitos necesarios.
+B)  La garantía surtirá efectos hasta que el asegurado, o quien actúe en su nombre, autorice expresamente su cancelación o devolución.
+C) El plazo de duración del seguro de caución como garantía en el ámbito de la contratación de las Administraciones públicas no será el de la obligación u obligaciones garantizadas.
+D) Si la duración de éstas superase los 15 años, el contratista vendrá obligado a prestar nueva garantía durante el último mes del plazo indicado, salvo que se acredite debidamente la prórroga del contrato de seguro.
+
+
+
+21. Conforme a la Ley de Contratos del Sector Público, el órgano de contratación requerirá al licitador que haya presentado la oferta económicamente más ventajosa para que presente la documentación justificativa de hallarse al corriente en el cumplimiento de sus obligaciones tributarias y con la Seguridad Social, de disponer efectivamente de los medios que se hubiese comprometido a dedicar o adscribir a la ejecución del contrato y de haber constituido la garantía definitiva que sea procedente en el plazo de:
+A) 10 días hábiles
+B)  15 días hábiles
+C) 25 días hábiles
+D) 5 días hábiles
+
+
+
+22. Según lo dispuesto en la Ley de Contratos del Sector Público, a efectos de la adjudicación del contrato, ¿podrá celebrarse una subasta electrónica?
+A) No, nunca
+B)  Sí, siempre
+C) Sí, pero solo si el importe de lo subastado no rebasa los 300.000 €
+D) Sí, pero solo si el importe de lo subastado no rebasa los 400.000 €
+
+
+
+23. Según la legislación en materia de contratación pública, ¿cuál de los siguientes no es un procedimiento de adjudicación de los contratos administrativos?
+A) Procedimiento abierto
+B)  Procedimiento con negociación
+C) Procedimiento abierto simplificado
+D) Procedimiento cerrado
+
+
+
+24. En los procedimientos de adjudicación de contratos con la Administración Pública, cuando se identifique una proposición que pueda ser considerada desproporcionada o anormal, ¿qué deberá hacerse?
+A) Desestimar la oferta por baja temeraria.
+B)  Requerir al licitador o licitadores que las hubieren presentado dándoles plazo suficiente para que justifiquen y desglosen razonada y detalladamente el bajo nivel de los precios, o de costes.
+C) Rehacer el proceso de adjudicación.
+D) Identificar la media aritmética de las ofertas y desechar ofertas por debajo de un 20% de dicha media.
+
+
+
+25. ¿Es posible la contratación verbal por los entes, organismos y entidades del sector público?
+A) En ningún caso, el elemento formal del contrato ha de ser cumplimentado y formalizado por escrito.
+B)  No, porque además de ser obligatorio formalizar el contrato por escrito se precisa documentación específica
+C) No, es más el contrato ha de ser elevado a escritura pública cuando lo solicite el contratista 
+D) Si, cuando el contrato sea una emergencia se permite la contratación verbal
+
+
+
+26. Los contratos que celebren las Administraciones Públicas podrán adjudicarse mediante procedimiento negociado:
+A) Cuando las proposiciones u ofertas económicas en los procedimientos abiertos, restringidos o de diálogo competitivo seguidos previamente sean irregulares o inaceptables por haberse presentado por empresarios carentes de aptitud
+B)  En casos excepcionales, cuando se trate de contratos en los que, por razón de sus características o de los riesgos que entrañen, no pueda determinarse previamente el precio global
+C) Cuando, tras haberse seguido un procedimiento abierto o restringido, no se haya presentado ninguna oferta o candidatura, o las ofertas no sean adecuadas, siempre que las condiciones iniciales del contrato no se modifiquen sustancialmente
+D) Todas las respuestas son correctas
+
+
+
+27. En el procedimiento de adjudicación de contratos celebrados por el sector público, los plazos de presentación de las solicitudes de participación y de las proposiciones serán fijados por:
+A) En las entidades locales, por el Alcalde
+B)  Por el órgano de contratación correspondiente
+C) Por el consejero competente de la Comunidad Autónoma
+D) Los plazos vienen marcados en la Ley de Contratos
+
+
+
+28. Cada vez que las penalidades por demora alcancen un múltiplo del 5 % del precio del contrato, el órgano de contratación ¿para qué estará facultado, según lo dispuesto en la Ley de Contratos del Sector Público? 
+A) Para proceder a la resolución del mismo, exclusivamente
+B)  Para acordar la continuidad de su ejecución con imposición de nuevas penalidades, exclusivamente.
+C) Para proceder a la resolución del mismo o acordar la continuidad de su ejecución con imposición de nuevas penalidades.
+D) Ninguna de las anteriores
+
+
+
+29. ¿Cuál de las siguientes no es causa de resolución de un contrato con el sector público?
+A) La muerte del contratista individual.
+B)  La incapacidad sobrevenida del contratista individual.
+C) Demora de más de 30 días en el pago por parte de la administración.
+D) La extinción de la personalidad jurídica de la sociedad contratista.
+
+
+
+30. Señala, conforme a lo establecido en la Ley de Contratos del Sector Público, la respuesta correcta:
+A) Los contratos administrativos podrán ser modificados siempre.
+B)  Si la Administración acordase la suspensión del contrato o aquélla tuviere lugar por la aplicación de lo dispuesto en el Pago del Precio, se levantará un acta en la que se consignarán las circunstancias que la han motivado y la situación de hecho en la ejecución de aquél.
+C) Antes de proceder a la modificación del contrato deberá darse audiencia al redactor del proyecto o de las especificaciones técnicas, si éstos se hubiesen preparado por un tercero ajeno al órgano de contratación en virtud de un contrato de servicios, para que, en un plazo inferior a tres días, formule las consideraciones que tenga por conveniente.
+D) Todas las respuestas son correctas.
+
+
+
+31. De acuerdo con la Ley de Contratos del Sector Público, ¿en qué caso tiene que prorrogarse obligatoriamente un contrato?
+A) Cuando lo hayan acordado tácitamente las partes 
+B)  Cuando lo acuerde el órgano de contratación
+C) Contratos menores con una duración de un año
+D) La primera y segunda respuesta son correctas
+
+
+
+32. El acuerdo por el que se impondrán penalidades por parte del órgano de contratación, según lo establecido en la Ley de Contratos del Sector Público:
+A) Será ejecutivo en el plazo de 10 días
+B)  Será ejecutivo en el plazo de 20 días
+C) Será ejecutivo inmediatamente
+D) Será ejecutivo en el plazo de 1 mes
+
+
+
+33. Conforme a las disposiciones de la Ley de Contratos del Sector Público, el contratista está obligado a:
+A) Cumplir el contrato dentro del plazo total fijado para la realización del mismo.
+B)  Cumplir los plazos parciales señalados para su ejecución sucesiva.
+C) Ambas respuestas son correctas.
+D) Ninguna de las respuestas son correctas.
+
+
+
+34. Conforme a las previsiones de la Ley de Contratos del Sector Público, los contratos administrativos podrán ser modificados:
+A) A criterio del órgano de contratación
+B)  Por solicitud del contratista
+C) Solo por razones de interés público
+D) Todas las respuestas son falsas
+
+
+
+35. Según la legislación de contratos del sector público, ¿por qué causas pueden ser modificados los contratos del sector público?
+A) Sólo podrán modificarse cuando así se haya previsto en los pliegos o en el anuncio de licitación o en los casos y con los límites establecidos que esta ley permite.
+B)  Si fuese necesario que la prestación se ejecutase en forma distinta a la pactada, inicialmente no tiene obligación de procederse a la resolución del contrato en vigor y a la celebración de otro bajo las condiciones pertinentes.
+C) La modificación del contrato podrá realizarse con el fin de adicionar prestaciones complementarias a las inicialmente contratadas.
+D) La modificación del contrato podrá realizarse con el fin de ampliar el objeto del contrato a fin de que pueda cumplir finalidades nuevas no contempladas en la documentación preparatoria del mismo.
+
+
+
+36. Conforme a las disposiciones de la Ley de Contratos del Sector Público, si la demora en el pago de la Administración pública contratante fuese superior a seis meses, ¿a qué tendrá derecho el contratista?
+A) A la suspensión del contrato y al resarcimiento de los perjuicios que como consecuencia de ello se le originen mientras no se le abona el importe pendiente.
+B)  A resolver el contrato y al resarcimiento de los perjuicios que como consecuencia de ello se le originen.
+C) A la solicitud de intereses de demora.
+D) A la solicitud de intereses de demora y cobro de lo pendiente y a una indemnización del 20% del presupuesto de contrato para resolverlo.
+
+
+
+37. En relación al régimen de invalidez de los contratos del sector público, si un acto que no es preparatorio de un contrato, ni relativo a su procedimiento de adjudicación, es declarado nulo, ¿qué consecuencias tendrá?
+A) La nulidad se extenderá a todo el contrato, que entrará en fase de liquidación
+B)  La nulidad afectará sólo al acto nulo en cuestión y a sus consecuencias
+C) El acto nulo se tendrá por no realizado, mientras el resto del contrato queda sometido al régimen de anulabilidad
+D) La nulidad afectará sólo al acto nulo y a sus consecuencias, debiendo indemnizar la parte culpable a la otra parte por los daños y perjuicios causados
+
+
+
+38. Conforme a lo dispuesto en la Ley de Contratos del Sector Público, ¿cuál de los siguientes actos no es susceptible de recurso especial en materia de contratación?
+A) Los procedimientos de adjudicación que se sigan por el trámite de urgencia
+B)  Los anuncios de licitación
+C) Los actos de trámite adoptados en el procedimiento de adjudicación, siempre que éstos decidan directa o indirectamente sobre la adjudicación
+D) La formalización de encargos a medios propios en los casos en que estos no cumplan los requisitos legales
+
+
+
+39. El artículo 60 del Estatuto Básico del Empleado Público establece respecto a los órganos de selección que
+A) Serán colegiados
+B)  Tienden a la paridad entre hombres y mujeres
+C) Los funcionarios interinos no podrán formar parte de ellos
+D) Todas las respuestas son correctas
+
+
+
+40. ¿Cuál de las siguientes no es causa de pérdida de la condición de funcionario de carrera?
+A) La renuncia a la condición de funcionario
+B)  La jubilación total del funcionario
+C) La sanción disciplinaria de separación del servicio mientras no sea firme
+D) La pérdida de la nacionalidad
+
+
+
+41. Para fijar el orden de preferencia para la adjudicación de las plazas convocadas por concurso se valoran siempre una serie de méritos. Indica cuál de los siguiente no es uno de ellos
+A) La antigüedad
+B)  El grado de desarrollo profesional
+C) La puntuación en el examen de ingreso
+D) El desempeño como personal funcionario de carrera de puestos de igual o superior nivel competencial al de los puestos convocados
+
+
+
+42. Teniendo en cuenta el artículo 12 del EBEP, indica la afirmación falsa respecto al personal eventual
+A) El nombramiento y cese serán libre
+B)  La condición de personal eventual puede constituir mérito para el acceso a la Función Pública o para la promoción interna
+C) Le será aplicable, en lo que sea adecuado a la naturaleza de su condición, el régimen general de los funcionarios de carrera.
+D) Su cese tendrá lugar, en todo caso, cuando se produzca el de la autoridad a la que se preste la función de confianza o asesoramiento
+
+
+
+43. Indica cuál de las siguientes no es una situación de excedencia
+A) Por interés particular
+B)  Por agrupación familiar
+C) Por interés general
+D) Por cuidado de familiares
+
+
+
+44. Según lo dispuesto en el artículo 89.4, los funcionarios de carrera tendrán derecho a un período de excedencia para atender al cuidado de cada hijo
+A) No superior a dos años
+B)  No superior a tres años
+C) No superior a un año
+D) No superior a cuatro años
+
+
+
+45. Señala, de entre las siguientes, la opción correcta en relación a los requisitos temporales necesarios para solicitar una excedencia voluntaria por interés particular:
+A) Es preciso haber prestado servicios efectivos durante los cuatro años inmediatamente anteriores y se debe permanecer en esta situación un mínimo de tres años continuados
+B)  Es preciso haber prestado servicios efectivos durante cinco años y se debe permanecer en esta situación un mínimo de dos años continuados
+C) Es preciso haber prestado servicios efectivos durante los cinco años inmediatamente anteriores y se debe permanecer en esta situación un mínimo de dos años continuados
+D) Es preciso haber prestado servicios efectivos durante cuatro años y se debe permanecer en esta situación un mínimo de tres años continuados
+
+
+
+46. El Estatuto Básico establece que, en relación con las mujeres víctimas de violencia de género que se vean obligadas a abandonar el puesto de trabajo en la localidad donde venían prestando sus servicios
+A) Tendrán derecho al traslado a otro puesto de trabajo propio de su cuerpo, escala o categoría profesional, de análogas características, sin necesidad de que sea vacante de necesaria cobertura
+B)  Este traslado tendrá la consideración de traslado forzoso
+C) La primera y la segunda respuesta son correctas
+D) La primera y la segunda respuesta son falsas
+
+
+
+47. Son principios éticos contemplados en el Código de Conducta de los empleados públicos
+A) Su actuación perseguirá la satisfacción de los intereses generales de los ciudadanos
+B)  Ajustarán su actuación a los principios de lealtad y buena fe con la Administración en la que presten sus servicios
+C) Se abstendrán en aquellos asuntos en los que tengan un interés personal
+D) Todas las respuestas son correctas
+
+
+
+48. ¿Cuál de los siguientes no es un principio de la organización territorial?
+A) Se garantiza el principio de solidaridad, velando por el establecimiento de un equilibrio económico.
+B)  Las diferencias entre los Estatutos no pueden implicar en ningún caso privilegios económicos o sociales
+C) Todos los españoles tienen los mismos derechos y obligaciones, con independencia del territorio del Estado español en el que se encuentren o residan
+D) Las autoridades pueden adoptar medidas directas que obstaculicen" la libertad de circulación y el establecimiento de personas y libre circulación de bienes en el territorio español, cuando sea consecuencia de una Orden de la Unión Europea y se encuentre el peligro el orden pública y la seguridad ciudadana"
+
+
+
+49. En la Constitución se establecen 3 vías de acceso a la Autonomía. Con cuál de estas tres vías se relaciona el siguiente dato:  "No es necesario dejar transcurrir 5 años para la ampliación de competencias""
+A) Vía normal
+B)  Vía cualificada 
+C) Vía Especial
+D) En ninguna de ellas, 
+
+
+
+50. La determinación de una competencia como exclusiva o compartida, así como su naturaleza legislativa o no legislativa depende de 4 circunstancias:
+A) En primer lugar, de las reservas a favor del Estado que contenga la Constitución, por lo que, el precepto legal que determina las materias competencia del Estado se ha de interpretar teniendo en cuenta las materias que se le atribuyen a las CCAA. En segundo lugar, dependiendo de la amplitud de competencias que se asumen respecto de cada materia. En tercer lugar, depende de la plenitud dispositiva del Estatuto de Autonomía y en cuarto lugar, en función de la voluntad del propio del Senado, pues al tratarse de competencias autonómicas le corresponde a él determinar que competencias se asumen o no, sobre un conjunto material
+B)  En primer lugar de las reservas a favor del Estado que establezca la Unión Europea, por lo que, el precepto legal que determina las materias competencia del Estado se ha de interpretar teniendo en cuenta las materias que se le atribuyen a las CCAA. En segundo lugar, dependiendo de la amplitud se competencias que se asumen respecto de cada materia. En tercer lugar, depende de la plenitud dispositiva del Estatuto de Autonomía y en cuarto lugar, en función de la voluntad del propio legislador estatutario, pues depende de él asumir o no competencias sobre un conjunto material.
+C) En primer lugar, depende de las reservas a favor del Estado que contenga la Constitución, por lo que, el precepto legal que determina las materias competencia del Estado se ha de interpretar teniendo en cuenta el Estatuto de Autonomía de cada Comunidad. En segundo lugar, dependiendo de la amplitud se competencias que se asumen respecto de cada materia. En tercer lugar, depende de la plenitud dispositiva del Estatuto de Autonomía y en cuarto lugar, en función de la voluntad del propio legislador estatutario, pues depende de él asumir o no competencias sobre un conjunto material
+D) En primer lugar, de las reservas a favor del Estado que contenga la Constitución, por lo que, el precepto legal que determina las materias competencia del Estado se ha de interpretar teniendo en cuenta las materias que se le atribuyen a las CCAA. En segundo lugar, dependiendo de la amplitud se competencias que se asumen respecto de cada materia. En tercer lugar, depende de la plenitud dispositiva del Estatuto de Autonomía y en cuarto lugar, en función de la voluntad del propio legislador estatutario, pues depende de él asumir o no competencias sobre un conjunto material.
+
+
+
+51. En los municipios de población inferior a 5.000 habitantes la aprobación del gasto será sustituida por una certificación de existencia de crédito que se expedirá por el Secretario Interventor o...
+A) Por el secretario general técnico
+B)  Por el Interventor de la Corporación.
+C) Por el inspector del Tribunal de Cuentas
+D) Ninguna de las anteriores.
+
+
+
+52. La persona que viva en varios municipios a lo largo del año ¿en el padrón municipal de qué ayuntamiento está obligada a inscribirse?
+A) En todos
+B)  En ninguno
+C) En el que reside en primer lugar
+D) En el que habite durante más tiempo al año
+
+
+
+53. Señala la afirmación correcta sobre las ordenanzas de buen gobierno:
+A) Son los que contienen especificaciones acerca de cómo debe ser el buen gobierno municipal (indicaciones de transparencia, acceso a la información, etc)
+B)  Son las que contienen normas para ordenar la vida de la comunidad municipal, en general
+C) Son las que contienen especificaciones acerca del cumplimiento por el Gobierno local de las reglas de transparencia y acceso a la información pública
+D) Ninguna de las respuestas anteriores es correcta
+
+
+
+54. Son competencia propias del Municipio en los términos de la legislación del Estado y de las Comunidades Autónomas:
+A) El planeamiento, gestión, ejecución y disciplina urbanística
+B)  El abastecimiento de agua potable a domicilio y evacuación y tratamiento de aguas residuales
+C) El medio ambiente urbano: en particular, parques y jardines públicos, gestión de los residuos sólidos urbanos y protección contra la contaminación acústica, lumínica y atmosférica en las zonas urbanas
+D) Todas las respuestas son correctas
+
+
+
+55. Cuando hablamos de que el empresario/a ha de tener en cuenta la naturaleza de la actividad, las características de los puestos de trabajo, del personal trabajador y de los equipos de trabajo nos referimos a…
+A) La evaluación de los riesgos laborales
+B)  La planificación de la actividad preventiva
+C) La labor del personal responsable en materia de recursos humanos
+D) Todas las respuestas anteriores son correctas
+
+
+
+56. El conjunto de normas que emanan del Tratado de Maastricht constituyen
+A) El derecho originario de la UE
+B)  Los principios generales del derecho comunitario
+C) El derecho derivado de la UE as respuestas a y b son correctas
+D) La primera y la segunda respuesta son correctas 
+
+
+
+57. El Reglamento Europeo
+A) Siempre tiene efecto directo
+B)  Siempre tiene efecto indirecto
+C) Siempre tiene efecto derivado
+D) Siempre tiene efecto transponedor
+
+
+
+58. Indica en cuál de los siguientes ámbitos no hay competencia exclusiva de la UE 
+A) La Unión aduanera
+B)  La política monetaria de los Estados miembros cuya moneda es el euro
+C) El mercado interior
+D) La política comercial común
+
+
+
+59. Las competencias compartidas entre la Unión y los Estados miembros se aplicarán a los siguientes ámbitos principales:
+A) El mercado interior
+B)  La política social, en los aspectos definidos en el presente Tratado
+C) La cohesión económica, social y territorial
+D) Todas son correctas
+
+
+
+60. Los movimientos de capital ejercen una importante presión en mercados de divisas. Por este motivo, dentro de la libre circulación de capitales, existe una cláusula de salvaguarda a través de la que un Estado permite y autoriza, la adopción de medidas de salvarguarda, por un tiempo que no podrá exceder de:
+A) Dos meses
+B)  Tres meses
+C) Seis meses
+D) Un año
+
+
+
+61. Una de las siguientes no es una fase de un procedimiento de consulta en la Unión Europea
+A) Propuesta
+B)  Consulta
+C) Planificación
+D) Decisión
+
+
+
+62. ¿ A quién le corresponde regular y garantizar las condiciones de igualdad entre hombres y mujeres?
+A) Es una competencia exclusiva del Estado, de acuerdo con el artículo 149.1 de la Constitución.
+B)  Es una competencia que le corresponde a las Entidades Locales y Comunidades Autónomas. Cada territorio tendrá en cuenta las estadísticas de desigualdad y en base a las mismas implantará sus propios planes de no discriminación.
+C) Es una competencia del Estado, sin perjuicio de que las Comunidades o Administraciones puedan implantar sus mecanismos de igualdad.
+D) Es una materia que sólo puede ser regulada por Ley Orgánica y le corresponde su aprobación al Congreso de los Diputados, lo que genera que la competencia sea únicamente del Estado.
+
+
+
+63. Indica cuál de las siguientes afirmaciones es falsa en relación con los planes de igualdad de las empresas:
+A) Son un conjunto ordenado de medidas, adoptadas después de realizar un diagnóstico de situación, tendentes a alcanzar en la empresa la igualdad de trato y de oportunidades entre mujeres y hombres y a eliminar la discriminación por razón de sexo
+B)  Fijan los concretos objetivos de igualdad a alcanzar, las estrategias y prácticas a adoptar para su consecución
+C) Pueden incluir solamente a una parte de la empresa
+D) Pueden contemplar, entre otras, las materias de acceso al empleo, clasificación profesional, promoción y formación
+
+
+
+64. Las obligaciones contenidas en la Ley 3/2007 para la igualdad efectiva de mujeres y hombres son de aplicación
+A) Solo para las personas físicas que se encuentren o actúen en territorio español
+B)  Para todas las personas físicas o jurídicas españolas
+C) Para todas las personas físicas o jurídicas que se encuentren o actúen en territorio español
+D) Todas las respuestas son falsas
+
+
+
+65. Señala la respuesta correcta con respecto a la discriminación indirecta por razón de sexo:
+A) Es la situación en que una disposición, un criterio o una práctica que aparentemente son neutros, ponen a personas de un determinado sexo en desventaja particular con respecto a la personas del otro sexo
+B)  Es la situación en que una disposición, un criterio o una práctica aparentemente neutra, pone a personas de un determinado sexo en desventaja frente a las personas del sexo opuesto; con la salvedad de que la discriminación objetiva es justificada y su finalidad es legítima y los medios son adecuados y necesarios. 
+C) Es la situación en la que se encuentra una persona que es, fue o pueda ser tratada, en atención a su sexo, de manera menos favorable que en otra situación que se pudiera comparar. 
+D) Todas las respuestas anteriores son correctas
+
+
+
+66. En la normativa de Protección de Datos se hace alusión a las categorías especiales de datos. En estas situaciones sólo el consentimiento del afectado no es suficiente para su tratamiento. Esto ocurre cuando los datos sean inherentes a...
+A) Ideología política, religión, orientación sexual, origen racial.
+B)  Datos de carácter penal, ideología, política, origen racial o religión
+C) Ideología, afiliación sindical, religión, orientación sexual, creencias, origen étnico o racial
+D) Cualquier dato relativo al pensamiento político
+
+
+
+67. ¿En que ocasiones permite la LOPD que el Presidente de la AEPD cese con carácter previo?
+A) Incumplimiento grave de sus funciones, incapacidad sobrevenida para el ejercicio de su función, investigación por presunto delito, incompatibilidad
+B)  Incumplimiento grave de sus obligaciones, incapacidad sobrevenida para el ejercicio de su función, condena firma por delito doloso, incompatibilidad
+C) Incumplimiento muy grave de sus obligaciones, incapacidad sobrevenida para el ejercicio de sus funciones, condena firma por delito doloso, incompatibilidad
+D) Incumplimiento grave de sus obligaciones, incapacidad para el ejercicio de su función, condena firma por delito doloso, incompatibilidad
+
+
+
+68. Atendiendo al Reglamento Europeo de Protección de Datos, ¿en qué situaciones no está prohibido el tratamiento de datos personales pertenecientes a categorías especiales?
+A) Cuando el interesado haya otorgado su consentimiento explícito para el tratamiento de dichos datos en uno o más fines especificados
+B)  El tratamiento es necesario para el cumplimiento de obligaciones y el ejercicio de derechos específicos del responsable del tratamiento en el ámbito del Derecho Penal
+C) Cuando el tratamiento sea necesario para la protección de intereses vitales del interesado, o bien de otra persona jurídica, en el caso de que el interesado no esté capacitado, física o jurídicamente
+D) La primera y tercera respuesta son correctas
+
+
+
+69. El ámbito subjetivo de aplicación del Título I de la Ley 19/2013 de Transparencia y Buen Gobierno incluye: 
+A) A las fundaciones del sector público previstas en la legislación en materia de fundaciones
+B)  Corporaciones de Derecho Público
+C) Partidos políticos y organizaciones sindicales y empresariales, en algunos de los preceptos
+D) Todas las respuestas son correctas
+
+
+
+70. En virtud de la Ley de Transparencia, ¿cómo se puede efectuar la solicitud de acceso a la información?
+A) Por cualquier medio siempre que permita tener constancia de la identidad del solicitante y la información 
+B)  Por cualquier medio siempre que consten los extremos más importantes, como la modalidad por la que prefiera acceder a la información solicitada
+C) Bajo cualquier medio que permita corroborar la fecha de la solicitud, su registro en la administración, la identidad del solicitante, el objeto de la información y una dirección de contacto
+D) Ninguna de las respuestas anteriores es correcta
+
+
+
+71. Jurídicamente la financiación de las CCAA se rige por:
+A) La LO 8/1980, el estatuto de autonomía de cada CCAA y otras leyes o normas
+B)  La LO 8/1981, el estatuto de autonomía de cada CCAA y otras leyes o normas
+C) El estatuto de autonomía de cada CCAA exclusivamente
+D) Todas son las respuestas son falsas
+
+
+
+72. La LO de Financiación de las Comunidades Autónomas se estructura en:
+A) 34 artículos
+B)  25 artículos
+C) 24 artículos
+D) 8 artículos
+
+
+
+73. Se entiende por sostenibilidad financiera
+A) La situación de equilibrio o superávit estructural.
+B)  La capacidad para financiar compromisos de gasto presentes y futuros dentro de los límites de déficit, deuda pública y morosidad de deuda comercial conforme a lo establecido en esta Ley, la normativa sobre morosidad y en la normativa europea.
+C) Si el periodo medio de pago a los proveedores no supera el plazo máximo previsto en la normativa sobre morosidad.
+D) Todas las respuestas son correctas
+
+
+
+74. El procedimiento administrativo es un tipo de procedimiento
+A) Declarativo
+B)  Ejecutivo
+C) Interpretativo
+D) De simple gestión
+
+
+
+75. ¿La Administración puede actuar con capacidad jurídico-privada?
+A) Sí.
+B)  No.
+C) La Administración como tal no, pero si alguno de sus órganos
+D) La Administración no, pero sí el personal al servicio de ella
+
+
+
+76. El artículo 2 de la Ley 39/2015 establece el ámbito subjetivo de aplicación por el que se consideran Administraciones Públicas:
+A) La Administración General del Estado
+B)  Las Administraciones de las Comunidades Autónomas
+C) Las Entidades que integran la Administración Municipal
+D) Todas las respuestas son correctas
+
+
+
+77. La falta o insuficiente acreditación de la representación no impedirá que se tenga por realizado el acto de que se trate, siempre que se aporte aquélla o se subsane el defecto dentro del plazo de:
+A) 10 días
+B)  20 días
+C) 5 días
+D) 15 días
+
+
+
+78. En el procedimiento administrativo, cuando el último día del plazo sea inhábil, se entenderá prorrogado
+A) Al día siguiente
+B)  Al día siguiente hábil
+C) Da igual, no se prorroga el plazo
+D) No se prorroga, finalizando el día anterior
+
+
+
+79. Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas podrán presentarse de diferentes formas. Indica cuál de las siguientes es incorrecta:
+A) En el registro electrónico de la Administración u Organismo al que se dirijan, así como en los restantes registros electrónicos del sector público.
+B)  En las oficinas de Correos, en la forma que reglamentariamente se establezca.
+C) En las embajadas de España en el extranjero pero no en las oficinas consulares
+D) En las oficinas de asistencia en materia de registros.
+
+
+
+80. Según la Ley 39/2015, cuando los plazos se señalen por horas, se entiende que éstas son hábiles. ¿Cuáles son las horas hábiles?
+A) De 9.00 a 19.00 de un día hábil
+B)  De 09.00 a 14.00 de un día hábil
+C) De 08.00 a 14.00 de un día hábil.
+D) Todas las horas de un día hábil son hábiles
+
+
+
+81. ¿En cuál de los siguientes lugares podría presentar la solicitud para la iniciación de un procedimiento administrativo?
+A) En el registro electrónico de la Administración u Organismo al que dirija la solicitud
+B)  En la oficina de Correos
+C) En la representación diplomática de España en Croacia
+D) Todas las respuestas anteriores son correctas
+
+
+
+82. En relación con el cómputo de plazos, indica la respuesta correcta
+A) Cuando los plazos se señalen por días, se entiende que éstos son naturales
+B)  Los plazos expresados en días se contarán a partir del día en que tenga lugar la notificación o publicación del acto de que se trate, o desde el siguiente a aquel en que se produzca la estimación o la desestimación por silencio administrativo
+C) Cuando el último día del plazo sea inhábil, se entenderá prorrogado al día siguiente
+D) Cuando un día fuese hábil en el municipio o Comunidad Autónoma en que residiese el interesado, e inhábil en la sede del órgano administrativo, o a la inversa, se considerará inhábil en todo caso
+
+
+
+83. La doctrina suele distinguir tres clases de contenidos dentro del los elementos objetivos de los actos administrativos
+A) El contenido esencial
+B)  El contenido natural
+C) El contenido accidental
+D) Todas las respuestas son correctas
+
+
+
+84. La estimación por silencio administrativo tiene a todos los efectos la consideración de
+A) Acto administrativo finalizador del procedimiento
+B)  Permitir solamente a los interesados la interposición de recurso administrativo o contencioso-administrativo que sea procedente
+C) La Administración tiene la obligación de resolver por lo que no se puede dar una situación de estimación por silencio administrativo
+D) Todas las respuestas son falsas
+
+
+
+85. La Ley 39/2015 considera que la realización material de una decisión anterior es el objeto de los procedimientos:
+A) Declarativos
+B)  Ejecutivos
+C) De simple gestión
+D) Todas las respuestas son falsas
+
+
+
+86. Los procedimientos administrativos que tienden a la realización material de una decisión anterior ya definitiva, se denominan:
+A) Procedimientos declarativos
+B)  Procedimientos ejecutivos
+C) Procedimientos de simple gestión
+D) Procedimientos simplificados
+
+
+
+87. Según el artículo 30 de la Ley 39/2015 del Procedimiento Administrativo Común, siempre que por Ley o en el Derecho de la UE no se exprese otro cómputo, cuando los plazos se señalen por días, se entiende que éstos son:
+A) Naturales
+B)  Hábiles, excluyéndose del cómputo los domingos y los declarados festivos
+C) Hábiles, excluyéndose del cómputo los sábados, los domingos y los festivos
+D) Las respuestas anteriores son incorrectas
+
+
+
+88. Si la resolución a una reclamación previa a la vía judicial civil no se notifica en el plazo de tres meses el interesado considera:
+A) Estimada su reclamación
+B)  Desestimada su reclamación
+C) Estimada su reclamación si es alguno de los supuestos marcados en el art. 125 de la Ley de PAC
+D) Esta reclamación ya no está contemplada en la Ley 39/2015 de PAC
+
+
+
+89. El plazo para interponer recurso contencioso-administrativo es:
+A) Dos meses contados desde el día siguiente al de la publicación de la disposición impugnada o al de la notificación o publicación del acto que ponga fin a la vía administrativa, si fuera expreso
+B)  Tres meses contados desde el día siguiente al de la publicación de la disposición impugnada o al de la notificación o publicación del acto que ponga fin a la vía administrativa, si fuera expreso
+C) Seis meses meses contados desde el día siguiente al de la publicación de la disposición impugnada o al de la notificación o publicación del acto que ponga fin a la vía administrativa, si fuera expreso
+D) Un mes contado desde el día siguiente al de la publicación de la disposición impugnada o al de la notificación o publicación del acto que ponga fin a la vía administrativa, si fuera expreso
+
+
+
+90. El plazo para interponer un recurso potestativo de reposición será
+A) 3 meses si el acto fuera expreso
+B)  1 mes si el acto no fuera expreso
+C) 1 mes si el acto es expreso
+D) 1 mes en todo caso
+
+
+
+91. En el artículo 116 de la Ley 39/2015 se indican las causas de inadmisión de los recursos administrativos. Indica cuál no es una de ellas:
+A) Ser incompetente el órgano administrativo, cuando el competente perteneciera a otra Administración Pública y, en este caso, el recurso deberá remitirse al órgano competente
+B)  Carecer de legitimación el recurrente
+C) Tratarse de un acto susceptible de recurso
+D) Haber transcurrido el plazo para la interposición del recurso.
+
+
+
+92. Según la Ley de Procedimiento administrativo, la resolución de un recurso administrativo:
+A) Estimará o en parte las pretensiones formuladas en el mismo
+B)  Desestimará  las pretensiones formuladas en el mismo
+C) Declarará su inadmisión
+D) Todas las respuestas son correctas
+
+
+
+93. Cuando la responsabilidad patrimonial de la Administración se generase por la aplicación de normas contrarias a derecho o normas inconstitucionales, las lesiones que se hubiesen producido van a ser indemnizables en el plazo de 
+A) Los cinco años anteriores a la fecha de publicación de la sentencia que declare inconstitucional la ley o el carácter contrario al Derecho de la UE, salvo que la sentencia disponga otra cosa.
+B)  Los diez años anteriores a la fecha de publicación de la sentencia que declare inconstitucional la ley o el carácter contrario al Derecho de la UE, salvo que la sentencia disponga otra cosa.
+C) Los tres años anteriores a la fecha de publicación de la sentencia que declare inconstitucional la ley o el carácter contrario al Derecho de la UE, salvo que la sentencia disponga otra cosa.
+D) Los ocho años anteriores a la fecha de publicación de la sentencia que declare inconstitucional la ley o el carácter contrario al Derecho de la UE, salvo que la sentencia disponga otra cosa.
+
+
+
+94. ¿La indemnización que proceda de un procedimiento de responsabilidad patrimonial podrá sustituirse por una compensación en especie?
+A) Si,  a criterio de la Administración
+B)  Sí, en todo caso
+C) Sí, cuando resulte más adecuado para lograr la reparación debida, convenga la interés público y exista acuerdo con el interesado
+D) No.
+
+
+
+95. Las Administraciones Públicas admitirán, en sus relaciones por medios electrónicos, sistemas de firma electrónica que sean conformes a la:
+A) Ley 40/2015, de 1 de octubre
+B)  Ley 40/2015, de 23 de octubre
+C) Ley 59/2003, de 19 de diciembre
+D) Ley 59/2003, de 17 de diciembre
+
+
+
+96. El contenido mínimo que debe figurar en las sedes electrónicas es: 
+A) Inventario de los servicios y procedimientos administrativos disponibles en la sede electrónica y, en su caso, la carta de servicio y carta de servicios electrónicos
+B)  Identificación de la sede, de su órgano titular, así como del órgano u órganos responsables de la gestión y de los servicios puestos a disposición de la ciudadanía en la misma
+C) La relación de los medios electrónicos que se pueden utilizar.
+D) Un servicio de contacto para el asesoramiento electrónico al usuario en la correcta utilización de la sede
+
+
+
+97. Los registros electrónicos permitirán la presentación de solicitudes, escritos y comunicaciones:
+A) Todos los días, en horario laborable de la Administración
+B)  Todos los días hábiles
+C) Todos los días del año durante las veinticuatro horas
+D) Todos los días del año durante las veinticuatro horas, excepto domingos
+
+
+
+98. El Estatuto de Autonomía de Canarias establece que el Presidente de Canarias es nombrado por:
+A) El Parlamento de Canarias
+B)  El Presidente del Gobierno de España
+C) El Rey
+D) Las Cortes Generales
+
+
+
+99. En virtud del Estatuto de Autonomía de Canarias, se establece que el régimen económico-fiscal de Canarias sólo puede ser modificado con previo informe: 
+A) Del Parlamento de Canarias aprobado por dos terceras partes de sus miembros
+B)  De las Cortes Generales aprobado por dos terceras partes de sus miembros
+C) Del Tribunal Superior de Justicia de Canarias
+D) Del Tribunal Constitucional
+
+
+
+100. En virtud del artículo 45 del Estatuto de Autonomía de Canarias, ¿en qué casos no se puede delegar en el Gobierno la potestad de dictar normas con rango de Ley?
+A) Las Leyes de presupuesto de las Entidades Locales
+B)  Las Leyes que requieran mayoría simple del Parlamento
+C) Las Leyes de presupuesto de la Comunidad Autónoma
+D) Las Leyes que requieran mayoría absoluta del Parlamento
+
+
+
+101. Señala la respuesta correcta, en relación con la alteración de términos municipales que se regula en la Ley 7/2015, de Municipios de Canarias:
+A) El Gobierno de Canarias adoptará las medidas para la fusión voluntaria de municipios atendiendo a criterios de territorio, población, calidad de servicios y economía de medios
+B)  El Municipio resultante de la fusión podrá segregarse cuando pase el período y los plazos previstos en el Estatuto de Autonomía
+C) La iniciativa de segregación en la Comunidad de Canarias, sólo puede prosperar en núcleos de población diferenciada de más de 10.000 habitantes
+D) Todas las respuestas son correctas
+
+
+
+102. Con carácter añadido a las competencias atribuidas en la legislación general de régimen local, en virtud de la Ley de Municipios de Canarias, ¿qué competencia le corresponde al Alcalde?
+A) Firmar los Convenios acordados por el Pleno
+B)  El nombramiento y cese del personal interino
+C) Resolución de las reclamaciones previas a la vía civil y contenciosa
+D) Todas las respuestas son correctas
+
+
+
+103. ¿Cuáles son los órganos complementarios de existencia preceptiva en los municipios de más de 50.000 habitantes, según la Ley 7/2015, de Municipios?
+A) Consejos de participación ciudadana
+B)  Juntas de distrito
+C) Consejos de sector
+D) Ninguno de los anteriores
+
+
+
+104. ¿Cuál es procedimiento que recoge la Ley 12/2014, de transparencia y acceso a la información pública en la Comunidad de Canarias, sobre la elección y nombramiento del comisionado o comisionada?
+A) El comisionado de Transparencia y Acceso a la Información Públicas será elegido por mayoría simple del Parlamento de Canarias, conforme con el procedimiento que s establezca por el mismo
+B)  El comisionado de Transparencia y Acceso a la Información Pública será elegido por mayoría de tres quintas partes del Parlamento de Canarias, conforme con el procedimiento que se establezca por el mismo
+C) El comisionado de Transparencia y Acceso a la Información Pública será elegido por mayoría cualificad del Parlamento de Canarias, conforme con el procedimiento que se establezca por el mismo
+D) El Comisionado de Transparencia y Acceso a la Información Pública será elegido por mayoría reforzada del Parlamento de Canarias, conforme con el procedimiento que se establezca por el mismo
+
+
+
+105. Según el Decreto 19/2011, de medios electrónicos de la Administración Pública de Canarias, ¿en qué ocasiones el registro electrónico puede rechazar los documentos electrónicos?
+A) Que se trate de documentos no normalizados, dirigidos a órganos u organismos fuera del ámbito material del registro
+B)  Que contengan códigos maliciosos o dispositivos susceptibles de afectar a la integridad o seguridad del sistema
+C) Que no se cumplimenten los campos requeridos en el correspondiente acto de aprobación del documento
+D) Todas las respuestas son correctas
+
+
+
+106. En virtud del Decreto 193/1998, de regulación de Comisiones Interdepartamentales del Gobierno de Canarias,  ¿cuál de los siguientes miembros no forma parte del grupo de trabajo encargado de estudiar los asuntos que le someta la comisión sectorial de la Interdepartamental para la Reforma Administrativa?
+A) El Secretario General de la Presidencia del Gobierno
+B)  Dos funcionarios designados por el Vicepresidente
+C) Dos funcionarios designados por la Consejería de Economía y Hacienda
+D) Un funcionario de la Secretaría General de la Presidencia del Gobierno, que actúa como Secretario con voz y voto
+
+
+
+107. En virtud del Decreto 212/1991, de organización administrativa de Canarias, ¿cuál de los siguientes no es un órgano superior o directivo de las Consejerías?
+A) Las Viceconsejerías
+B)  Las Secretarías Generales Técnicas
+C) Las Direcciones Generales
+D) Los Órganos Colegiados adscritos a cualquier Consejería 
+
+
+
+108. El Decreto 212/1991, de organización administrativa de Canarias establece que los órganos departamentales podrán dictar instrucciones y directrices a órganos y unidades que sean dependientes de funcionamiento de los mismos. ¿Qué carácter tienen dichas instrucciones o directrices?
+A) Las directrices son obligatorias para sus destinatarios en todos los elementos
+B)  Ambas son obligatorias en todos sus elementos
+C) Las directrices obligan a sus destinatarios respecto de un resultado y un plazo para su alcance, permitiendo la libertad de medios a los órganos o unidades que sean dependientes
+D) Las instrucciones no son obligatorias
+
+
+
+109. En virtud de lo establecido en el Decreto 212/1991, de organización de la Administración de Canarias, ¿qué ocurre cuando una disposición normativa no atribuya el ejercicio de una competencia a un órgano concreto?
+A) Automáticamente la competencia se ejerce por los órganos centrales
+B)  Se entiende que los órganos centrales se encargan de la resolución y los órganos inferiores por materia o territorio se encargan de instruir
+C) En estos casos la facultad de resolver e instruir se otorga a los órganos inferiores, competentes por razón de la materia o territorio
+D) En estos casos, es la Consejería competente, en función del tema que se trate, la encargada de determinar a quién le corresponde la competencia
+
+
+
+110. En virtud de lo establecido en el artículo 7 del Decreto 212/1991, de organización de los Departamentos de la Administración Autonómica de Canarias, señala la respuesta falsa sobre la avocación:
+A) La avocación tiene un carácter excepcional, y por ello podrá alcanzar efectos generales
+B)  La efectividad de la avocación requiere que se adopte de forma motivada y que sea comunicada al órganos afectados y a los interesados en el procedimiento
+C) La resolución que se dicte por avocación ha de contener expresamente dicha circunstancia
+D) La avocación supone una excepción al sistema de reparto de competencias establecido en la normativa
+
+
+
+111. ¿Cuáles de las siguientes atribuciones pueden ser encomendadas a los jefes de sección o de negociado, en virtud del Decreto 212/1991, de organización de los Departamentos de la Administración de Canarias?
+A) Pueden notificar las resoluciones administrativas en las materias que tengan asignadas
+B)  Pueden expedir certificaciones de los expedientes que tramiten o cuyos antecedentes custodien, en las materias que tengan asignadas
+C) Pueden diligenciar las comparecencias de los administrados, en las materias que tengan asignadas
+D) Todas las respuestas son correctas
+
+
+
+112. Sobre el régimen jurídico de las administraciones públicas de Canarias, ¿quién presidirá la Comisión de Administración Territorial?
+A) La Comisión de Administración Territorial será presidida por el Vicepresidente del Gobierno de Canarias 
+B)  La Comisión de Administración Territorial será presidida por el Presidente del Gobierno de Canarias
+C) La Comisión de Administración Territorial será presidida por el Consejero competente en la materia en razón de los asuntos a tratar
+D) La Comisión de Administración Territorial será presidida Concejal que obtenga el mayor número de votos
+
+
+
+113. ¿Qué son las Comisiones Municipales Informativas de la Ley de régimen jurídico de las Administraciones Públicas de Canarias?
+A) Las Comisiones Informativas Municipales son órganos de estudio, asesoramiento, informa y consulta en las que participan Concejales de todos los grupos políticos presentes en la Corporación
+B)  Las Comisiones Informativas Municipales son órganos de enlace en las tareas de colaboración y coordinación con los órganos deliberantes o consultivos que se crean al amparo de lo previsto en la Ley de Bases de Régimen Local
+C) Las Comisiones Informativas Municipales son órganos de estudio, asesoramiento, informe y consulta en las que participan los antiguos Alcaldes de las entidades locales Canarias
+D) Ninguna de las respuestas anteriores es correcta
+
+
+
+114. ¿Se prevé en la Ley de Cabildos Insulares la posibilidad de que los Cabildos asistan a los municipios?
+A) Si, exclusivamente pueden prestar asistencia a los municipios de menos de 20.000 habitantes
+B)  Si, exclusivamente pueden prestar asistencia a los municipios con insuficiente capacidad económica y de gestión
+C) No, salvo cuando el propio municipio solicite a los Cabildos la asistencia material en la prestación de servicios municipales
+D) Ninguna de las anteriores es correcta
+
+
+
+115. Según la Ley de Cabildos Insulares, ¿en qué plazo se constituyen las comisiones mixtas entre el Gobierno de Canarias y cada uno de los cabildos insulares, una vez que ha sido publicado el Decreto de Transferencias?
+A) Se constituyen en el plazo de dos meses
+B)  Se constituyen en el plazo de tres meses
+C) Se constituyen en plazo de un mes
+D) Se constituyen en plazo de 30 días hábiles
+
+
+
+116. ¿Qué comisión especial del Pleno del Cabildo Insular es preceptiva, según la Ley de Cabildos Insulares?
+A) Resulta preceptiva la comisión especial informativa
+B)  Resulta preceptiva la comisión especial de cuentas
+C) Resulta preceptiva la comisión especial de sostenibilidad
+D) Resulta preceptiva la comisión especial de gobierno abierto
+
+
+
+117. Con carácter general y según la Ley de Cabildos Insulares, la coordinación de la actividad de los Cabildos es llevada a cabo:
+A) Por la Mancomunidad de Cabildos
+B)  Por la Asociación de Cabildos
+C) Por el Gobierno de Canarias
+D) Todas las respuestas son falsas
+
+
+
+118. Son ámbitos materiales de competencias de los Cabildos Insulares:
+A) Servicios forestales, vías pecuarias y pastos
+B)  Ferias y mercados insulares
+C) Las funciones propias de la Agencia de Extensión Agraria. Infraestructura rural de carácter insular. Granjas experimentales
+D) Todas las respuestas son correctas
+
+
+
+119. Señala, en su caso, cuál de las siguientes afirmaciones no es cierta en relación con las características esenciales de los Reglamentos comunitarios:
+A) Tienen alcance general
+B)  Son directamente aplicables en todos los Estados miembros que los suscriban
+C) Son obligatorios en todos sus elementos
+D) Todas las respuestas anteriores son correctas
+
+
+
+120. Según lo dispuesto en la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, la situación de equilibrio o superávit estructural de las Administraciones Públicas se considera:
+A) Sostenibilidad financiera
+B)  Estabilidad presupuestaria
+C) Eficiencia en la asignación y utilización de los recursos públicos
+D) Responsabilidad
+
+
+SOLUCIONES
+1 B
+2 A
+3 C
+4 B
+5 B
+6 C
+7 C
+8 C
+9 B
+10 B
+11 C
+12 A
+13 A
+14 C
+15 A
+16 A
+17 B
+18 A
+19 B
+20 B
+21 A
+22 B
+23 D
+24 B
+25 D
+26 D
+27 B
+28 C
+29 C
+30 B
+31 B
+32 C
+33 C
+34 C
+35 A
+36 B
+37 B
+38 A
+39 D
+40 C
+41 C
+42 B
+43 C
+44 B
+45 C
+46 C
+47 D
+48 D
+49 B
+50 D
+51 B
+52 D
+53 B
+54 D
+55 A
+56 A
+57 A
+58 C
+59 D
+60 C
+61 C
+62 C
+63 C
+64 C
+65 A
+66 C
+67 B
+68 A
+69 D
+70 B
+71 A
+72 C
+73 B
+74 C
+75 A
+76 C
+77 A
+78 B
+79 C
+80 D
+81 D
+82 D
+83 D
+84 A
+85 D
+86 B
+87 C
+88 D
+89 A
+90 C
+91 C
+92 D
+93 A
+94 C
+95 C
+96 B
+97 C
+98 C
+99 A
+100 C
+101 A
+102 A
+103 C
+104 B
+105 D
+106 B
+107 D
+108 C
+109 C
+110 A
+111 D
+112 A
+113 A
+114 D
+115 A
+116 B
+117 C
+118 D
+119 B
+120 B
