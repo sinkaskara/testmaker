@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import os
+import sys, getopt
 
 ruta_tests = "tests_ala/"
 
@@ -99,10 +100,30 @@ def parsear_fichero(fichero_test):
     parser.feed(test_file_loaded.read())
 
 
-def principal():
+def principal(inputfile):
     print("Inicio principal")
-    parsear_fichero("t1.html")
+    parsear_fichero(inputfile)
 
 
+def main(argv):
+   inputfile = ''
+   outputfile = ''
+   try:
+      opts, args = getopt.getopt(argv,"hi:o:",["ifile=","ofile="])
+   except getopt.GetoptError:
+      print ('alaparser.py -i <inputfile> -o <outputfile>')
+      sys.exit(2)
+   for opt, arg in opts:
+      if opt == '-h':
+         print ('alaparser.py -i <inputfile> -o <outputfile>')
+         sys.exit()
+      elif opt in ("-i", "--ifile"):
+         inputfile = arg
+      elif opt in ("-o", "--ofile"):
+         outputfile = arg
+   print ('Input file is "', inputfile)
+   print ('Output file is "', outputfile)
+   principal(inputfile)
 
-principal()
+if __name__ == "__main__":
+   main(sys.argv[1:])
