@@ -628,7 +628,9 @@ D) Todas las respuestas son falsas
 
 
 
-79. Por interés público, la Ley 39/2015 permite acordar la tramitación de urgencia de un procedimiento. En este caso, los plazos se reducen a la mitad. Indica cuál de las siguientes afirmaciones es falsa.
+79. ENUNCIADO CORREGIDO - Por interés público, la Ley 39/2015 permite acordar
+la tramitación de urgencia de un procedimiento. En este caso, los plazos se
+reducen a la mitad. Indica cuál de las siguientes afirmaciones es correcta.
 A) Solo se puede acordar la tramitación de urgencia a petición del interesado
 B)  Solo se puede acordar la tramitación de urgencia de oficio
 C) No cabe recurso alguno contra el acuerdo que declare la tramitación de urgencia de un procedimiento
