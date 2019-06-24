@@ -72,7 +72,7 @@ c) En el ejercicio de una actividad comprendida en el ámbito de aplicación del
 la Unión.
 d) Realizado con fines comerciales en el territorio de la Unión.
 
-7) Se entiende por datos personales:
+7) RESPUESTA OPCION CORREGIDA Se entiende por datos personales:
 a) Toda información sobre una persona física o jurídica identificada o identificable (“el
 interesado”)
 b) Toda información sobre una persona física identificada o identificable.
@@ -100,7 +100,7 @@ ING. INDUSTRIALES
 
 CA DE CANARIAS
 
-9) Se conoce como encargado del tratamiento:
+9) OPCION RESPUESTA CORREGIDA Se conoce como encargado del tratamiento:
 a) La persona física o jurídica, autoridad pública, servicio u otro organismo que
 determine los fines y medios del tratamiento.
 b) La persona física o jurídica, autoridad pública, servicio u otro organismo al que se
@@ -386,9 +386,9 @@ SOLUCIONES
 4	B
 5	C
 6	B
-7	A
+7	B
 8	B
-9	A
+9	D
 10	B
 11	C
 12	D
