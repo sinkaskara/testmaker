@@ -11,7 +11,8 @@ b. Los Secretarios de Estado, únicamente.
 c. Los dos anteriores y las juntas de contratación que se constituyan.
 d. Sólo las juntas de contratación que se constituyan.
 
-3. La celebración de un acuerdo marco celebrado por una entidad del
+3. LETRA DE RESPUESTA MODIFICADA 
+La celebración de un acuerdo marco celebrado por una entidad del
 sector público que sea poder adjudicador de acuerdo con el artículo 3.3.
 de la LCSP, necesita:
 a. Autorización del Ministro, en todo caso.
@@ -363,7 +364,7 @@ d. Ninguna de las anteriores.
 SOLUCIONES
 1	A
 2	C
-3	B
+3	C
 4	D
 5	C
 6	C
