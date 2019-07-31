@@ -52,7 +52,7 @@ d) 5 días naturales.
 
 121
 
-6. Por asuntos particulares, los funcionarios disponen de:
+6. RESPUESTA CORREGIDA Por asuntos particulares, los funcionarios disponen de:
 a) 6 días.
 
 c) 4 días.
@@ -283,7 +283,7 @@ SOLUCIONES
 3	A
 4	C
 5	A
-6	C
+6	A
 7	C
 8	C
 9	A
