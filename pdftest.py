@@ -50,7 +50,7 @@ def parsear_fichero(fichero_test):
     abs_file_path = os.path.join(script_dir, rel_path)
 
     # path = "tema11test3.txt"
-    log_file = open(abs_file_path, 'r')
+    log_file = open(abs_file_path, 'r', encoding='utf-8')
 
     preguntas_parseo = {}
     respuestas_parseo = {}
