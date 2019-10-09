@@ -230,13 +230,13 @@ de más de 100 euros, por lo que dicho afectado asumirá el exceso de costes que
 elección comporte.
 d) Cuando el afectado elija durante más de 6 meses y el coste sea desproporcionado.
 
-19) Conforme a lo establecido en el artículo 13.4 del Reglamento general de datos
+19) CORREGIDA SEGUN LA TIPA Conforme a lo establecido en el artículo 13.4 de la LOPD
 (Derecho de acceso), ¿en qué caso será exigible al responsable del tratamiento la
 satisfacción del derecho de acceso del interesado sin dilaciones indebidas?
 a) Cuando la solicitud sea considerada excesiva.
 b) Cuando la solicitud sea considerada repetitiva.
 c) Cuando el afectado elija un medio distinto al que se le ofrece.
-d) b) y c) son correctas.
+d) a) y c) son correctas.
 Artículo 13. Derecho de acceso
 20) Según artículo 13 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de
 Datos Personales y garantía de los derechos digitales (en adelante LOPDGDD), el
@@ -816,7 +816,7 @@ SOLUCIONES
 16	B
 17	C
 18	A
-19	A
+19	D
 20	B
 21	A
 22	C

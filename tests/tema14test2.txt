@@ -100,7 +100,7 @@ INGENIEROS INDUSTRIALES
 
 CA DE CANARIAS
 
-9) Se conoce como encargado del tratamiento:
+9) OPCION RESPUESTA CORREGIDA Se conoce como encargado del tratamiento:
 a) La persona física o jurídica, autoridad pública, servicio u otro organismo que
 determine los fines y medios del tratamiento.
 b) La persona física o jurídica, autoridad pública, servicio u otro organismo al que se
@@ -225,7 +225,7 @@ SOLUCIONES
 6	B
 7	B
 8	B
-9	A
+9	D
 10	B
 11	C
 12	D
