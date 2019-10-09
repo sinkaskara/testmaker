@@ -216,27 +216,6 @@ b) Limitación del tratamiento
 c) Elaboración de perfiles
 d) Tratamiento
 
-EXPLICACIONES
-1. B vigor
-2. C (Art.7 RGPD) definición consentimiento del interesado
-3. B (Art.4 RGPD) definiciones: la 5 “seudonimización”
-4. B (Art.1 RGPD) objeto
-5. C (Art.2 RGPD) ámbito de aplicación material
-6. B (Art.2 RGPD) ámbito de aplicación material
-7. B (Art.4 RGPD) definiciones: la 1 “datos personales”
-8. B (Art.4 RGPD) definiciones: la 6 “fichero”
-9. A (Art.4 RGPD) definiciones: la 8 “encargado del tratamiento”
-10. B (Art.4 RGPD) definiciones: la 15 “datos relativos a la salud”
-11. C (Art.4 RGPD) definiciones: la 23 “tratamiento transfronterizo”
-12. D (Art.6 RGPD) licitud del tratamiento
-13. C (Art.8 RGPD) condiciones consentimiento niño en relación servicios sociedad
-información
-14. A (Art.9 RGPD) tratamiento categorías especiales de datos personales
-15. B estructura
-16. C (Art.4 RGPD) definiciones: 2 “Tratamiento”
-17. A (Art.4 RGPD) definiciones: 9 “destinatario”
-18. C (Art. 4 RGPD) definiciones: 4 “elaboración de perfiles”
-
 SOLUCIONES
 1	B
 2	C
