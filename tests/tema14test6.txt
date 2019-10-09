@@ -1,0 +1,861 @@
+PREGUNTAS (61). L.O. 3/2018. Derechos
+TÍTULO III. Derechos de las personas
+
+1) ¿Bajo qué título de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de
+Datos Personales y garantía de los derechos digitales (en adelante LOPDGDD), se
+regulan los derechos de las personas?
+a) Título I
+b) Título II
+c) Título III
+d) Título IV
+
+2) El título que regula los derechos de las personas en la Ley Orgánica 3/2018, de 5
+de diciembre, de Protección de Datos Personales y garantía de los derechos
+digitales (en adelante LOPDGDD), ¿cuántos artículos contiene?
+a) 6
+b) 7
+c) 8
+d) 9
+
+3) No es un derecho regulado de los derechos de las personas establecidos en la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales (en adelante LOPDGDD), el de:
+a) Derecho de seguridad jurídica.
+b) Derecho de oposición.
+c) Derecho de supresión.
+d) Derecho a la limitación del tratamiento.
+
+Artículo 11. Transparencia e información del interesado.
+4) Con respecto a la transparencia e información al afectado como uno de los
+derechos de las personas regulados en un título de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales
+(en adelante LOPDGDD), el responsable del tratamiento podrá dar cumplimiento al
+deber de información cuando los datos personales sean obtenidos del afectado,
+¿dónde se establece este deber?
+a) En el artículo 13 del Reglamento (UE) 2016/679.
+b) En el artículo 23 del Reglamento (UE) 2016/679.
+c) En el artículo 3 del Reglamento (UE) 2016/679.
+d) En el artículo 33 del Reglamento (UE) 2016/679.
+
+5) ¿Qué información básica deberá facilitar el responsable del tratamiento cuando
+los datos personales sean obtenidos del afectado?
+
+www.temarioscanarias.com
+
+TEMA 14. SEGUNDA PARTE
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+a) Al menos, la finalidad del tratamiento, la identidad del responsable del tratamiento y
+de su representante.
+b) Al menos, la posibilidad de ejercer los derechos establecidos en los artículos 15 al
+22 del Reglamento (UE) 2016/679.
+c) Si los datos obtenidos del afectado fueran a ser tratados para la elaboración de
+perfiles, la información básica comprenderá también esta circunstancia.
+d) Todas son correctas.
+32
+
+6) Con respecto a la transparencia e información al afectado como uno de los
+derechos de las personas regulados en un título de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales
+(en adelante LOPDGDD), el responsable del tratamiento podrá dar cumplimiento al
+deber de información cuando los datos personales sean obtenidos del afectado,
+¿cuáles son los derechos incluidos en la información básica que deberá facilitar el
+responsable al afectado para que el mismo tenga la posibilidad de ejercerlos?
+a) Los establecidos en los artículos 5 a 12 del Reglamento (UE) 2016/679.
+b) Los establecidos en los artículos 15 a 22 del Reglamento (UE) 2016/679.
+c) Los establecidos en los artículos 15 a 20 del Reglamento (UE) 2016/679.
+d) Los establecidos en los artículos 5 a 22 del Reglamento (UE) 2016/679.
+
+7) De entre los siguientes derechos establecidos en el Reglamento (UE) 2016/679,
+¿cuál no entra dentro de los que el responsable en su deber de información, según
+los artículos 13 y 14, deberá facilitar al afectado en la información básica como
+posibilidad de ejercerlos?
+a) Derecho de rectificación.
+b) Derecho a la limitación del tratamiento.
+c) Derecho a la portabilidad de los datos.
+d) Todos ellos lo son.
+
+8) ¿En qué caso el afectado del tratamiento de datos personales deberá ser informado
+de su derecho a oponerse a la adopción de decisiones individuales automatizadas
+que produzcan efectos jurídicos sobre el mismo o le afecten significativamente de
+modo similar?
+a) Si los datos obtenidos del afectado fueran a ser tratados para la elaboración de
+perfiles.
+b) En cualquier caso.
+c) Si los datos no obtenidos del afectado fueran a ser tratados para la elaboración de
+perfiles.
+d) Ninguna es correcta.
+
+www.temarioscanarias.com
+
+TEMA 14. SEGUNDA PARTE
+
+33
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+9) Conforme a el tratamiento de datos personales: No ser objeto de una decisión
+basada únicamente en el tratamiento automatizado, incluida la elaboración de
+perfiles, que produzca efectos jurídicos en él (interesado/afectado) o le afecte
+significativamente de modo similar es:
+a) Un deber de información que deberá cumplir el interesado.
+b) Es un derecho del afectado/interesado.
+c) Es una obligación del afectado/interesado.
+d) Ninguna es correcta.
+
+10) ¿En qué artículo y normativa se basa lo anterior?
+a) En un derecho del responsable de acuerdo con lo previsto en el artículo 20 del
+Reglamento (UE) 2016/679.
+b) En un derecho del encargado de acuerdo con lo previsto en el artículo 42 del
+Reglamento (UE) 2016/679.
+c) En un derecho del interesado de acuerdo con lo previsto en el artículo 22 del
+Reglamento (UE) 2016/679.
+d) En un deber del interesado de acuerdo con lo previsto en el artículo 22 del
+Reglamento (UE) 2016/679.
+
+11) Conforme a el tratamiento de datos personales: Es un derecho del interesado no
+ser objeto de una decisión basada únicamente en el tratamiento automatizado,
+incluida la elaboración de perfiles, que produzca efectos jurídicos en él o le afecte
+significativamente de modo similar, excepto cuando la decisión:
+a) Está autorizada por el derecho de la Unión.
+b) Se basa en el consentimiento explícito del interesado.
+c) Es necesaria para la celebración o la ejecución de un contrato entre el interesado y
+un responsable del tratamiento.
+d) Todas son correctas.
+
+Artículo 12. Disposiciones generales sobre ejercicio de los derechos.
+12) Conforme al artículo 12 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección
+de Datos Personales y garantía de los derechos digitales (en adelante LOPDGDD),
+los derechos reconocidos en los artículos 15 a 22 del Reglamento (UE) 2016/679,
+podrán ejercerse:
+a) Sólo directamente.
+b) Solamente por medio de representante legal.
+c) Directamente o por medio de representante legal o voluntario.
+d) Ninguna de ellas es correcta.
+
+www.temarioscanarias.com
+
+TEMA 14. SEGUNDA PARTE
+
+34
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+13) Conforme al artículo 12 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección
+de Datos Personales y garantía de los derechos digitales (en adelante LOPDGDD),
+el responsable del tratamiento estará obligado a informar al afectado sobre los
+medios a su disposición para ejercer los derechos que le corresponden, en el caso
+de que un menor de 14 años quiera ejercitar su derecho, ¿podrá hacerlo?
+a) No, al ser menor de 18 años.
+b) Sí, pero deberá representarlo los titulares de la patria potestad del menor.
+c) Sí, sin ser necesaria la representación legal de tutores.
+d) No, en ningún caso.
+
+14) Las actuaciones llevadas a cabo por el responsable del tratamiento para atender
+las solicitudes de ejercicio de los derechos de acceso, rectificación, cancelación,
+oposición o cualesquiera otro que pudieran corresponderles en el contexto de la
+presente ley orgánica, ¿serán siempre gratuitas?
+a) Sí, en todo caso.
+b) No, conforme a lo dispuesto en los artículos 12.5 y 15.3 del Reglamento (UE)
+2016/679 y en los apartados 3 y 4 del artículo 13 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales
+(en adelante LOPDGDD).
+c) No, conforme a lo dispuesto en los artículos 12.5 y 15.3 del Reglamento (UE)
+2016/679 y en los apartados 3 y 4 del artículo 15 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales
+(en adelante LOPDGDD).
+d) No, conforme a lo dispuesto en los artículos 12.5 y 15.3 del Reglamento (UE)
+2016/679 y en los apartados 3 y 4 del artículo 14 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales
+(en adelante LOPDGDD).
+
+Artículo 12.5 Reglamento europeo
+15) Conforme a lo establecido en el artículo 12.5 del Reglamento general de datos,
+cuando las solicitudes de los interesados para ejercer sus derechos sean
+manifiestamente infundadas o excesivas, especialmente debido a su carácter
+repetitivo, el responsable del tratamiento de datos personales podrá:
+a) Cobrar un canon razonable en función de los costes administrativos afrontados para
+facilitar la información o la comunicación o realizar la actuación solicitada.
+b) Negarse a actuar respecto de la solicitud.
+c) Toda información facilitada así como toda comunicación y cualquier actuación
+realizada serán a título gratuito.
+d) a) y b) son correctas.
+
+Artículo 15.3 Reglamento europeo
+16) Conforme a lo establecido en el artículo 15.3 del Reglamento general de datos, el
+responsable del tratamiento de datos personales facilitará una copia de los datos
+personales objeto de tratamiento:
+
+www.temarioscanarias.com
+
+TEMA 14. SEGUNDA PARTE
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+a) Siempre será gratuita.
+b) El responsable podrá percibir por cualquier otra copia solicitada por el interesado un
+canon razonable basado en los costes administrativos.
+c) El responsable podrá negarse a facilitar la copia.
+d) Ninguna es correcta.
+
+35
+
+Artículo 13 (apartados 3 y 4) Reglamento europeo
+17) A los efectos establecidos en el artículo 12.5 del Reglamento (UE) 2016/679 se
+podrá considerar repetitivo el ejercicio del derecho de acceso en más de una
+ocasión durante un plazo de:
+a) No existe plazo.
+b) De 6 meses, en todo caso.
+c) De 6 meses, a menos que exista causa legítima para ello.
+d) De 3 meses, a menos que exista causa legítima para ello.
+
+18) Conforme a lo establecido en el artículo 13.4 del Reglamento general de datos
+(Derecho de acceso), ¿cuándo será considerada excesiva la solicitud?
+a) Cuando el afectado elija un medio distinto al que se le ofrece que suponga un coste
+desproporcionado, por lo que dicho afectado asumirá el exceso de costes que su
+elección comporte.
+b) Cuando el ejercicio del derecho de acceso sea en más de una ocasión durante un
+plazo de seis meses, a menos que exista causa legítima para ello.
+c) Cuando el afectado elija un medio distinto al que se le ofrece que suponga un coste
+de más de 100 euros, por lo que dicho afectado asumirá el exceso de costes que su
+elección comporte.
+d) Cuando el afectado elija durante más de 6 meses y el coste sea desproporcionado.
+
+19) Conforme a lo establecido en el artículo 13.4 del Reglamento general de datos
+(Derecho de acceso), ¿en qué caso será exigible al responsable del tratamiento la
+satisfacción del derecho de acceso del interesado sin dilaciones indebidas?
+a) Cuando la solicitud sea considerada excesiva.
+b) Cuando la solicitud sea considerada repetitiva.
+c) Cuando el afectado elija un medio distinto al que se le ofrece.
+d) b) y c) son correctas.
+Artículo 13. Derecho de acceso
+20) Según artículo 13 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de
+Datos Personales y garantía de los derechos digitales (en adelante LOPDGDD), el
+derecho de acceso del afectado se ejercitará de acuerdo con lo establecido en el
+artículo:
+a) 5 del Reglamento (UE) 2016/679.
+b) 15 del Reglamento (UE) 2016/679.
+c) 25 del Reglamento (UE) 2016/679.
+d) 35 del Reglamento (UE) 2016/679.
+
+www.temarioscanarias.com
+
+TEMA 14. SEGUNDA PARTE
+
+36
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+21) ¿En qué caso el responsable del tratamiento de datos personales podrá solicitar al
+afectado, antes de facilitar la información, que especifique los datos o actividades
+de tratamiento a los que se refiere la solicitud para que el afectado ejercite su
+derecho de acceso?
+a) Cuando el responsable trata una gran cantidad de datos relativos al afectado y este
+ejercita su derecho de acceso sin especificar si se refiere a todos o a una parte de
+los datos.
+b) Cuando el responsable trata datos especialmente protegidos.
+c) Cuando el responsable trata datos que han sido facilitados a terceros.
+d) Cuando el responsable trata pocos datos relativos al afectado y este ejercita su
+derecho de acceso sin especificar si se refiere a todos o a una parte de los datos.
+
+22) ¿Cuándo se entenderá otorgado el derecho de acceso, conforme al artículo 13 de
+la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales (en adelante LOPDGDD)?
+a) Si el responsable del tratamiento facilitara al afectado un sistema de acceso remoto,
+directo y seguro a los datos personales que garantice, de modo temporal, el acceso
+a su totalidad.
+b) Si el responsable del tratamiento facilitara al afectado un sistema de acceso remoto,
+directo y seguro a los datos personales que garantice, de modo permanente, el
+acceso a algunos de los datos.
+c) Si el responsable del tratamiento facilitara al afectado un sistema de acceso remoto,
+directo y seguro a los datos personales que garantice, de modo permanente, el
+acceso a su totalidad.
+d) Si el responsable del tratamiento facilitara al afectado un sistema de acceso remoto,
+directo y seguro a los datos personales que garantice, de modo temporal, el acceso
+una parte de los datos.
+
+23) ¿Qué bastará para tener por atendida la solicitud de ejercicio del derecho de
+acceso del afectado?
+a) La comunicación por el responsable al afectado del modo en que este podrá acceder
+al sistema de acceso remoto, directo y seguro a los datos personales que garantice,
+de modo temporal, el acceso a su totalidad.
+b) La comunicación por el responsable al afectado del modo en que este podrá acceder
+al sistema de acceso remoto, directo y seguro a los datos personales que garantice,
+de modo permanente, el acceso a su totalidad.
+c) La comunicación por el responsable al afectado del modo en que este podrá acceder
+al sistema de acceso remoto, directo y seguro a los datos personales que garantice,
+de modo permanente, el acceso de parte de los datos.
+d) La comunicación por el responsable al afectado del modo en que este podrá acceder
+al sistema de acceso remoto, directo y seguro a los datos personales que garantice,
+de modo temporal, el acceso a una parte de los datos.
+
+www.temarioscanarias.com
+
+TEMA 14. SEGUNDA PARTE
+
+37
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+24) El derecho de acceso se entenderá otorgado si el responsable del tratamiento
+facilitara al afectado un sistema de acceso remoto, directo y seguro a los datos
+personales que garantice, de modo permanente, el acceso a su totalidad. Si en
+dicho sistema no se incluye la información referida a los extremos previstos en el
+artículo 15.1 del Reglamento (UE) 2016/679:
+a) El interesado podrá solicitar del responsable la información referida a dichos
+extremos.
+b) El interesado podrá solicitar del responsable la información referida a dichos
+extremos pagando un canon.
+c) El interesado no podrá solicitar del responsable la información referida a dichos
+extremos fuera del plazo de 30 días desde el primer día de acceso.
+d) Ninguna es correcta.
+
+Artículo 14. Derecho de rectificación
+25) Conforme a lo establecido en el artículo 14 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales
+(en adelante LOPDGDD), el derecho de rectificación que ejerce el afectado del
+tratamiento de datos personales es el reconocido en el artículo:
+a) 14 del Reglamento (UE) 2016/679.
+b) 15 del Reglamento (UE) 2016/679.
+c) 16 del Reglamento (UE) 2016/679.
+d) 17 del Reglamento (UE) 2016/679.
+
+26) Conforme a lo establecido en el artículo 14 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales
+(en adelante LOPDGDD), ¿qué deberá indicar el afectado en la solicitud del derecho
+de rectificación?
+a) A qué datos se refiere y la corrección que haya de realizarse, además deberá
+acompañar, en todo caso, la documentación justificativa de la inexactitud o carácter
+incompleto de los datos objeto de tratamiento.
+b) A qué datos se refiere y la corrección que haya de realizarse, además deberá
+acompañar, cuando sea preciso, la documentación justificativa de la inexactitud o
+carácter incompleto de los datos objeto de tratamiento.
+c) A qué datos se refiere y la corrección que haya de realizarse, además deberá
+acompañar, cuando sea preciso, un informe de los datos que no han de añadirse.
+d) Ninguna es correcta.
+
+Artículo 15. Derecho de supresión
+27) Conforme a lo establecido en el artículo 15 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales
+(en adelante LOPDGDD), el derecho de supresión que ejerce el afectado del
+tratamiento de datos personales es el reconocido en el artículo:
+
+a) 15 del Reglamento (UE) 2016/679.
+b) 16 del Reglamento (UE) 2016/679.
+c) 17 del Reglamento (UE) 2016/679.
+d) 18 del Reglamento (UE) 2016/679.
+
+
+28) ¿Cómo se denomina el artículo 17 del Reglamento (UE) 2016/679 por el cual se
+ejercerá el derecho de supresión establecido en el artículo 15 de la Ley Orgánica
+3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los
+derechos digitales (en adelante LOPDGDD?
+a) Derecho de cancelación.
+b) Derecho de rectificación.
+c) Derecho de supresión («el derecho al olvido»).
+d) Derecho de portabilidad.
+
+29) Según lo establecido en artículo 15.2 de la Ley Orgánica 3/2018, de 5 de diciembre,
+de Protección de Datos Personales y garantía de los derechos digitales (en adelante
+LOPDGDD), el responsable podrá conservar los datos identificativos del afectado
+necesarios con el fin de impedir tratamientos futuros para fines de mercadotecnia
+directa, ¿en qué caso?
+a) Cuando la supresión derive del ejercicio del derecho de rectificación con arreglo al
+artículo 21.2 del Reglamento general de protección de datos.
+b) Cuando la supresión derive del ejercicio del derecho de oposición con arreglo al
+artículo 21.2 del Reglamento general de protección de datos.
+c) Cuando la supresión derive del ejercicio del derecho de supresión con arreglo al
+artículo 21.2 del Reglamento general de protección de datos.
+d) Cuando la supresión derive del ejercicio del derecho de oposición con arreglo al
+artículo 2 del Reglamento general de protección de datos.
+Artículo 17 Derecho de supresión («el derecho al olvido») del Reglamento Europeo (al
+estar vinculado al artículo 15 se realizarán preguntas sobre el mismo)
+30) ¿En qué supuesto el responsable del tratamiento de los datos personales estará
+obligado a suprimirlos sin dilación indebida?
+a) Cuando el interesado se oponga al tratamiento con arreglo al artículo 21, apartado 1,
+y no prevalezcan otros motivos legítimos para el tratamiento, o el interesado se
+oponga al tratamiento con arreglo al artículo 21, apartado 2.
+b) Cuando el interesado retire el consentimiento en que se basa el tratamiento de
+conformidad con el artículo 6, apartado 1, letra a), o el artículo 9, apartado 2, letra a),
+y este no se base en otro fundamento jurídico.
+c) Cuando los datos personales ya no sean necesarios en relación con los fines para
+los que fueron recogidos o tratados de otro modo.
+d) Todas son correctas.
+
+www.temarioscanarias.com
+
+TEMA 14. SEGUNDA PARTE
+
+39
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+31) ¿En qué supuesto el responsable del tratamiento de los datos personales estará
+obligado a suprimirlos sin dilación indebida?
+a) Cuando deban suprimirse para el cumplimiento de una obligación legal establecida
+en el Derecho de la Unión o de los Estados miembros que se aplique al responsable
+del tratamiento.
+b) Cuando los datos personales se hayan obtenido con la oferta de servicios de la
+sociedad de la información mencionados en el artículo 8, apartado 1 del Reglamento
+general de protección de datos.
+c) Cuando los datos personales hayan sido tratados ilícitamente.
+d) Todas son correctas.
+
+32) Conforme al Reglamento General de Protección de Datos: Si el consentimiento del
+tratamiento de datos personales se aplica en relación con la oferta directa a niños
+de servicios de la sociedad de la información, el tratamiento de los datos personales
+de un niño se considerará lícito cuando tenga como mínimo 16 años, si es menor
+de 16 años, tal tratamiento únicamente se considerará lícito si el consentimiento lo
+dio o autorizó el titular de la patria potestad o tutela sobre el niño, los Estados
+miembros podrá establecer por ley una edad inferior a tales fines, siempre que no
+sea inferior a 13 años, ¿qué edad ha establecido la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales
+para estos fines?
+a) 16 años. Será lícito si es mayor de 16 años, si es menor de 16 será lícito si consta el
+de la patria potestad o tutela.
+b) 15 años. Será lícito si es mayor de 15 años, si es menor de 15 será lícito si consta el
+de la patria potestad o tutela.
+c) 14 años. Será lícito si es mayor de 14 años, si es menor de 14 será lícito si consta el
+de la patria potestad o tutela.
+d) 13 años. Será lícito si es mayor de 13 años, si es menor de 13 será lícito si consta el
+de la patria potestad o tutela.
+
+33) Cuando el tratamiento de los datos personales sea necesario para ejercer el
+derecho a la libertad de expresión e información, ¿se aplicará lo dispuesto en el
+artículo 15, apartados 1 y 2 de la Ley Orgánica 3/2018, de 5 de diciembre, de
+Protección de Datos Personales y garantía de los derechos digitales (en adelante
+LOPDGDD)?
+a) No.
+b) Lo dispuesto en el apartado 1 no, pero sí se podrá aplicar lo dispuesto en el 2.
+c) Lo dispuesto en el apartado 1 sí, pero no se podrá aplicar lo dispuesto en el 2.
+d) Ninguna es correcta.
+
+34) Conforme a lo establecido en los apartados 1 y 2 del artículo 15 de la Ley Orgánica
+3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los
+derechos digitales (en adelante LOPDGDD), ¿en qué casos no será aplicable?
+
+www.temarioscanarias.com
+
+TEMA 14. SEGUNDA PARTE
+
+40
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+a) Cuando el tratamiento sea necesario para fines de medicina preventiva o laboral,
+evaluación de la capacidad laboral del trabajador, diagnóstico médico, prestación de
+asistencia o tratamiento de tipo sanitario o social, o gestión de sistemas y servicios de
+asistencia sanitaria y social, o en virtud de un contrato profesional sanitario.
+b) Cuando el tratamiento sea necesario por razones de interés público en el ámbito de
+la salud pública, como la prestación frente a amenazas transfronterizas graves para
+la salud.
+c) Cuando el tratamiento sea necesario para fines de investigación científica o histórica
+o fines estadísticos, conforme al artículo 89.1 de la misma ley.
+d) Todas son correctas.
+
+Artículo 16. Derecho a la limitación del tratamiento
+35) Conforme a lo establecido en el artículo 16 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales
+(en adelante LOPDGDD), el derecho a la limitación se ejercerá de acuerdo con lo
+establecido en el artículo:
+a) 16 del Reglamento General de Protección de Datos.
+b) 18 del Reglamento General de Protección de Datos.
+c) 16 del Reglamento (UE) 2016/679.
+d) 18 del Reglamento (UE) 2018/679.
+
+36) Conforme a lo establecido en el apartado 2 del artículo 16 de la Ley Orgánica 3/2018,
+de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos
+digitales (en adelante LOPDGDD), debe constar claramente en los sistemas de
+información del responsable:
+a) El hecho de que el tratamiento de los datos personales esté soportado.
+b) El hecho de que el tratamiento de los datos personales esté limitado.
+c) El hecho de que el tratamiento de los datos personales esté asegurado.
+d) El hecho de que el tratamiento de los datos personales esté activado.
+Artículo 18 Derecho a la limitación del tratamiento en el RGPD
+37) Conforme al artículo 18 del Reglamento General de Protección de Datos, de las
+siguientes, ¿qué condición no es la que debe cumplir para que la limitación del
+tratamiento de los datos personales pueda ser ejercida como derecho del
+interesado?
+a) El responsable ya no necesite los datos personales para los fines del tratamiento, pero
+el interesado los necesite para la formulación, el ejercicio o la defensa de
+reclamaciones.
+b) El interesado impugne la exactitud de los datos personales.
+c) El interesado se haya opuesto al tratamiento en virtud del artículo 21, apartado 1,
+mientras se verifica si los motivos legítimos del responsable prevalecen sobre los del
+interesado.
+d) El tratamiento sea lícito y el interesado se oponga a la supresión de los datos
+personales y solicite en su lugar la limitación de su uso.
+
+www.temarioscanarias.com
+
+TEMA 14. SEGUNDA PARTE
+
+41
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+38) Si el interesado ha obtenido del derecho del responsable del tratamiento la
+limitación del tratamiento de los datos a causa de que el responsable ya no necesite
+los datos personales para los fines del tratamiento, pero el interesado los necesita
+para la formulación, el ejercicio o la defensa de reclamaciones, dichos datos solo
+podrán ser objeto de tratamiento, con excepción de:
+a) Su conservación, con el consentimiento del interesado.
+b) Para formular reclamaciones o con miras a la protección de los derechos de otra
+persona física o jurídica.
+c) Por razones de interés público importante de la Unión.
+d) Todas son correctas.
+
+39) Informar previamente al levantamiento de la limitación:
+a) Es un obligación por parte del responsable del tratamiento hacia el interesado.
+b) Se recoge en el artículo 18 del Reglamento General de Protección de Datos.
+c) Se recoge en el artículo 18, apartado 2 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+d) A y b son correctas.
+40) Conforme al artículo 16, apartado 2 de la Ley Orgánica 3/2018, de 5 de diciembre,
+de Protección de Datos Personales y garantía de los derechos digitales, ¿qué
+hecho debe constar claramente en los sistemas de información del responsable?
+a) De que el tratamiento de los datos personales esté asegurado.
+b) De que el tratamiento de los datos personales esté limitado.
+c) De que el tratamiento de los datos personales esté digitalizado.
+d) De que el tratamiento de los datos personales esté automatizado.
+Artículo 17. Derecho a la portabilidad
+41) Según lo dispuesto en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de
+Datos Personales y garantía de los derechos digitales (en adelante LOPDGDD), el
+derecho a la portabilidad se ejercerá de acuerdo con lo establecido en:
+a) El artículo 18 del Reglamento (UE) 2016/679.
+b) El artículo 19 del Reglamento (UE) 2016/679.
+c) El artículo 20 del Reglamento (UE) 2016/679.
+d) El artículo 21 del Reglamento (UE) 2016/679.
+Artículo 20. Derecho a la portabilidad de los datos (RGPD)
+42) A tenor de lo establecido en el artículo 20 del Reglamento General de Protección de
+Datos: ¿En qué formato el interesado tendrá derecho a recibir los datos personales
+que le incumban?
+a) Estructurado.
+b) Lectura mecánica.
+c) De uso común.
+d) Todas son correctas.
+
+www.temarioscanarias.com
+
+TEMA 14. SEGUNDA PARTE
+
+42
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+43) ¿En qué casos el responsable del tratamiento no puede impedir el ejercicio del
+derecho a la portabilidad de los datos del interesado?
+a) Cuando el tratamiento está basado en el consentimiento del interesado.
+b) Cuando el tratamiento es necesario para la ejecución de un contrato en el que el
+interesado es parte o para la aplicación a petición de este de medidas
+precontractuales.
+c) Cuando el tratamiento se efectúe por medios automatizados.
+d) Todas son correctas.
+44) El interesado, al ejercer su derecho a la portabilidad de los datos, tendrá derecho
+a que los datos personales:
+a) Se limiten directamente.
+b) Se transmitan directamente de responsable a responsable cuando sea técnicamente
+posible.
+c) Se supriman directamente de responsable a responsable cuando sea técnicamente
+posible.
+d) Se automaticen directamente de responsable a responsable cuando sea
+técnicamente posible.
+45) ¿Cuándo no deberá aplicarse el derecho a la portabilidad de los datos
+personales?
+a) Cuando el tratamiento de los datos personales sea necesario para el cumplimiento
+de una misión realizada en interés público o en el ejercicio de poderes públicos
+conferidos al responsable.
+b) Cuando la condición que legitima el tratamiento de los datos personales del
+interesado no sea el consentimiento o cumplimiento de un contrato.
+c) Cuando afecte a derechos y libertades de otras personas.
+d) Todas son correctas.
+
+Artículo 18. Derecho de oposición
+46) Conforme a la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos
+Personales y garantía de los derechos digitales (en adelante LOPDGDD), ¿qué
+derechos del interesado se ejercerán de acuerdo a lo establecido por los artículos
+21 y 22 del Reglamento (UE) 2016/679?
+a) Derechos relacionados con las decisiones individuales automatizadas.
+b) Realización de perfiles.
+c) Derecho de oposición.
+d) Todas son correctas.
+47) El derecho de “Decisiones individuales automatizadas, incluida la elaboración de
+perfiles”, ¿en qué artículo se regula?
+a) 20
+b) 21
+c) 22
+d) 23
+
+www.temarioscanarias.com
+
+TEMA 14. SEGUNDA PARTE
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+48) En qué normativa se regula el artículo anterior:
+a) Reglamento (UE) 2016/679.
+b) Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales.
+c) Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter
+Personal.
+d) Ninguna de ellas.
+43
+
+49) ¿En qué artículo de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de
+Datos Personales y garantía de los derechos digitales se regula el Derecho de
+oposición?
+a) 16
+b) 17
+c) 18
+d) 19
+
+Artículo 21. Derecho de oposición (RGPD)
+50) El interesado tendrá derecho a oponerse en cualquier momento, por motivos
+relacionados con su situación particular, a que datos personales que le conciernan
+sean objeto de un tratamiento basado en lo dispuesto en el artículo:
+a) 6.1, letras e) o f).
+b) 6.1, letras a) o b).
+c) 6.1, letras c) o d).
+d) Ninguna es correcta.
+
+51) ¿Qué indica la respuesta anterior?
+a) El interesado dio su consentimiento para el tratamiento. El tratamiento es necesario
+para la ejecución de un contrato.
+b) Tratamiento en interés público o para interés legítimo del responsable. Excepto
+motivos legítimos imperiosos.
+c) El tratamiento es necesario para el cumplimiento de una obligación legal. El
+tratamiento es necesario para proteger intereses vitales de una persona.
+d) A y b son correctas.
+
+52) Conforme al derecho de oposición: El responsable del tratamiento dejará de tratar
+los datos personales, salvo que:
+a) Para la formulación, el ejercicio o la defensa de reclamaciones.
+b) Acredite motivos legítimos imperiosos para el tratamiento que prevalezcan sobre los
+intereses y los derechos del interesado.
+c) Acredite motivos legítimos imperiosos para el tratamiento que prevalezcan sobre los
+intereses y las libertades del interesado.
+d) Todas son correctas.
+
+www.temarioscanarias.com
+
+TEMA 14. SEGUNDA PARTE
+
+44
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+53) ¿A qué tendrá derecho el interesado cuando el tratamiento de datos personales
+tenga por objeto la mercadotecnia directa?
+a) A oponerse en todo momento al tratamiento de los datos personales que le
+conciernan.
+b) A ejercer el derecho de oposición.
+c) A oponerse a la elaboración de perfiles en la medida en que esté relacionada con la
+citada mercadotecnia.
+d) Todas son correctas.
+
+54) ¿Qué pasará cuando el interesado se oponga al tratamiento de datos personales
+con fines de mercadotecnia directa?
+a) Los datos personales dejarán de ser tratados para dichos fines.
+b) Los datos personales dejarán de ser tratados para todos los fines.
+c) Los datos personales se suprimirán.
+d) Los datos personales se automatizarán.
+
+55) Automáticamente, desde la primera comunicación con el interesado, el derecho de
+oposición será:
+a) Mencionado explícitamente al interesado.
+b) Presentado claramente y al margen de cualquier otra información.
+c) Las dos anteriores son correctas.
+d) Registrado.
+
+56) Conforme al artículo 21 del Reglamento General de Protección de Datos: ¿Qué
+derecho podrá ejercer el interesado en el contexto de la utilización de servicios de
+la sociedad de la información, y no obstante lo dispuesto en la Directiva
+2002/58/CE?
+a) Oposición.
+b) Portabilidad.
+c) Acceso.
+d) Limitación.
+
+57) ¿Cómo podrá ejercer el derecho anterior?
+a) Por medios automatizados que apliquen especificaciones técnicas.
+b) Sólo por escrito.
+c) De forma presencial.
+d) Ninguna es correcta.
+58) Conforme al Reglamento General de Protección de Datos: Cuando los datos
+personales se traten con fines de investigación científica o histórica o fines
+estadísticos de conformidad con el artículo 89, apartado 1, el interesado tendrá
+derecho, por motivos relacionados con su situación particular, a oponerse al
+tratamiento de datos personales que le conciernan, SALVO QUE:
+
+www.temarioscanarias.com
+
+TEMA 14. SEGUNDA PARTE
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+a) Sea necesario para el cumplimiento de una misión realizada por razones de interés
+público.
+b) Sea necesario para el cumplimiento de una obligación legal del Derecho Español.
+c) Para la formulación, el ejercicio o la defensa de reclamaciones.
+d) Se acredite motivos legítimos imperiosos para el tratamiento que prevalezcan sobre
+los intereses y los derechos del interesado.
+45
+
+Artículo 22. Decisiones individuales automatizadas, incluida la elaboración de perfiles
+(RGPD)
+59) En relación al derecho de las Decisiones individuales automatizadas, incluida la
+elaboración de perfiles, señala la respuesta correcta:
+a) Todo interesado tendrá derecho a no ser objeto de una decisión basada únicamente
+en el tratamiento automatizado, incluida la elaboración de perfiles, que produzca
+efectos jurídicos en él o le afecte significativamente de modo similar. Incluso si la
+decisión es necesaria para la celebración o la ejecución de un contrato entre el
+interesado y un responsable del tratamiento.
+b) Todo interesado tendrá derecho a no ser objeto de una decisión basada únicamente
+en el tratamiento automatizado, incluida la elaboración de perfiles, que produzca
+efectos jurídicos en él o le afecte significativamente de modo similar. Incluso si está
+autorizada por el Derecho de la Unión o de los Estados miembros que se aplique al
+responsable del tratamiento y que establezca asimismo medidas adecuadas para
+salvaguardar los derechos y libertades y los intereses legítimos del interesado.
+c) Todo interesado tendrá derecho a no ser objeto de una decisión basada únicamente
+en el tratamiento automatizado, incluida la elaboración de perfiles, que produzca
+efectos jurídicos en él o le afecte significativamente de modo similar. No se aplicará
+si la decisión se basa en el consentimiento explícito del interesado.
+d) Todas son correctas.
+
+60) Con respecto al derecho de las Decisiones individuales automatizadas, incluida la
+elaboración de perfiles: ¿En qué casos el responsable del tratamiento adoptará las
+medidas adecuadas para salvaguardar los derechos y libertades y los intereses
+legítimos del interesado, como mínimo el derecho a obtener intervención humana
+por parte del responsable, a expresar su punto de vista y a impugnar la decisión?
+a) En el que la decisión está autorizada por el Derecho de la Unión o de los Estados
+miembros que se aplique al responsable del tratamiento y que establezca asimismo
+medidas adecuadas para salvaguardar los derechos y libertades y los intereses
+legítimos del interesado, y es necesaria para la celebración o la ejecución de un
+contrato entre el interesado y un responsable del tratamiento.
+b) En el que la decisión se basa en el consentimiento explícito del interesado y es
+necesaria para la celebración o la ejecución de un contrato entre el interesado y un
+responsable del tratamiento.
+c) En el que la decisión se basa en el consentimiento explícito del interesado y está
+autorizada por el Derecho de la Unión o de los Estados miembros que se aplique al
+responsable del tratamiento y que establezca asimismo medidas adecuadas para
+salvaguardar los derechos y libertades y los intereses legítimos del interesado.
+d) Ninguna es correcta.
+
+www.temarioscanarias.com
+
+TEMA 14. SEGUNDA PARTE
+
+46
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+61) No se basarán en las categorías especiales de los datos personales contempladas
+en el artículo 9.1. SALVO QUE:
+a) Se aplique el artículo 9, apartado 2, letra a) o g) y se hayan tomado medidas
+adecuadas para salvaguardar los derechos y libertades y los intereses legítimos del
+interesado.
+b) El interesado dio su consentimiento explícito para el tratamiento de dichos datos
+personales con uno o más de los fines especificados, excepto cuando el Derecho de
+la Unión o de los Estados miembros establezca que la prohibición mencionada en el
+apartado 1 no puede ser levantada por el interesado o, el tratamiento es necesario
+por razones de un interés público esencial, sobre la base del Derecho de la Unión o
+de los Estados miembros, que debe ser proporcional al objetivo perseguido, respetar
+en lo esencial el derecho a la protección de datos y establecer medidas adecuadas y
+específicas para proteger los intereses y derechos fundamentales del interesado. Y
+se hayan tomado medidas adecuadas para salvaguardar los derechos y libertades y
+los intereses legítimos del interesado.
+c) Se hayan tomado medidas adecuadas para salvaguardar los derechos y libertades y
+los intereses legítimos del interesado.
+d) Todas son correctas.
+
+SOLUCIONES
+1	C
+2	C
+3	A
+4	A
+5	D
+6	B
+7	D
+8	A
+9	B
+10	C
+11	D
+12	C
+13	B
+14	B
+15	D
+16	B
+17	C
+18	A
+19	A
+20	B
+21	A
+22	C
+23	B
+24	A
+25	C
+26	B
+27	C
+28	C
+29	B
+30	D
+31	D
+32	C
+33	A
+34	D
+35	B
+36	B
+37	D
+38	D
+39	D
+40	B
+41	C
+42	D
+43	D
+44	B
+45	D
+46	D
+47	C
+48	A
+49	C
+50	A
+51	B
+52	D
+53	D
+54	A
+55	C
+56	A
+57	A
+58	A
+59	C
+60	B
+61	D

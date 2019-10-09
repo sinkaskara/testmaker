@@ -1,0 +1,430 @@
+PREGUNTAS 3 (29). Seguridad de los datos
+REGLAMENTO EUROPEO
+1) Cuando sea probable que la violación de la seguridad de los datos personales
+entrañe un alto riesgo para los derechos y libertades de las personas físicas, el
+responsable del tratamiento la comunicará al interesado:
+a) sin dilación indebida.
+81
+
+b) en el plazo de un mes.
+c) en el plazo de diez días.
+d) en el plazo de dos meses.
+
+2) Cuando sea probable que la violación de la seguridad de los datos personales
+entrañe un alto riesgo para los derechos y libertades de las personas físicas, el
+responsable del tratamiento la comunicará al interesado. La comunicación al
+interesado no será necesaria si se cumple alguna de las condiciones siguientes:
+a)
+el responsable del tratamiento ha adoptado medidas de protección técnicas y
+organizativas apropiadas y estas medidas se han aplicado a los datos personales afectados
+por la violación de la seguridad de los datos personales, en particular aquellas que hagan
+ininteligibles los datos personales para cualquier persona que no esté autorizada a acceder a
+ellos, como el cifrado.
+b) el responsable del tratamiento ha tomado medidas ulteriores que garanticen que ya no
+exista la probabilidad de que se concretice el alto riesgo para los derechos y libertades del
+interesado.
+c) suponga un esfuerzo desproporcionado. En este caso, se optará en su lugar
+por una comunicación pública o una medida semejante por la que se informe de manera
+igualmente efectiva a los interesados.
+d) ninguna es incierta.
+
+3) En caso de violación de la seguridad de los datos personales, el
+responsable del tratamiento la notificará a la autoridad de control
+competente de conformidad con el artículo 55 sin dilación indebida y, de ser
+posible, a más tardar
+después de que haya tenido constancia de ella,
+a menos que sea improbable que dicha violación de la seguridad constituya un
+riesgo para los derechos y las libertades de las personas físicas.
+a) 12 horas
+b) 24 horas
+c) 48 horas
+d) 72 horas
+
+www.temarioscanarias.com
+
+TEMA 14.PRIMERA PARTE
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+Artículo 32
+
+82
+
+4) Para garantizar un nivel de seguridad adecuado al riesgo, el responsable y el
+encargado del tratamiento de los datos personales aplicarán medidas técnicas y
+organizativas apropiadas teniendo en cuenta entre otros:
+a) El estado de la técnica.
+b) Los costes de aplicación.
+c) La naturaleza.
+d) Todas son correctas.
+
+5) El contexto y los fines del tratamiento, así como riesgos de probabilidad y
+gravedad variables para los derechos y libertades se tienen en cuenta para:
+a) La aplicación de medidas técnicas y organizativas apropiadas que garantizan un
+nivel de seguridad adecuado al riesgo en el tratamiento de los datos personales por
+parte del responsable y el encargado del tratamiento.
+b) La aplicación de medidas técnicas y organizativas apropiadas que garantizan un
+nivel de seguridad adecuado al riesgo en el tratamiento de los datos personales por
+parte de sólo el encargado del tratamiento.
+c) La aplicación de medidas técnicas y organizativas apropiadas que garantizan un
+nivel de seguridad adecuado al riesgo en el tratamiento de los datos personales por
+parte exclusivamente del responsable del tratamiento.
+d) Ninguna es correcta.
+
+6) ¿Qué incluye el análisis del riesgo necesario para garantizar un nivel de seguridad
+adecuado al riesgo del tratamiento de los datos personales?
+a) La capacidad de garantizar la confidencialidad, integridad, disponibilidad y resiliencia
+permanentes de los sistemas y servicios de tratamiento.
+b) La seudonimización y el cifrado de datos personales.
+c) Un proceso de verificación, evaluación y valoración regulares de la eficacia de las
+medidas técnicas y organizativas.
+d) Todas son correctas, además de la capacidad de restaurar la disponibilidad y el
+acceso a los datos personales de forma rápida en caso de incidente físico o técnico.
+
+7) Al evaluar la adecuación del nivel de seguridad se tendrán particularmente en
+cuenta los riesgos que presente el tratamiento de datos, en particular como
+consecuencia de:
+a) La comunicación o acceso no autorizados a dichos datos.
+b) La destrucción, pérdida o alteración accidental o ilícita de datos personales
+transmitidos, conservados o tratados de otra forma.
+c) a) y b) son correctas.
+d) Ninguna es correcta.
+
+www.temarioscanarias.com
+
+TEMA 14.PRIMERA PARTE
+
+83
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+8) Para garantizar que cualquier persona que actúe bajo la autoridad del responsable
+o del encargado y tenga acceso a datos personales solo pueda tratar dichos datos
+siguiendo instrucciones del responsable, salvo que esté obligada a ello en virtud
+del Derecho de la Unión o de los Estados miembros, ¿quién tomará medidas para
+cumplir con dicha garantía?
+a) El responsable del tratamiento.
+b) El encargado del tratamiento.
+c) El responsable y el encargado del tratamiento.
+d) La Agencia española de protección de datos.
+
+Artículo 33 (notificación de violación de seguridad de datos personales)
+9) En caso de violación de la seguridad de los datos personales, ¿quién lo notificará
+a la autoridad de control competente?
+a) El interesado.
+b) El responsable del tratamiento.
+c) El encargado del tratamiento.
+d) Ninguna es correcta.
+
+10) La Agencia Española de Protección de Datos
+a) Es la autoridad de control competente en España designada como institución pública
+que se encarga de velar de forma activa de la imposición del Reglamento Europeo
+2016/679.
+b) Es la autoridad de control competente en Europa designada como institución pública
+que se encarga de velar de forma proactiva de la imposición del Reglamento
+1720/2006.
+c) Es la autoridad de control competente en España designada como institución pública
+que se encarga de velar de forma proactiva de la imposición del Reglamento
+Europeo 2016/679.
+d) Es la autoridad de control competente en Europa designada como institución pública
+que se encarga de velar de forma proactiva de la imposición del Reglamento
+Europeo 2016/679.
+
+11) ¿En qué artículos del Reglamento (UE) 2016/679, relativo a la protección de las
+personas físicas en lo que respecta al tratamiento de datos personales y a la libre
+circulación de estos datos, se regulan las notificaciones de las violaciones de
+seguridad de los datos personales?
+a) 33 y 34
+b) 87 y 88
+c) 38 y 39
+d) 41 y 44
+
+www.temarioscanarias.com
+
+TEMA 14.PRIMERA PARTE
+
+84
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+12) ¿Cómo ha de ser notificada a la autoridad de control competente la violación de la
+seguridad de los datos personales?
+a) De ser posible, a más tardar 72 horas después de que haya tenido constancia de
+ella.
+b) En todo caso, a más tardar 72 horas después de que haya tenido constancia de ella.
+c) De ser posible, a más tardar 24 horas después de que haya tenido constancia de
+ella.
+d) De ser posible, a más tardar 48 horas después de que haya tenido constancia de
+ella.
+
+13) En el caso de que sea improbable que la violación de la seguridad de los datos
+personales constituya un riesgo para los derechos y las libertades de las personas
+físicas, ¿cómo ha de ser la notificación emitida a la autoridad de control
+competente?
+a) Si la notificación a la autoridad de control no tiene lugar en el plazo de 72 horas,
+deberá ir acompañada de indicación de los motivos de la dilación.
+b) Si la notificación a la autoridad de control no tiene lugar en el plazo de 48 horas,
+deberá ir acompañada de indicación de los motivos de la dilación.
+c) Si la notificación a la autoridad de control no tiene lugar en el plazo de 24 horas,
+deberá ir acompañada de indicación de los motivos de la dilación.
+d) Si la notificación a la autoridad de control no tiene lugar en el plazo de 12 horas,
+deberá ir acompañada de indicación de los motivos de la dilación.
+
+14) ¿Quién notificará al responsable del tratamiento de datos personales la existencia
+de la violación de la seguridad de los datos personales de las que tenga
+conocimiento?
+a) El encargado.
+b) El responsable.
+c) El interesado.
+d) La autoridad competente.
+
+15) ¿Qué contendrá la notificación que se emite a la autoridad de control competente
+en caso de violación de la seguridad de los datos personales?
+a) Exclusivamente contendrá la descripción de las posibles consecuencias, de la
+naturaleza de la violación, las medidas adoptadas o propuestas por el responsable del
+tratamiento y la comunicación del nombre y datos de contacto del delegado de
+protección de datos.
+b) Como mínimo contendrá la descripción de las posibles consecuencias, de la
+naturaleza de la violación, las medidas adoptadas o propuestas por el encargado del
+tratamiento y la comunicación del nombre y datos de contacto del delegado de
+protección de datos.
+c) Como mínimo contendrá la descripción de las posibles consecuencias, de la
+naturaleza de la violación, las medidas adoptadas o propuestas por el responsable del
+tratamiento y la comunicación del nombre y datos de contacto del delegado de
+protección de datos.
+
+www.temarioscanarias.com
+
+TEMA 14.PRIMERA PARTE
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+d) Como mínimo contendrá la descripción de las posibles consecuencias, de la
+naturaleza de la violación, las medidas adoptadas o propuestas por el responsable del
+tratamiento y la comunicación del nombre y datos de contacto del interesado.
+
+85
+
+16) En caso de violación de la seguridad de los datos personales, ¿quién documentará
+cualquier violación de la seguridad de dichos datos?
+a) El delegado.
+b) El responsable.
+c) El encargado.
+d) Ninguno de ellos.
+17) En caso de cualquier violación de la seguridad de los datos personales esta se
+debe documentar, dicha documentación permitirá:
+a) Que la autoridad de control competente pueda verificar el cumplimiento de lo
+dispuesto en el artículo 32 del Reglamento Europeo (UE) 2016/679.
+b) Que la autoridad de control competente pueda verificar el cumplimiento de lo
+dispuesto en el artículo 33 del Reglamento Europeo (UE) 2016/679.
+c) Que la autoridad de control competente pueda verificar el cumplimiento de lo
+dispuesto en el artículo 34 del Reglamento Europeo (UE) 2016/679.
+d) Que la autoridad de control competente pueda verificar el cumplimiento de lo
+dispuesto en el artículo 35 del Reglamento Europeo (UE) 2016/679.
+
+Artículo 34 (comunicación de la violación de la seguridad de datos personales al
+interesado)
+18) ¿Cuándo se comunicará una violación de la seguridad de los datos personales al
+interesado?
+a) Cuando sea probable que la violación de la seguridad de los datos personales
+entrañe un alto riesgo para los derechos y libertades de las personas físicas y
+jurídicas.
+b) Cuando sea probable que la violación de la seguridad de los datos personales
+entrañe un alto riesgo para los derechos y libertades de las personas físicas.
+c) En cualquier caso.
+d) Cuando sea probable que la violación de la seguridad de los datos personales
+entrañe un alto riesgo para las libertades de las personas físicas.
+
+19) ¿Quién comunicará al interesado una violación de la seguridad de los datos
+personales?
+a) El responsable sin dilación indebida.
+b) El encargado sin dilación indebida.
+c) El delegado sin dilación indebida.
+d) La autoridad de control sin dilación indebida.
+
+www.temarioscanarias.com
+
+TEMA 14.PRIMERA PARTE
+
+86
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+20) ¿Qué contendrá la comunicación al interesado de una violación de la seguridad de
+los datos personales?
+a) La descripción de la naturaleza de la violación de la seguridad de los datos
+personales en un lenguaje claro y sencillo.
+b) Como mínimo, la información y las medidas a que se refiere el artículo 33.3. b), c) y
+d) del Reglamento Europeo (UE) 2016/679.
+c) a) y b) son correctas.
+d) Como mínimo contendrá la descripción de las posibles consecuencias, de la
+naturaleza de la violación, las medidas adoptadas o propuestas por el responsable del
+tratamiento y la comunicación del nombre y datos de contacto del delegado de
+protección de datos.
+21) De los siguientes supuestos, en cuál no será necesaria la comunicación al
+interesado a causa de una violación de la seguridad de los datos personales en la
+que sea probable que la violación entrañe un alto riesgo para los derechos y
+libertades de las personas físicas:
+a) Si supone un esfuerzo desproporcionado, en este caso se optará en su lugar por
+una comunicación pública o una medida semejante por la que se informe de manera
+igualmente efectiva a los interesados.
+b) Si el responsable del tratamiento ha adoptado medidas de protección técnicas y
+organizativas apropiadas y estas medidas se han aplicado a los datos personales
+afectados por la violación de la seguridad de los datos personales.
+c) Si el responsable del tratamiento ha tomado medidas ulteriores que garanticen que
+ya no exista la probabilidad de que se concretice el alto riesgo para los derechos y
+libertades del interesado.
+d) En cualquiera de los anteriores.
+22) Con respecto a la autoridad de control competente a la que se le ha notificado la
+violación de la seguridad de los datos personales, una vez considerada la
+probabilidad de que tal violación entrañe un alto riesgo, ¿qué podrá hacer dicha
+autoridad si el responsable todavía no ha comunicado al interesado la susodicha
+violación?
+a) Exigir al encargado y responsable que realice la comunicación al interesado o decidir
+que se cumpla alguna de las condiciones mencionadas en el artículo 34.3 del
+Reglamento Europeo (UE) 2016/679.
+b) Exigir al encargado que realice la comunicación al interesado o decidir que se
+cumpla alguna de las condiciones mencionadas en el artículo 34.3 del Reglamento
+Europeo (UE) 2016/679.
+c) Exigir al responsable que realice la comunicación al interesado o decidir que se
+cumpla alguna de las condiciones mencionadas en el artículo 34.3 del Reglamento
+Europeo (UE) 2016/679.
+d) Exigir al delegado que realice la comunicación al interesado o decidir que se cumpla
+alguna de las condiciones mencionadas en el artículo 34.3 del Reglamento Europeo
+(UE) 2016/679.
+
+www.temarioscanarias.com
+
+TEMA 14.PRIMERA PARTE
+
+87
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+Artículo 82. Derecho a la seguridad digital (LOPDGDD)
+23) Según establece el artículo 82 de la Ley Orgánica 3/2018, de 5 de diciembre, de
+Protección de datos personales y garantía de los derechos digitales, los usuarios
+tienen derecho a la seguridad de:
+a) Seguridad de las comunicaciones que transmitan a través de Internet.
+b) Seguridad de las comunicaciones que reciban a través de Internet.
+c) A) y b) son correctas.
+d) Los proveedores de servicios de Internet no están obligados a informar sobre los
+derechos digitales de los usuarios.
+D. A. 1ª. Medidas de seguridad en el ámbito del sector público (LOPDGDD)
+24) En el ámbito del sector público, ¿quién incluirá las medidas de seguridad que
+deban implantarse en caso de tratamiento de datos personales?
+a) El Esquema Nacional de Seguridad.
+b) La Agencia Española de Protección de Datos.
+c) El delegado.
+d) El responsable.
+25) Ley Orgánica 3/2018, de 5 de diciembre, de Protección de datos personales y
+garantía de los derechos digitales: Los responsables enumerados en el artículo 77.1
+de esta ley orgánica deberán aplicar a los tratamientos de datos personales las
+medidas de seguridad que correspondan de las previstas en el Esquema Nacional
+de Seguridad, así como impulsar un grado de implementación de medidas
+equivalentes en las empresas o fundaciones vinculadas a los mismos sujetas al
+Derecho privado. De entre los siguientes, ¿cuál no es responsable a efectos de
+aplicar lo establecido en el artículo 77.1?
+a) El Banco de España.
+b) Los órganos jurisdiccionales.
+c) Las Universidades Públicas o Privadas.
+d) Los organismos públicos y entidades de Derecho público vinculadas o dependientes
+de las Administraciones Públicas.
+26) ¿En qué casos las medidas de seguridad del tratamiento de datos personales se
+corresponderán con las de la Administración pública de origen y se ajustarán al
+Esquema Nacional de Seguridad?
+a) En los que un tercero preste un servicio en régimen de concesión.
+b) En los que un tercero preste un servicio en régimen de encomienda de gestión.
+c) En los que un tercero preste un servicio en régimen de contrato.
+d) Todas son correctas.
+
+www.temarioscanarias.com
+
+TEMA 14.PRIMERA PARTE
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+D.A.9ª. Tratamiento de datos personales en relación con la notificación de incidentes
+
+88
+
+de seguridad (LOPDGDD)
+27) ¿Durante cuánto tiempo las autoridades públicas competentes, equipos de
+respuesta a emergencias informáticas (CERT), equipos de respuesta a incidentes
+de seguridad informática (CSIRT), proveedores de redes y servicios de
+comunicaciones electrónicas y proveedores de tecnologías y servicios de
+seguridad, podrán tratar los datos personales contenidos en las notificaciones de
+incidentes de seguridad, conforme a la legislación nacional?
+a) Durante 15 días adoptando las medidas de seguridad adecuadas y proporcionadas
+al nivel de riesgo determinado.
+b) Durante 72 horas adoptando las medidas de seguridad adecuadas y proporcionadas
+al nivel de riesgo determinado.
+c) Durante 1 mes adoptando las medidas de seguridad adecuadas y proporcionadas al
+nivel de riesgo determinado.
+d) Durante el tiempo y alcance necesarios para su análisis, detección, protección y
+respuesta ante incidentes y adoptando las medidas de seguridad adecuadas y
+proporcionadas al nivel de riesgo determinado.
+
+D.A.18ª. Criterios de seguridad (LOPDGDD)
+28) Para el cumplimiento de las obligaciones de responsabilidad activa establecidas en
+el Capítulo IV del Reglamento (UE) 2016/679 y en el Título V de la Ley Orgánica
+3/2018, de 5 de diciembre, de Protección de datos y garantías de los derechos
+digitales, ¿quién desarrollará las herramientas, guías, directrices y orientaciones
+que resulten precisas en caso de tratamiento de datos personales?
+a) El Esquema Nacional de Seguridad.
+b) La Agencia Española de Protección de Datos.
+c) El delegado.
+d) El responsable.
+
+29) La Agencia Española de Protección de Datos según la Ley Orgánica 3/2018, de 5
+de diciembre, de Protección de datos personales y garantía de los derechos
+digitales es
+a. Una autoridad administrativa independiente de ámbito estatal
+b. Una autoridad administrativa dependiente del Ministerio del Interior
+c. Un organismo autónomo
+d. Una autoridad administrativa dependiente del Ministerio de Justicia
+
+SOLUCIONES
+1	A
+2	D
+3	D
+4	D
+5	A
+6	D
+7	C
+8	C
+9	B
+10	C
+11	A
+12	A
+13	A
+14	A
+15	C
+16	B
+17	B
+18	B
+19	A
+20	C
+21	D
+22	C
+23	C
+24	A
+25	C
+26	D
+27	D
+28	B
+29	A

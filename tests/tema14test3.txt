@@ -1,0 +1,203 @@
+PREGUNTAS 2 (15) L.O.3/2018. Principios
+Artículo 4. Exactitud de los datos
+
+76
+
+1) Conforme al artículo 5.1.d) del Reglamento (UE) 2016/679, los datos:
+a) Serán exactos.
+b) Si fuere necesario, serán actualizados.
+c) a) y b) son correctas.
+a) Serán actualizados y si fuere necesario, exactos.
+
+2) Conforme a la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos
+Personales y garantía de los derechos digitales, ¿cuándo no será imputable al
+responsable del tratamiento, siempre que este haya adoptado todas las medidas
+razonables para que se supriman o rectifiquen sin dilación, la inexactitud de los
+datos personales, con respecto a los fines para los que se tratan?
+a) Cuando los datos inexactos fuesen sometidos de un registro público por el
+responsable y fuesen sometidos a tratamiento por el responsable por haberlos
+recibido de otro responsable (derecho a la portabilidad).
+b) Cuando los datos inexactos hubiesen sido obtenidos por el responsable de un
+mediador o intermediario en caso de que las normas aplicables al sector de actividad
+al que pertenezca el responsable del tratamiento establecieran la posibilidad de
+intervención de un intermediario o mediador que recoja en nombre propio los datos de
+los afectados para su transmisión al responsable.
+c) Cuando los datos inexactos hubiesen sido obtenidos por el responsable
+indirectamente del afectado.
+d) a) y b) son correctas.
+Artículo 5. Deber de confidencialidad
+3) Según establece la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de
+Datos Personales y garantía de los derechos digitales, ¿quiénes estarán sujetos al
+deber de confidencialidad al que se refiere el artículo 5.1.f) del Reglamento (UE)
+2016/679?
+a) Todas las personas que intervengan en cualquier fase del tratamiento de datos.
+b) Los responsables y encargados del tratamiento de datos.
+c) Sólo los responsables del tratamiento de datos.
+d) a) y b) son correctas.
+
+4) ¿Hasta cuándo se mantendrán las obligaciones establecidas en el artículo 5 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales?
+a) Cuando finalice la relación del obligado con el responsable o encargado del
+tratamiento.
+b) Aun cuando hubiese finalizado la relación del obligado con el responsable o
+encargado del tratamiento.
+c) Una año después de la finalización de la relación del obligado con el responsable o
+encargado del tratamiento.
+d) Ninguna es correcta.
+
+www.temarioscanarias.com
+
+TEMA 14.PRIMERA PARTE
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+Artículo 6. Tratamiento basado en el consentimiento del afectado
+
+77
+
+5) Cuando se pretenda fundar el tratamiento de los datos en el consentimiento del
+afectado para una pluralidad de finalidades
+a) Será preciso que el consentimiento sea de manera tácita.
+b) Será preciso que conste de manera específica e inequívoca que dicho
+consentimiento se otorga para como mínimo la mitad de ellas.
+c) Será preciso que conste de manera específica e inequívoca que dicho
+consentimiento se otorga para todas ellas.
+d) Será preciso que conste de manera específica e inequívoca que dicho
+consentimiento se otorga al menos para un 80% de ellas.
+
+6) Para finalidades que no guarden relación con el mantenimiento, desarrollo o
+control de la relación contractual del tratamiento de los datos
+a) Podrá supeditarse la ejecución del contrato a que el afectado consienta el
+tratamiento de los datos personales en algunos casos.
+b) No podrá supeditarse la ejecución del contrato a que el afectado consienta el
+tratamiento de los datos personales.
+c) En algunos casos no podrá supeditarse la ejecución del contrato a que el afectado
+consienta el tratamiento de los datos personales.
+d) Ninguna es correcta.
+
+Artículo 7. Consentimiento de los menores de edad
+7) ¿A partir de qué edad el menor puede prestar su consentimiento para el
+tratamiento de los datos personales en España?
+a) 16 años
+b) 15 años
+c) 14 años
+d) 13 años
+
+8) ¿En qué supuestos se exceptúan el consentimiento de un menor fundado para el
+tratamiento de los datos personales?
+a) En que la ley exija la asistencia de los titulares de la patria potestad o tutela para la
+celebración del acto o negocio jurídico en cuyo contexto se recaba el consentimiento
+para el tratamiento.
+b) No hay excepciones.
+c) Si es huérfano necesitará de un tutor.
+d) Ninguna es correcta.
+
+www.temarioscanarias.com
+
+TEMA 14.PRIMERA PARTE
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+Artículo 8. Tratamiento de datos por obligación legal, interés público o ejercicio de
+poderes públicos
+
+78
+
+9) El tratamiento de datos personales solo podrá considerarse fundado en el
+cumplimiento de:
+a) Una obligación legal aplicable al responsable del tratamiento.
+b) Una misión realizada en interés público o en el ejercicio de poderes públicos
+conferidos al responsable del tratamiento.
+c) a) y b) son correctas.
+d) Ninguna es correcta.
+
+Artículo 9. Categorías especiales de datos
+10) ¿Qué tratamientos de datos establecidos en el artículo 9 del Reglamento Europeo
+2016/679 deberán estar amparados por una norma con rango de ley que podrá
+establecer requisitos adicionales relativos a su seguridad y confidencialidad?
+a) el tratamiento es necesario por razones de un interés público esencial
+b) el tratamiento es necesario para fines de medicina preventiva o laboral
+c) el tratamiento es necesario por razones de interés público en el ámbito de la salud
+pública
+d) todas son correctas
+
+11) Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos
+Personales y garantía de los derechos digitales, en particular, una norma podrá
+amparar el tratamiento de datos en:
+a) En el ámbito de la igualdad.
+b) En el ámbito de la educación.
+c) El ámbito de la salud cuando así lo exija la gestión de los sistemas y servicios de
+asistencia sanitaria y social, pública y privada, o la ejecución de un contrato de
+seguro del que el afectado sea parte.
+d) En el ámbito laboral y profesional.
+
+12) A los efectos del artículo 9.2.a) del Reglamento (UE) 2016/679, a fin de evitar
+situaciones discriminatorias, el solo consentimiento del afectado no bastará para
+levantar la prohibición del tratamiento de datos cuya finalidad principal sea
+identificar su:
+a) Religión, ideología, creencias u origen racial o étnico, orientación sexual excepto la
+afiliación sindical.
+b) Ideología, afiliación sindical, religión, orientación sexual, creencias u origen racial o
+étnico.
+c) Ideología, afiliación sindical, religión, orientación sexual, exceptuando sus creencias
+u origen racial o étnico.
+d) Ideología, religión, excepto su orientación sexual.
+
+www.temarioscanarias.com
+
+TEMA 14.PRIMERA PARTE
+
+79
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+13) Los datos de carácter personal basados en la ideología, afiliación sindical,
+religión, orientación sexual, creencias u origen racial o étnico se conocen como:
+a) Categorías especiales de datos conforme a la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+b) Especialmente protegidos conforme a la Ley Orgánica 15/1999.
+c) A y b son correctas aunque ya la Ley Orgánica 15/1999 está derogada por la L.O.
+3/2018.
+d) Ninguna es correcta.
+
+14) ¿Qué categorías especiales de datos se han introducido novedosamente en la Ley
+Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía
+de los derechos digitales, los cuales no existían en la anterior (L.O. 15/1999)?
+a) Datos biométricos.
+b) Datos genéticos.
+c) A y b son correctas.
+d) No hay nuevos datos.
+
+Artículo 10. Tratamiento de datos de naturaleza penal
+15) El tratamiento de datos personales relativos a condenas e infracciones penales, así
+como a procedimientos y medidas cautelares y de seguridad conexas, sólo podrá
+llevarse a cabo cuando se encuentre amparado en una norma, si los mismos son
+para fines distintos a los de:
+a) Investigación, detección o enjuiciamiento de infracciones penales.
+b) Detección o de ejecución de sanciones penales.
+c) Prevención.
+d) Todas son correctas.
+
+SOLUCIONES
+1	C
+2	D
+3	D
+4	B
+5	C
+6	B
+7	C
+8	A
+9	C
+10	D
+11	C
+12	B
+13	A
+14	C
+15	D

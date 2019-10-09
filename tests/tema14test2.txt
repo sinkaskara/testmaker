@@ -1,12 +1,11 @@
-1) OJO TEST RENOVADO. MEJOR NO USAR y USAR LOS TESTS 2 AL 6 DE ESTE TEMA
-¿Cuándo entró en vigor el Reglamento (UE) 2016/679, de protección de datos?
+PREGUNTAS 1 (18). Reglamento europeo. Definiciones
+1) ¿Cuándo entró en vigor el Reglamento (UE) 2016/679, de protección de datos?
 a) 25/05/2018
 b) 25/05/2016
+70
+
 c) 26/05/2018
-35
-
 d) 26/05/2016
-
 2) El Reglamento Europeo de Protección de Datos define el consentimiento del
 interesado como toda manifestación de:
 a) Voluntad, libre por la que el interesado acepta, ya sea mediante una declaración o
@@ -47,9 +46,9 @@ d) La libre circulación de datos y capitales.
 
 www.temarioscanarias.com
 
-TEMA 14 ACTUALIZADO
+TEMA 14.PRIMERA PARTE
 
-ING. INDUSTRIALES
+INGENIEROS INDUSTRIALES
 
 CA DE CANARIAS
 
@@ -58,7 +57,7 @@ a) Únicamente al tratamiento total de datos personales.
 b) Al tratamiento automatizado de datos.
 c) Al tratamiento total o parcialmente automatizado de datos personales.
 d) A los datos incluidos en ficheros.
-36
+71
 
 6) El Reglamento (UE) 2016/679
 personales:
@@ -73,7 +72,7 @@ c) En el ejercicio de una actividad comprendida en el ámbito de aplicación del
 la Unión.
 d) Realizado con fines comerciales en el territorio de la Unión.
 
-7) RESPUESTA OPCION CORREGIDA Se entiende por datos personales:
+7) Se entiende por datos personales:
 a) Toda información sobre una persona física o jurídica identificada o identificable (“el
 interesado”)
 b) Toda información sobre una persona física identificada o identificable.
@@ -95,19 +94,19 @@ geográfica.
 
 www.temarioscanarias.com
 
-TEMA 14 ACTUALIZADO
+TEMA 14.PRIMERA PARTE
 
-ING. INDUSTRIALES
+INGENIEROS INDUSTRIALES
 
 CA DE CANARIAS
 
-9) OPCION RESPUESTA CORREGIDA Se conoce como encargado del tratamiento:
+9) Se conoce como encargado del tratamiento:
 a) La persona física o jurídica, autoridad pública, servicio u otro organismo que
 determine los fines y medios del tratamiento.
 b) La persona física o jurídica, autoridad pública, servicio u otro organismo al que se
 comuniquen datos personales, se trate o no de un tercero.
 c) El que lleve a cabo el tratamiento de datos personales
-37
+72
 
 d) La persona física o jurídica, autoridad pública, servicio u otro organismo que trate datos
 personales por cuenta del responsable del tratamiento.
@@ -146,9 +145,9 @@ responsable del tratamiento o por un tercero.
 
 www.temarioscanarias.com
 
-TEMA 14 ACTUALIZADO
+TEMA 14.PRIMERA PARTE
 
-ING. INDUSTRIALES
+INGENIEROS INDUSTRIALES
 
 CA DE CANARIAS
 
@@ -156,7 +155,7 @@ CA DE CANARIAS
 directa de servicios de la sociedad de la información se considera licito:
 a) cuando el niño tenga como mínimo 14 años.
 b) cuando el niño tenga como mínimo 18 años.
-38
+73
 
 c) cuando siendo menor de 16 años el consentimiento lo dio o autorizó el titular de la patria
 potestad o tutela del niño.
@@ -172,204 +171,41 @@ el ejercicio o la defensa de reclamaciones o cuando los tribunales actúen en ej
 función judicial.
 d) La afiliación sindical no se considera un dato personal.
 
-15) Señale la respuesta incorrecta:
-El interesado tendrá derecho a obtener del responsable del tratamiento:
-a) Los destinatarios a los que se comunicaron o serán comunicados los datos
-personales.
-b) El derecho a presentar una reclamación ante una autoridad de control.
-c) La existencia del derecho a solicitar del responsable la rectificación de datos
-personales.
-d) El plazo previsto para ejercer el derecho de acceso a los datos personales.
-
-16) Señale la respuesta correcta:
-a) El interesado tendrá derecho a obtener del responsable del tratamiento la
-rectificación de los datos personales inexactos propios o de terceros.
-b) El interesado no podrá completar datos con declaraciones adicionales salvo que el
-responsable del tratamiento así lo solicite
-c) El interesado no podrá oponerse al tratamiento de datos si ha prestado
-consentimiento.
-d) El responsable estará obligado a suprimir los datos personales del interesado que retire
-su consentimiento.
-
-www.temarioscanarias.com
-
-TEMA 14 ACTUALIZADO
-
-ING. INDUSTRIALES
-
-CA DE CANARIAS
-
-17) El derecho de oposición:
-a) No afecta a la elaboración de perfiles.
-b) Debe ser comunicado explícitamente en el plazo de un mes por parte del
-responsable del tratamiento.
-c) no podrá ser ejercido si los datos se tratan con fines de investigación científica o
-histórica.
-39
-
-d) Cuando tenga por objeto la mercadotécnica directa, los datos personales dejarán de ser
-tratados.
-
-18) Señale la respuesta incorrecta.
-Cuando los datos personales no se hayan obtenido del interesado, el responsable
-del tratamiento le facilitará la siguiente información.
-a) La intención del responsable de transferir datos personales a un destinatario en un
-tercer país u organización internacional y la existencia o ausencia de una decisión de
-adecuación de la Comisión, en su caso.
-b) Las categorías de datos personales de que se trate.
-c) Los destinatarios de los datos personales.
-d) La identidad del tercero.
-
-19) ¿De cuántos capítulos consta el Reglamento (UE) 2016/679?
+15) ¿De cuántos capítulos consta el Reglamento (UE) 2016/679?
 a) X
 b) XI
 c) IX
 d) XII
 
-20) Sobre el Derecho de rectificación y el Derecho de Supresión. Señale la incorrecta.
-a) El interesado tendrá derecho a obtener sin dilación indebida del responsable del
-tratamiento la rectificación de los datos personales inexactos que le conciernan.
-b) Teniendo en cuenta los fines del tratamiento, el interesado tendrá derecho a que se
-completen los datos personales que sean incompletos.
-c) El interesado tendrá derecho a obtener sin dilación indebida del responsable del
-tratamiento la supresión de los datos personales que le conciernan, el cual estará obligado a
-suprimir sin dilación indebida los datos personales cuando los datos personales ya no sean
-necesarios en relación con los fines para los que fueron recogidos o tratados de otro
-modo.
-d) El interesado tendrá derecho a obtener sin dilación indebida del responsable del
-tratamiento la supresión de los datos personales que le conciernan, el cual estará obligado a
-suprimir sin dilación indebida los datos personales cuando los datos personales no hayan
-sido tratados ilícitamente.
-
-www.temarioscanarias.com
-
-TEMA 14 ACTUALIZADO
-
-ING. INDUSTRIALES
-
-CA DE CANARIAS
-
-21) Cualquier operación o conjunto de operaciones realizadas sobre datos personales
+16) Cualquier operación o conjunto de operaciones realizadas sobre datos personales
 o conjuntos de datos personales, ya sea por procedimientos automatizados o no,
 como la recogida, registro, organización, estructuración, conservación, adaptación
 o modiﬁcación, extracción, consulta, utilización, comunicación por transmisión,
 difusión o cualquier otra forma de habilitación de acceso, cotejo o interconexión,
 limitación, supresión o destrucción:
-40
-
 a) catálogo público
 b) fichero
 c) tratamiento
 d) fuente accesible al público
 
-22) Persona física o jurídica, autoridad pública, servicio u otro organismo al que se
+www.temarioscanarias.com
+
+TEMA 14.PRIMERA PARTE
+
+INGENIEROS INDUSTRIALES
+
+CA DE CANARIAS
+
+17) Persona física o jurídica, autoridad pública, servicio u otro organismo al que se
 comuniquen datos personales, se trate o no de un tercero:
 a) destinatario
 b) el encargado
 c) el responsable
+74
+
 d) todas son correctas
 
-23) El Derecho de la Unión o de los Estados miembros que se aplique al
-responsable o el encargado del tratamiento podrá limitar, a través de medidas
-legislativas, el alcance de las obligaciones y de los derechos establecidos en este
-Reglamento, cuando tal limitación respete en lo esencial los derechos y libertades
-fundamentales y sea una medida necesaria y proporcionada en una sociedad
-democrática para salvaguardar (indicar la incierta):
-a) la ejecución de sanciones penales
-b) la protección de los derechos y libertades de otros
-c) la ejecución de demandas laborales
-d) ninguna es incierta
-
-24) Cuando sea probable que la violación de la seguridad de los datos personales
-entrañe un alto riesgo para los derechos y libertades de las personas físicas, el
-responsable del tratamiento la comunicará al interesado:
-a) sin dilación indebida.
-b) en el plazo de un mes.
-c) en el plazo de diez días.
-d) en el plazo de dos meses.
-
-www.temarioscanarias.com
-
-TEMA 14 ACTUALIZADO
-
-ING. INDUSTRIALES
-
-CA DE CANARIAS
-
-25) Cuando sea probable que la violación de la seguridad de los datos personales
-entrañe un alto riesgo para los derechos y libertades de las personas físicas, el
-responsable del tratamiento la comunicará al interesado. La comunicación al
-interesado no será necesaria si se cumple alguna de las condiciones siguientes:
-
-41
-
-a)
-el responsable del tratamiento ha adoptado medidas de protección técnicas y
-organizativas apropiadas y estas medidas se han aplicado a los datos personales afectados
-por la violación de la seguridad de los datos personales, en particular aquellas que hagan
-ininteligibles los datos personales para cualquier persona que no esté autorizada a acceder a
-ellos, como el cifrado.
-b) el responsable del tratamiento ha tomado medidas ulteriores que garanticen que ya no
-exista la probabilidad de que se concretice el alto riesgo para los derechos y libertades del
-interesado.
-c) suponga un esfuerzo desproporcionado. En este caso, se optará en su lugar
-por una comunicación pública o una medida semejante por la que se informe de manera
-igualmente efectiva a los interesados.
-d) ninguna es incierta.
-
-26) En caso de violación de la seguridad de los datos personales, el
-responsable del tratamiento la notificará a la autoridad de control
-competente de conformidad con el artículo 55 sin dilación indebida y, de ser
-posible, a más tardar
-después de que haya tenido constancia de ella,
-a menos que sea improbable que dicha violación de la seguridad constituya un
-riesgo para los derechos y las libertades de las personas físicas.
-a) 12 horas
-b) 24 horas
-c) 48 horas
-d) 72 horas
-
-27) Señalar la afirmación que sea cierta:
-a) Todo interesado tendrá derecho a no ser objeto de una decisión basada únicamente en
-el tratamiento automatizado, incluida la elaboración de perfiles, que produzca efectos jurídicos
-en él o le afecte significativamente de modo similar.
-b) Todo interesado tendrá derecho a ser objeto de una decisión basada únicamente en el
-tratamiento automatizado, incluida la elaboración de perfiles, que produzca efectos jurídicos
-en él o le afecte significativamente de modo similar.
-c) Ambas son ciertas.
-d) Ninguna es cierta.
-
-www.temarioscanarias.com
-
-TEMA 14 ACTUALIZADO
-
-ING. INDUSTRIALES
-
-CA DE CANARIAS
-
-28) Indicar la afirmación que sea cierta:
-a) El interesado tendrá derecho a oponerse en todo momento al tratamiento de los datos
-personales que le conciernan.
-b) A es cierta, cuando el tratamiento de datos personales tenga por objeto la mercadotecnia
-directa.
-42
-
-c) El interesado no tendrá derecho a oponerse en todo momento al tratamiento de los datos
-personales que le conciernan.
-d) C es cierta, cuando el tratamiento de datos personales tenga por objeto la mercadotecnia
-directa.
-
-29) Cuando se transfieran datos personales a un tercer país o a una
-organización internacional:
-a) no se podrá realizar dicha transferencia en ningún caso.
-b) no se podrá realizar dicha transferencia sin autorización del interesado.
-c)
-el interesado tendrá derecho a ser informado de las garantías adecuadas a la
-transferencia.
-d) el interesado no tendrá derecho a ser informado de las garantías adecuadas a la
-transferencia.
-
-30) Toda forma de tratamiento automatizado de datos personales
+18) Toda forma de tratamiento automatizado de datos personales
 consistente en utilizar datos personales para evaluar determinados aspectos
 personales de una persona física, en particular para analizar o predecir aspectos
 relativos al rendimiento profesional, situación económica, salud, preferencias
@@ -380,6 +216,27 @@ b) Limitación del tratamiento
 c) Elaboración de perfiles
 d) Tratamiento
 
+EXPLICACIONES
+1. B vigor
+2. C (Art.7 RGPD) definición consentimiento del interesado
+3. B (Art.4 RGPD) definiciones: la 5 “seudonimización”
+4. B (Art.1 RGPD) objeto
+5. C (Art.2 RGPD) ámbito de aplicación material
+6. B (Art.2 RGPD) ámbito de aplicación material
+7. B (Art.4 RGPD) definiciones: la 1 “datos personales”
+8. B (Art.4 RGPD) definiciones: la 6 “fichero”
+9. A (Art.4 RGPD) definiciones: la 8 “encargado del tratamiento”
+10. B (Art.4 RGPD) definiciones: la 15 “datos relativos a la salud”
+11. C (Art.4 RGPD) definiciones: la 23 “tratamiento transfronterizo”
+12. D (Art.6 RGPD) licitud del tratamiento
+13. C (Art.8 RGPD) condiciones consentimiento niño en relación servicios sociedad
+información
+14. A (Art.9 RGPD) tratamiento categorías especiales de datos personales
+15. B estructura
+16. C (Art.4 RGPD) definiciones: 2 “Tratamiento”
+17. A (Art.4 RGPD) definiciones: 9 “destinatario”
+18. C (Art. 4 RGPD) definiciones: 4 “elaboración de perfiles”
+
 SOLUCIONES
 1	B
 2	C
@@ -389,25 +246,13 @@ SOLUCIONES
 6	B
 7	B
 8	B
-9	D
+9	A
 10	B
 11	C
 12	D
 13	C
 14	A
-15	D
-16	D
-17	D
-18	D
-19	B
-20	D
-21	C
-22	A
-23	C
-24	A
-25	D
-26	D
-27	A
-28	B
-29	C
-30	C
+15	B
+16	C
+17	A
+18	C
