@@ -10,7 +10,7 @@ from utils import warning, bold
 from utils import load_dict_from_file, save_dict_to_file
 
 ruta_tests = "tests/"
-
+ruta_saves = "saves/"
 
 def log_test(fecha_inicio, fecha_fin, tema, test, modo, preguntas, soluciones, respuestas_usuario):
     try:
@@ -164,6 +164,35 @@ def correccion_silenciosa(preguntas, soluciones, respuestas_usuario):
 
     return aciertos, fallos, no_contestadas
 
+def grafica(preguntas, soluciones, respuestas_usuario, file):
+    aciertos = 0
+    fallos = 0
+    no_contestadas = 0
+
+    nota = 0
+    total_preguntas = len(preguntas)
+    valor_pregunta = 10 / total_preguntas
+
+    try:
+        for clave, pregunta in preguntas.items():
+            if respuestas_usuario[clave].lower() == "z":
+                # Pregunta sin respuesta
+                no_contestadas = no_contestadas + 1
+                print("z", end = '')
+                continue
+            if soluciones[clave].lower() == respuestas_usuario[clave].lower():
+                aciertos = aciertos + 1
+                nota = nota + valor_pregunta
+                print("-", end = '')
+            else:
+                fallos = fallos + 1
+                nota = nota - (valor_pregunta/2)
+                print("x", end = '')
+    except Exception as error:
+        print(" Incompleto", end = '')
+    #print(" " + file)
+    print(" " + file + " OK: " + str(aciertos) + " FAIL: " + str(fallos) + " NoC: " + str(no_contestadas) + " Nota: " + str(nota))
+    return aciertos, fallos, no_contestadas
 
 def repaso(preguntas, respuestas, soluciones):
     for clave, pregunta in preguntas.items():
@@ -197,7 +226,7 @@ def repasar_fallos(preguntas, respuestas, soluciones, preguntas_fallidas):
             print("\n\n\n")
 
 
-def uno_a_uno(tema, test, preguntas, respuestas, soluciones, respuestas_usuario):
+def uno_a_uno(tema, test, preguntas, respuestas, soluciones, respuestas_usuario, attempt_id):
     # Empieza el test al usuario
     for clave, pregunta in preguntas.items():
         bold(pregunta)
@@ -212,7 +241,7 @@ def uno_a_uno(tema, test, preguntas, respuestas, soluciones, respuestas_usuario)
             respuesta_usuario = str(input("Respuesta:").lower().strip())
         respuestas_usuario[clave] = respuesta_usuario
         # Always save up to last question
-        save_dict_to_file(respuestas_usuario, "saves/respuestas_tema"+tema+"test"+test+".txt")
+        save_dict_to_file(respuestas_usuario, "saves/respuestas_tema"+tema+"test"+test+attempt_id+".txt")
 
         # Comprobar la respuesta sobre la marcha
         if respuestas_usuario[clave].lower() == "z":
@@ -286,6 +315,20 @@ def list_files(tema):
             preguntas_temp, respuestas_temp, soluciones_temp = parsear_fichero(file)
             print(file + " -> " + str(len(preguntas_temp)) + " preguntas. " + str(len(soluciones_temp)) + " soluciones")
 
+def list_save_files(tema, test, preguntas, respuestas, soluciones):
+    script_dir = os.path.dirname(__file__) # <-- absolute dir the script is in
+    rel_path = ruta_saves
+    abs_file_path = os.path.join(script_dir, rel_path)
+
+    list_dir = os.listdir(abs_file_path)
+    list_dir = [f.lower() for f in list_dir]
+    sorted(list_dir)
+    for file in list_dir:
+        if file.startswith("respuestas_tema" + tema + "test" + test):
+            respuestas_temp = {}
+            respuestas_temp.update(load_dict_from_file("saves/"+file))
+            grafica(preguntas, soluciones, respuestas_temp, file)
+
 def principal():
 
     print("Heyyyyy")
@@ -298,7 +341,17 @@ def principal():
     fichero_test = "tema" + tema + "test" + test + ".txt"
     preguntas, respuestas, soluciones = parsear_fichero(fichero_test)
 
+    attempt_id = "-" + datetime.datetime.now().strftime('%Y%m%d-%H%M%S') 
+
+    if modo == "load":
+        list_save_files(tema, test, preguntas, respuestas, soluciones)
+        attempt_id = input("¿Cual de los guardados quieres?:")
+        if attempt_id != "":
+            attempt_id = "-" + attempt_id
+
+
     print("\n\n\n")
+    print("id guardado -> " + attempt_id)
     print("Este test tiene " + str(len(preguntas)) + " preguntas")
     validar_test(preguntas, soluciones)
     print("\n\n\n")
@@ -311,14 +364,15 @@ def principal():
     elif modo == "check":
         preguntas_fallidas = comprobar_parseo(preguntas, respuestas, soluciones)
     elif modo == "one":
-        preguntas_fallidas = uno_a_uno(tema, test, preguntas, respuestas, soluciones, respuestas_usuario)
+        preguntas_fallidas = uno_a_uno(tema, test, preguntas, respuestas, soluciones, respuestas_usuario, attempt_id)
     elif modo == "load":
-        respuestas_usuario.update(load_dict_from_file("saves/respuestas_tema"+tema+"test"+test+".txt"))
-        preguntas_fallidas = uno_a_uno(tema, test, preguntas, respuestas, soluciones, respuestas_usuario)
+        respuestas_usuario.update(load_dict_from_file("saves/respuestas_tema"+tema+"test"+test+attempt_id+".txt"))
+        preguntas_fallidas = uno_a_uno(tema, test, preguntas, respuestas, soluciones, respuestas_usuario, attempt_id)
     else:
         preguntas_fallidas = examen(preguntas, respuestas, soluciones)
     fecha_fin = datetime.datetime.now()
     print("Fin del tema " + tema + " test " + test)
+    list_save_files(tema, test, preguntas, respuestas, soluciones)
     log_test(fecha_inicio, fecha_fin, tema, test, modo, preguntas, soluciones, respuestas_usuario)
     repasar_fallos(preguntas, respuestas, soluciones, preguntas_fallidas)
 
