@@ -41,7 +41,7 @@ b) Leves
 c) Leves y graves
 d) Muy graves
 
-5) Es una infracción grave:
+5) RESPUESTA MODIFICADA Es una infracción grave:
 a) No comunicar a la autoridad laboral competente la apertura del centro de trabajo
 o la reanudación o continuación de los trabajos después de efectuar alteraciones
 o ampliaciones de importancia, o consignar con inexactitud los datos que debe
@@ -59,7 +59,7 @@ d) Son infracciones graves las respuestas a y c.
 
 ING. INDUSTRIALES
 
-6) No comunicar a la autoridad laboral competente la apertura del centro de
+6) RESPUESTA MODIFICADA No comunicar a la autoridad laboral competente la apertura del centro de
 trabajo o la reanudación o continuación de los trabajos después de efectuar
 alteraciones o ampliaciones de importancia, o consignar con inexactitud los
 datos que debe declarar o cumplimentar, siempre que no se trate de industria
@@ -414,8 +414,8 @@ SOLUCIONES
 2	A
 3	B
 4	C
-5	D
-6	A
+5	C
+6	D
 7	D
 8	D
 9	C
