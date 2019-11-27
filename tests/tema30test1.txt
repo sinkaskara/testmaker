@@ -114,7 +114,7 @@ los distintos municipios de Canarias.
 c) Todas son correctas
 
 Artículo 9. Suficiencia financiera y estabilidad presupuestaria.
-12. RESPUESTA MODIFICADA En aplicación del principio de suficiencia financiera, las nuevas
+12. En aplicación del principio de suficiencia financiera, las nuevas
 competencias que las leyes canarias atribuyan como propias a los
 municipios y que supongan cargas económicas adicionales para estos,
 señale la incorrecta:
@@ -260,7 +260,7 @@ SOLUCIONES
 9	C
 10	A
 11	C
-12	C
+12	B
 13	A
 14	A
 15	B
