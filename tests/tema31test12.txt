@@ -128,7 +128,7 @@ d) El marco normativo que regula la protección de datos solo está integrado
 por el art. 18.4 de la Constitución española y por la L.O. 15/1999, de 13
 de diciembre, de Protección de Datos de Carácter Personal.
 
-17.- Es de aplicación a los datos de carácter personal registrados en
+17.- ANULADA Es de aplicación a los datos de carácter personal registrados en
 soporte físico, que los haga susceptibles de tratamiento, y a toda
 modalidad de uso posterior de estos datos por los sectores público y
 privado:
@@ -159,7 +159,7 @@ b) Cuando haya de notificarse el acto.
 c) Cuando lo exija el contenido del acto.
 d) Todas son correctas.
 
-21.- Señale cuál de los siguientes no pone fin a la fía administrativa:
+21.- ANULADA Señale cuál de los siguientes no pone fin a la fía administrativa:
 a) La resolución de los procedimientos complementarios en materia
 sancionadora a los que se refiere el art. 90,4 LPA.
 b) Resoluciones de los procedimientos a que se refiere el art. 111.2 LPA.
@@ -167,7 +167,7 @@ c) Las resoluciones de los órganos administrativos que carezcan de
 superior jerárquico.
 d) Las resoluciones de los recursos de alzada.
 
-22.- En el caso de que la Administración no resuelva el recurso
+22.- ANULADA En el caso de que la Administración no resuelva el recurso
 planteado, podrá entenderse el mismo:
 a) Estimado.
 b) Desestimado.
@@ -238,7 +238,7 @@ b) 104.
 c) 105.
 d) 106.
 
-31.- En relación con las indemnizaciones por responsabilidad patrimonial
+31.- ANULADA En relación con las indemnizaciones por responsabilidad patrimonial
 de las Administraciones Públicas:
 a) Solo serán indemnizables las lesiones producidas al particular
 provenientes de daños que éste tenga el deber jurídico de soportar de
@@ -366,7 +366,7 @@ b) Sancionadora y revisora.
 c) De instrucción y de calificación.
 d) Preparatoria y resolutoria.
 
-45.- Los funcionarios que hubieran perdido dicha condición, podrán
+45.- ANULADA Los funcionarios que hubieran perdido dicha condición, podrán
 solicitar la rehabilitación en los siguientes supuestos:
 a) Cambio de nacionalidad, sanción disciplinaria y jubilación por incapacidad
 permanente,
