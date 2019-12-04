@@ -4,38 +4,26 @@ CAC 9 octubre 2018
 
 1.- Los valores superiores del ordenamiento jurídico español, según la Constitución española
 de 1978, son:
-
 a) La libertad, la igualdad y el pluralismo jurídico.
-
 b) La libertad, la igualdad y el Estado social y democrático de derecho
-
 c) El Estado social y democrático de derecho
-
 d) La libertad, la justicia, la igualdad y el pluralismo político.
 
 2.- Indicar, de los que se indican, los tres principios básicos que consagra el artículo 2 de la
 Constitución española de 1978, que presiden las relaciones del Estado y las Comunidades
 Autónomas:
-
 a) Centralización, autonomía y pluralidad.
-
 b) Unidad, autonomía y solidaridad.
-
 c) Independencia, centralización y coordinación.
-
 d) Desconcentración, especialización y unidad.
 
 3.- El contenido de la Constitución Española de 1978 se distribuye:
-
 a) En 170 artículos, 3 Disposiciones Adicionales, 9 Disposiciones Transitorias, 1
 Disposición Derogatoria y 1 Disposición Final.
-
 b) En 169 artículos, 4 Disposiciones Adicionales, 9 Disposiciones Transitorias, 1
 Disposición Derogatoria, 1 Disposición Final y un Preámbulo
-
 c) En 179 artículos, 4 Disposiciones Adicionales, 6 Disposiciones Transitorias y 1
 Disposición Final
-
 d) Ninguna es correcta
 
 4.- En cuál de los siguientes casos no podrá procederse a realizar una reforma constitucional
@@ -46,13 +34,9 @@ d) Durante la duración de la declaración del Estado de Sitio
 
 5.- Conforme al Título Preliminar de la Constitución española de 1978, en los sindicatos de
 trabajadores y las asociaciones empresariales
-
 a) Deberán tener una regulación interna igualitaria
-
 b) Su estructura interna y funcionamiento deberán ser democráticos
-
 c) Sólo deberá ser democrático su funcionamiento
-
 d) Sólo deberá ser democrática su estructura.
 
 6.- Según la Constitución española de 1978, la federación de las Comunidades Autónomas
@@ -66,6 +50,7 @@ a) El Presidente de la Comunidad Autónoma
 b) Ninguna respuesta es correcta
 c) La Presidencia del Tribunal Superior de Justicia
 d) La Presidencia del Parlamento de Canarias
+
 8.- Los Estatutos de Autonomía
 a) Son la norma institucional básica de cada Comunidad Autónoma
 b) Son parte integrante del ordenamiento jurídico del Estado
@@ -79,37 +64,25 @@ c) Por las Cortes Generales y nombrado por el Rey
 d) Por las Cortes Generales y nombrado por el Presidente del Gobierno
 
 10.- ¿Cuál es la finalidad de la Unión Europea?
-
 a) Promover la movilidad de las personas
-
 b) Promover la paz, sus valores y el bienestar de sus pueblos
-
 c) Promover la libre circulación de capitales
-
 d) Promover la diversidad de los países miembros en las áreas financiera, fiscal y de
 defensa
 
 11.- ¿Qué acto legislativo de la Unión tiene alcance general, es obligatorio en todos sus
 elementos y es directamente aplicable en cada Estado miembro?
-
 a) La Directiva
-
 b) La Decisión
-
 c) El Reglamento
-
 d) La Recomendación
 
 12.- Cualquier equipo destinado a ser llevado o sujetado por el trabajador para que le proteja
 de uno o varios riesgos que puedan amenazar su seguridad o su salud en el trabajo, se
 considera
-
 a) Equipo de Protección Individual (EPI)
-
 b) Equipo de trabajo
-
 c) Equipo o productos potencialmente peligrosos
-
 d) Equipo de prevención
 
 13.- Indique la opción incorrecta en relación con la planificación en la gestión pública
@@ -123,28 +96,21 @@ a) La participación ciudadana
 b) La transparencia
 c) La asociación
 d) Pregunta declarada nula por el tribunal tras el examen
+
 15.- De acuerdo con el artículo 4 del Reglamento Europeo de Protección de Datos, la persona
 física o jurídica, autoridad pública u otro organismo que trate datos personales por cuenta del
 responsable del tratamiento, recibe el nombre de
-
 a) Responsable del tratamiento
-
 b) Encargado del tratamiento
-
 c) Destinatario
-
 d) Tercero
 
 16.- Los datos personales obtenidos a partir de un tratamiento técnico específico, relativos a
 las características físicas, fisiológicas o conductuales de una persona física que permitan o
 confirmen la identificación única de dicha persona, se denominan
-
 a) Datos genéticos
-
 b) Datos relativos a la salud
-
 c) Ninguna respuesta es correcta
-
 d) Datos biométricos
 
 17.- En la fase de finalización del procedimiento administrativo
@@ -155,13 +121,9 @@ d) Se da audiencia al interesado
 
 18.- ¿Cuáles son los medios de prueba admitidos en la instrucción de un procedimiento
 administrativo?
-
 a) Prueba testifical
-
 b) Todas son válidas
-
 c) Prueba documental
-
 d) Prueba pericial
 
 19.- ¿Cuáles son formas de finalización de un procedimiento administrativo?
@@ -177,14 +139,10 @@ c) Recurso contencioso administrativo
 d) Son correctas a) y b)
 
 21.- El recurso de alzada se interpondrá
-
 a) Contra actos y resoluciones que no pongan fin a la vía administrativa
-
 b) Una vez que haya finalizado la vía administrativa
-
 c) Ante el órgano que dictó el acto(ehatto que se impugna o ante el competente para
 resolverlo AS
-
 d) Son correctas a) y c)
 
 
@@ -198,13 +156,9 @@ evidencien el error de la resolución recurrida, es un motivo para interponerlo
 
 23.- La ley que regula el procedimiento administrativo común de las Administraciones Públicas
 es
-
 a) La Ley 30/1992 de 26 de noviembre
-
 b) La Ley 33/2003, de 3 de noviembre
-
 c) La Ley 7/1985, de 2 de abril
-
 d) La Ley 39/2015, de 1 de octubre
 
 24.- Los hechos relevantes para la decisión de un procedimiento administrativo
@@ -214,146 +168,100 @@ c) Podrán acreditarse exclusivamente mediante prueba testimonial o pericial
 d) No será necesaria su acreditación nunca
 
 25.- En los casos en que se actúe por representación en un procedimiento administrativo
-
 a) Se presumirá la representación
-
 b) Deberá asumir la representación un abogado
-
 c) La representación podrá acreditarse mediante cualquier medio válido en Derecho que
 deje constancia fidedigna de su existencia
-
 d) Deberá asumir la representación del interesado un abogado acompañado de
 procurador
 
 26.- En relación con el recurso potestativo de reposición
-
 a) El plazo para interponerlo será de un mes, si el acto fuera expreso
-
 b) Todas las respuestas son ciertas
-
 c) No se podrá interponer recurso contencioso administrativo hasta que sea resuelto
 expresamente o se haya producido la desestimación presunta del recurso de reposición
 interpuesto
-
 d) Contra la resolución de un recurso de reposición no podrá interponerse de nuevo dicho
 recurso
 
 27.- De forma general, las relaciones de las personas físicas con las Administraciones Públicas
 seló”
-
 a) Podrán elegir si se relacionan o no a través de medios electrónicos
-
 b) Están obligadas a comunicarse a través del Punto de Acceso General Electrónico de la
 Administración
-
 c) Están obligadas a relacionarse a través de medios electrónicos
-
 d) Están obligados a relacionarse a través de medios no electrónicos
 
 28.- ¿Cuál es el plazo señalado en el artículo 68 de la Ley 39/2015 de 1 de octubre para
 subsanar una solicitud presentada?
-
 a) 10 días
-
 b) 15 días
-
 c) Una semana
-
 d) Un mes
+
 29.- Están excluidos del ámbito de aplicación de la Ley 9/2017 de 9 de noviembre de Contratos
 del Sector Público
-
 a) Las relaciones de servicio de los funcionarios públicos
-
 b) Son ciertas a) y c)
-
 c) Relaciones jurídicas en las que los usuarios de un servicio público están obligados a
 pagar una tarifa, tasa o precio público
-
 d) Un contrato de suministro de medicamentos a un hospital público
 
 30.- Las condiciones de aptitud para celebrar contratos con las Administraciones Públicas,
 según la Ley 9/2017 de 8 de noviembre son
-
 a) Podrán contratar personas naturales o jurídicas, españolas o extranjeras, que tengan
 plena capacidad de obrar, no estén incursas en prohibiciones de contratar y acrediten su
 solvencia económica, financiera y técnica o profesional
-
 b) Esobligatorio que sean españolas
-
 c) Además de lo señalado en el apartado a), es necesario que cuenten con habilitación
 empresarial o profesional que en su caso sea exigible
-
 d) Son ciertas a) y c)
 
 31.- ¿Qué situación no se considera prohibición para contratar con las Administraciones
 Públicas según la Ley 9/2017 de 8 de noviembre?
-
 a) Haber celebrado contratos con la Administración Pública con anterioridad
-
 b) Condena mediante sentencia firme por delitos de terrorismo, de financiación ilegal de
 partidos políticos y delitos contra la Hacienda Pública y la Seguridad Social
-
 c) No hallarse al corriente en el cumplimiento de obligaciones tributarias o con la
 Seguridad Social
-
 d) Haber sido declarados insolventes en cualquier procedimiento.
 
 32.- Con respecto a las garantías exigidas en los contratos celebrados con las Administraciones
 Públicas
-
 a) Por regla general, no procede la exigencia de garantía provisional
-
 b) Todas las repuestas son ciertas
-
 c) La garantía definitiva a constituir será del 5% del precio final ofertado
-
 d) En casos excepcionales, el órgano de contratación podrá establecer una garantía
 complementaria de hasta un 5%
 
 33.- Según el artículo 108 de la Ley 9/2017 de 8 de noviembre, las garantías definitivas podrán
 prestarse
-
 a) Enefectivo o en valores
-
 b) Mediante aval
-
 c) Mediante contrato de seguro de caución
-
 d) Todas son ciertas
 
 34.- Según el artículo 120 de la Ley 9/2017, los requisitos para la tramitación de expediente por
 emergencia son
-
 a) Son ciertas b) y d)
-
 b) Que se hayan producido acontecimientos catastróficos, situaciones que supongan
 grave peligro o necesidades que afecten a la defensa nacional.
-
 c) Que se decida por el órgano de contratación, en cualquier caso
-
 d) No hay obligación de tramitar expediente de contratación
+
 35.- Según el artículo 132 de la Ley 9/2017 de 8 de noviembre, los órganos de contratación
 ajustarán su actuación a los principios de
-
 a) Eficiencia y seguridad jurídica
-
 b) Transparencia y proporcionalidad y dispensarán a licitadores y candidatos un
 tratamiento igualitario y no discriminatorio
-
 c) Economía procesal
-
 d) Jerarquía normativa
 
 36.- La dieta es la cantidad que satisface los gastos que origina la estancia fuera de la residencia
 oficial, y se devenga:
-
 a) Al termino de la estancia.
-
 b) Diariamente.
-
 c) Semanalmente.
-
 d) Mensualmente.
 
 37.- De acuerdo con el Texto Refundido del Empleado Público las retribuciones básicas de los
@@ -366,37 +274,25 @@ d) El sueldo exclusivamente.
 
 38.- ¿Qué retribuciones se percibirán durante una reducción de jornada para el cuidado de un
 familiar hasta el segundo grado de consanguinidad?
-
 a) La totalidad de las retribuciones.
-
 b) Se percibirán las retribuciones proporcionales a la jornada de trabajo realizada.
-
 c) No se perciben retribuciones.
-
 d) El 60% de las retribuciones básicas y complementarias.
 
 39.- ¿En cuántos Subgrupos se dividen los diferentes Grupos en los que se integran los Cuerpos
 y Escalas?
-
 a) Todos los Grupos se dividen en dos Subgrupos.
-
 b) Los Grupos A y B se dividen en dos Subgrupos.
-
 c) Los Grupos A y C se dividen en dos Subgrupos.
-
 d) ElGrupo A se divide en dos Subgrupos y el Grupo C en tres Subgrupos.
 
 40.- Señale la respuesta correcta en relación con los órganos de selección de funcionarios.
-
 a) La pertenencia a los órganos de selección será siempre a título representativo.
-
 b) Los órganos de selección velarán por el cumplimiento del principio de igualdad de
 oportunidades entre sexos.
-
 c) Los órganos de selección podrán proponer el acceso a la condición de funcionario de
 un número superior de aprobados al de plazas convocadas, excepto cuando así lo
 prevea la propia convocatoria.
-
 d) Todas son correctas.
 
 41.- ¿En cuántas pagas se abonará el complemento específico a los funcionarios públicos?
@@ -404,6 +300,7 @@ a) En doce pagas.
 b) En dos pagas.
 c) En catorce pagas.
 d) En quince pagas.
+
 42.- El Presidente del Gobierno de Canarias es elegido
 a) Por el Parlamento de Canarias
 b) Por el Parlamento de Canarias de entre sus miembros
@@ -430,63 +327,44 @@ d) Todas son falsas
 
 46.- La Ley Orgánica 3/2007 de 22 de marzo, para la igualdad efectiva de mujeres y hombres
 define la discriminación por razón de sexo y la clasifica en
-
 a) Discriminación masculina y femenina
-
 b) Discriminación del menor y del adulto
-
 c) Discriminación positiva y negativa
-
 d) Discriminación directa e indirecta
 
 47.- El artículo 23 de la Ley Orgánica 3/2007 de 22 de marzo, para la igualdad efectiva de
 mujeres y hombres, define la educación para la igualdad entre mujeres y hombres
-
 a) El sistema educativo incluirá entre sus fines la educación en el respeto de los derechos
 y libertades fundamentales y en la igualdad de derechos y oportunidades entre mujeres y
 hombres
-
 b) El sistema educativo incluirá dentro de sus principios de calidad, la eliminación de los
 obstáculos que dificultan la igualdad efectiva entre mujeres y hombres y el fomento de la
 igualdad plena entre unas y otros
-
 c) El sistema educativo no distinguirá entre mujeres y hombres e incluirá entre sus fines la
 educación en el respeto de los derechos y libertades fundamentales y en la igualdad de
 derechos y oportunidades de todos los individuos
-
 d) Son correctas a) y b)
 
 48.- La Ley 7/2015 de 1 de abril, de Municipios de Canarias
-
 a) Se aplica exclusivamente al ámbito municipal
-
 b) Se aplica a los municipios y al resto de entidades contempladas en el artículo 2 de la
 Ley
-
 c) Todas son falsas
-
 d) Se aplica al Estado
+
 49.- Las competencias municipales
-
 a) Se diferencian competencias propias y competencias delegadas
-
 b) Cuando son delegadas, la titularidad de las mismas seguirá perteneciendo a la
 Administración delegante
-
 c) Las propias son atribuidas por leyes del Estado y de la Comunidad Autónoma de
 Canarias
-
 d) Todas son ciertas
 
 50.- Los municipios canarios asumen competencias que les asignen como propias las leyes
 sectoriales de la Comunidad Autónoma de Canarias, en las siguientes materias
-
 a) Defensa Nacional
-
 b) Sanidad Exterior
-
 c) Relaciones internacionales
-
 d) Todas son falsas
 
 SOLUCIONES
