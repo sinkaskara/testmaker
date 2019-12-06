@@ -46,11 +46,13 @@ que presentará un texto que requerirá el voto favor
 favorable de la mayoría absoluta del Senado, y
 de mayoría de dos tercios del Congreso.
 d. Deberán ser aprobados por una mayoría de dos quintos de cada una de las Cámaras.
+
 2. La potestad reglamentaria, según la Constitución, es ejercida por:
 a. El Gobierno y la Administración.
 b. El Gobierno.
 c. El Consejo de Gobierno y el Congreso de los diputados.
 d. Las Cortes Generales
+
 3. La Constitución Española establece, respecto a la federación de Comunidades Autónomas que:
 a. Los Estatutos de las Comunidades Autónomas deberán prever los supuestos, requisitos y
 términos en que éstas puedan constituirse en Federación.
@@ -60,11 +62,13 @@ las Cortes Generales.
 c. La constitución de federaciones de Comunidades Autónomas necesitará la autorización de
 las Cortes Generales.
 d. En ningún caso se admitirá la federación de Comunidades Autónomas.
+
 4. Los acuerdos de cooperación entre las Comunidades Autónomas:
 a. No podrán celebrarse si no están previstos en sus propios Estatutos.
 b. Podrán autorizarse por las Cortes Generales.
 c. Podrán autorizarse por el Gobierno.
 d. Todas las respuestas anteriores son ciertas.
+
 5. De conformidad con la Constitución Española, el control de la actividad de los órganos de las
 Comunidades Autónomas podrá ejercerse:
 a. Por el Consejo de Estado.
@@ -72,17 +76,13 @@ b. Por el Senado.
 c. Por el Tribunal de Cuentas.
 d. Por el Delegado del Gobierno.
 
-Pruebas selectivas para el ingreso, por el sistema general de acceso libre, al Cuerpo Facultativo de Técnicos de
-Grado Medio, Escala de Arquitectos e Ingenieros Técnicos de la Administración Pública de la Comunidad
-Autónoma de Canarias (Grupo A, Subgrupo A2), Especialidad Ingenieros Técnicos Industriales, convocadas
-mediante Resolución de 11 de abril de 2018.
-
 6. El fondo de compensación interterritorial será distribuido entre las Comunidades Autónomas y
 provincias por:
 a. Por el Gobierno.
 b. Por el Senado.
 c. Por el Tribunal de Cuentas.
 d. Por las Cortes Generales.
+
 7. Según la Constitución Española, la provincia es:
 a. Una entidad local con personalidad jurídica plena, determinada por la agrupación de
 municipios y división territorial para el cumplimiento de las actividades del Estado.
@@ -94,6 +94,7 @@ Autónoma.
 d. Una entidad local con personalidad jurídica propia, determinada por la agrupación de
 municipios y división territorial para el cumplimiento de las actividades de la Comunidad
 Autónoma.
+
 8. Según la Constitución Española, en un municipio:
 a. Los Concejales serán elegidos por los vecinos del municipio mediante sufragio universal. Los
 Alcaldes serán elegidos por los Concejales.
@@ -102,29 +103,20 @@ Concejales serán elegidos por el Alcalde.
 c. Los Concejales serán elegidos por los vecinos del municipio mediante sufragio universal. Los
 Alcaldes serán elegidos por los Concejales o por los vecinos.
 d. Ninguna de las anteriores es correcta.
+
 9. ¿A quién le corresponde la función de promover el interés general de la Unión Europea y formar
 las iniciativas adecuadas para este fin?
 a. Consejo Europeo.
 b. Defensor del Pueblo Europeo.
 c. Comisión Europea.
 d. Parlamento Europeo.
+
 10. El Tribunal de Justicia de la Unión Europea se compone de un juez por Estado miembro,
 designado por un periodo de:
 a. Seis años renovables.
 b. Tres años sin posibilidad de renovación.
 c. Diez años.
 d. Cinco años renovables.
-Ϯ
-
-En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada la
-autenticidad de esta copia, mediante el número de documento electrónico siguiente:
-
-0Fqdl2GmQ7VWVO7aluBRLBvPYDz3kEiNS
-
-Pruebas selectivas para el ingreso, por el sistema general de acceso libre, al Cuerpo Facultativo de Técnicos de
-Grado Medio, Escala de Arquitectos e Ingenieros Técnicos de la Administración Pública de la Comunidad
-Autónoma de Canarias (Grupo A, Subgrupo A2), Especialidad Ingenieros Técnicos Industriales, convocadas
-mediante Resolución de 11 de abril de 2018.
 
 11. Conforme a la Ley 31/1995, de 8 de noviembre, de Prevención de riesgos laborales, es infracción
 grave en materia de prevención de riesgos laborales:
@@ -141,6 +133,7 @@ reanudación o continuación de los trabajos después de efectuar alteraciones o
 de importancia, o consignar con inexactitud los datos que debe declarar o cumplimentar,
 siempre que no se trate de industria calificada por la normativa vigente como peligrosa,
 insalubre o nociva por los elementos, procesos o sustancias que se manipulen.
+
 12. Conforme a la Ley 31/1995, de 8 de noviembre, de Prevención de riesgos laborales, cuando en
 un mismo centro de trabajo desarrollen actividades trabajadores de dos o más empresas:
 a. Cada empresa aplicará su Plan de Prevención de Riesgos Laborales.
@@ -149,6 +142,7 @@ c. Las empresas deberán cooperar en la aplicación de la normativa de prevenci�
 laborales estableciendo los medios de coordinación necesarios.
 d. No es posible que trabajadores de más de dos empresas desarrollen actividades a la vez en
 un mismo centro de trabajo.
+
 13. De conformidad con la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres
 y hombres, la aprobación de convocatorias de pruebas selectivas para el acceso al empleo
 público:
@@ -158,6 +152,7 @@ b. Deberá acompañarse de un informe de impacto de género, salvo en casos de u
 siempre sin perjuicio de la prohibición de discriminación por razón de sexo.
 c. Es suficiente con la aprobación de las bases de las convocatorias por el órgano competente.
 d. No se exige informe de impacto de género.
+
 14. Según la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres,
 la Comisión Interministerial de Igualdad entre mujeres y hombres:
 a. Es el órgano directivo para el desarrollo de las funciones relacionadas con el principio de
@@ -169,27 +164,17 @@ razón de sexo.
 c. Es el órgano que establece el conjunto ordenado de medidas, adoptadas después de realizar
 un diagnóstico de situación, tendentes a alcanzar en la empresa la igualdad de trato y de
 oportunidades entre mujeres y hombres y a eliminar la discriminación por razón de sexo.
-ϯ
-
-En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada la
-autenticidad de esta copia, mediante el número de documento electrónico siguiente:
-
-0Fqdl2GmQ7VWVO7aluBRLBvPYDz3kEiNS
-
-Pruebas selectivas para el ingreso, por el sistema general de acceso libre, al Cuerpo Facultativo de Técnicos de
-Grado Medio, Escala de Arquitectos e Ingenieros Técnicos de la Administración Pública de la Comunidad
-Autónoma de Canarias (Grupo A, Subgrupo A2), Especialidad Ingenieros Técnicos Industriales, convocadas
-mediante Resolución de 11 de abril de 2018.
-
 d. Es el órgano colegiado responsable de la coordinación de las políticas y medidas adoptadas
 por los departamentos ministeriales con la finalidad de garantizar el derecho a la igualdad
 entre mujeres y hombres y promover su efectividad.
+
 15. De conformidad con la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y
 Sostenibilidad Financiera, ¿qué plazo abarcan los marcos presupuestarios a medio plazo?
 a. Un plazo mínimo de cinco años.
 b. Un plazo máximo de tres años.
 c. Un plazo mínimo de tres años.
 d. Un plazo máximo de cinco años.
+
 16. De conformidad con la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y
 Sostenibilidad Financiera, se entiende por sostenibilidad financiera:
 a. La contabilidad de las administraciones públicas, que deberá contener información que
@@ -201,6 +186,7 @@ estabilidad presupuestaria y sostenibilidad financiera.
 c. La capacidad para financiar compromisos de gastos presentes y futuros dentro de los límites
 de déficit, deuda pública y morosidad de deuda comercial.
 d. Los objetivos de estabilidad presupuestaria y de deuda públicas.
+
 17. De conformidad con la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y
 Sostenibilidad Financiera, quién compone el Consejo de Política Fiscal y Financiera de las
 Comunidades Autónomas:
@@ -211,6 +197,7 @@ c. El ministro de economía y hacienda, el ministro de administraciones pública
 de hacienda de cada comunidad autónomas.
 d. El ministro de economía y hacienda, el ministro de administraciones públicas y el presidente
 de cada comunidad autónoma.
+
 18. De conformidad con la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las
 Comunidades Autónomas, el Fondo de Compensación se distribuirá:
 a. Por las Cortes Generales, entre las Comunidades Autónomas y las ciudades con estatuto de
@@ -221,17 +208,6 @@ c. Por las Cortes Generales, entre las regiones ultraperiféricas y las ciudades
 autonomía.
 d. Por las Cortes Generales, entre las regiones ultraperiféricas y las ciudades con estatuto de
 autonomía.
-ϰ
-
-En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada la
-autenticidad de esta copia, mediante el número de documento electrónico siguiente:
-
-0Fqdl2GmQ7VWVO7aluBRLBvPYDz3kEiNS
-
-Pruebas selectivas para el ingreso, por el sistema general de acceso libre, al Cuerpo Facultativo de Técnicos de
-Grado Medio, Escala de Arquitectos e Ingenieros Técnicos de la Administración Pública de la Comunidad
-Autónoma de Canarias (Grupo A, Subgrupo A2), Especialidad Ingenieros Técnicos Industriales, convocadas
-mediante Resolución de 11 de abril de 2018.
 
 19. En materia de transparencia de las Administraciones Públicas, las resoluciones de acceso a la
 información pública y buen gobierno deberán notificarse, con carácter general:
@@ -243,6 +219,7 @@ c. En el plazo máximo de seis meses desde la recepción de la solicitud por el 
 para resolver.
 d. En el plazo máximo de 15 días desde la recepción de la solicitud por el órgano competente
 para resolver.
+
 20. Según el Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril de
 2016 relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos
 personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE,
@@ -251,6 +228,7 @@ a. El Encargado.
 b. El Responsable.
 c. El Encargado y el Responsable.
 d. El Delegado de protección de datos.
+
 21. En materia de protección de datos personales, el delegado de protección de datos:
 a. No podrá formar parte de la plantilla del responsable o del encargado del tratamiento.
 b. Podrá formar parte de la plantilla del responsable del tratamiento, pero no de la plantilla del
@@ -258,6 +236,7 @@ encargado del tratamiento.
 c. Solo podrá desempeñar sus funciones en el marco de un contrato de servicios.
 d. Podrá formar parte de la plantilla del responsable o del encargado del tratamiento o
 desempeñar sus funciones en el marco de un contrato de servicios.
+
 22. ¿Qué es la sede electrónica?
 a. El punto de acceso electrónico cuya titularidad corresponda a una administración pública,
 organismo público o entidad de derecho público que permite el acceso a través de internet a
@@ -275,18 +254,6 @@ competencias.
 d. El punto de acceso electrónico cuya titularidad corresponda exclusivamente a una
 Administración Pública, que permite el acceso a través de internet a la información publicada.
 
-ϱ
-
-En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada la
-autenticidad de esta copia, mediante el número de documento electrónico siguiente:
-
-0Fqdl2GmQ7VWVO7aluBRLBvPYDz3kEiNS
-
-Pruebas selectivas para el ingreso, por el sistema general de acceso libre, al Cuerpo Facultativo de Técnicos de
-Grado Medio, Escala de Arquitectos e Ingenieros Técnicos de la Administración Pública de la Comunidad
-Autónoma de Canarias (Grupo A, Subgrupo A2), Especialidad Ingenieros Técnicos Industriales, convocadas
-mediante Resolución de 11 de abril de 2018.
-
 23. Cuando la notificación por medios electrónicos sea de carácter obligatorio, o haya sido
 expresamente elegida por el interesado, se entenderá rechazada cuando hayan transcurrido
 desde la puesta a disposición de la notificación sin que se acceda a su contenido:
@@ -294,6 +261,7 @@ a. 7 días naturales.
 b. 10 días naturales.
 c. 7 días hábiles.
 d. 10 días hábiles.
+
 24. Conforme a la Ley 39/2015, de 1 de octubre, que regula el procedimiento administrativo común
 de las Administraciones Públicas, cuando los plazos se señalen por días, se entiende que estos
 son:
@@ -304,12 +272,14 @@ c. Hábiles, excluyéndose del cómputo los domingos y los declarados festivos, 
 o en el Derecho de la Unión Europea no se exprese otro cómputo.
 d. Siempre naturales, salvo que por Ley o en el Derecho de la Unión Europea no se exprese
 otro cómputo.
+
 25. Las Administraciones Públicas:
 a. Están obligadas a dictar resolución expresa en todos los casos.
 b. Se exceptúa de la obligación de resolver en los casos de prescripción.
 c. Se exceptúa de la obligación de resolver en los casos de renuncia al derecho.
 d. Se exceptúa de la obligación de resolver en los casos de la terminación del procedimiento por
 pacto o convenio.
+
 26. El instructor de un procedimiento administrativo podrá decidir la apertura de un periodo
 extraordinario de prueba:
 a. Cuando no tenga por ciertos los hechos alegados por los interesados, por un plazo no superior
@@ -319,23 +289,13 @@ c. Cuando lo considere necesario, a petición de los interesados, por un plazo n
 días.
 d. Cuando lo considere necesario, a petición de los interesados, por un plazo no superior a
 quince días.
+
 27. ¿En qué principio se basa la posibilidad de acordar en un solo acto todos los trámites que, por su
 naturaleza, admitan un impulso simultáneo y no sea obligado su cumplimiento sucesivo?
 a. Principio de celeridad.
 b. Principio de simplificación administrativa.
 c. Principio de eficiencia.
 d. Principio de proporcionalidad.
-ϲ
-
-En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada la
-autenticidad de esta copia, mediante el número de documento electrónico siguiente:
-
-0Fqdl2GmQ7VWVO7aluBRLBvPYDz3kEiNS
-
-Pruebas selectivas para el ingreso, por el sistema general de acceso libre, al Cuerpo Facultativo de Técnicos de
-Grado Medio, Escala de Arquitectos e Ingenieros Técnicos de la Administración Pública de la Comunidad
-Autónoma de Canarias (Grupo A, Subgrupo A2), Especialidad Ingenieros Técnicos Industriales, convocadas
-mediante Resolución de 11 de abril de 2018.
 
 28. Contra las disposiciones administrativas de carácter general podrá interponerse por los
 interesados:
@@ -343,17 +303,20 @@ a. Recurso de alzada.
 b. Recurso potestativo de reposición.
 c. No cabe recurso en vía administrativa.
 d. Recurso extraordinario de revisión.
+
 29. Podrá interponerse recurso de alzada:
 a. Ante el órgano que instruyó el acto que se impugna o ante el órgano que lo dictó.
 b. Únicamente ante el órgano que dictó el acto que se impugna.
 c. Ante el órgano que dictó el acto que se impugna o ante el competente para resolverlo.
 d. Ante el órgano que dictó el acto que se impugna o ante el orden jurisdiccional contenciosoadministrativo.
+
 30. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos de
 suministros tendrán un plazo máximo de duración, incluyendo las posibles prórrogas, de:
 a. 3 años.
 b. 5 años.
 c. 4 años.
 d. 2 años.
+
 31. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector público, en los procesos
 abiertos de adjudicación de contratos sujetos a regulación armonizada, el plazo de presentación
 de proposiciones será:
@@ -370,25 +333,15 @@ licitación a la Oficina de Publicaciones de la Unión Europea.
 d. No superior a treinta días, para los contratos de obras, suministros y servicios, y veinte días
 para las concesiones de obras y servicios, contados desde la fecha de envío de la licitación
 a la Oficina de Publicaciones de la Unión Europea.
+
 32. ¿Cuál es el procedimiento de adjudicación en el que sólo pueden presentar proposiciones
 aquellos empresarios que, a su solicitud y en atención a su solvencia, sean seleccionados por el
 órgano de contratación?
 a. Procedimiento restringido.
 b. Procedimiento negociado.
-ϳ
-
-En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada la
-autenticidad de esta copia, mediante el número de documento electrónico siguiente:
-
-0Fqdl2GmQ7VWVO7aluBRLBvPYDz3kEiNS
-
-Pruebas selectivas para el ingreso, por el sistema general de acceso libre, al Cuerpo Facultativo de Técnicos de
-Grado Medio, Escala de Arquitectos e Ingenieros Técnicos de la Administración Pública de la Comunidad
-Autónoma de Canarias (Grupo A, Subgrupo A2), Especialidad Ingenieros Técnicos Industriales, convocadas
-mediante Resolución de 11 de abril de 2018.
-
 c. Diálogo competitivo.
 d. Procedimiento selectivo.
+
 33. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los pliegos de cláusulas
 administrativas particulares se aprobarán:
 a. Previamente a la autorización del gasto o conjuntamente con ella.
@@ -417,6 +370,7 @@ a. No prescribe.
 b. Prescribe a los seis meses de producido el hecho o acto que motive la indemnización.
 c. Prescribe a los tres meses de producido el hecho o acto que motive la indemnización.
 d. Prescribe al año de producido el hecho o acto que motive la indemnización.
+
 37. En el ámbito autonómico y local, los procedimientos de responsabilidad patrimonial se resolverán
 por:
 a. Las asambleas parlamentarias mediante consenso.
@@ -424,17 +378,6 @@ b. Los órganos de gobierno si se trata de casos de cuantía elevada.
 c. Una comisión especializada creada para la ocasión.
 d. Los órganos correspondientes de las Comunidades Autónomas o de las Entidades que
 integran la Administración Local.
-ϴ
-
-En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada la
-autenticidad de esta copia, mediante el número de documento electrónico siguiente:
-
-0Fqdl2GmQ7VWVO7aluBRLBvPYDz3kEiNS
-
-Pruebas selectivas para el ingreso, por el sistema general de acceso libre, al Cuerpo Facultativo de Técnicos de
-Grado Medio, Escala de Arquitectos e Ingenieros Técnicos de la Administración Pública de la Comunidad
-Autónoma de Canarias (Grupo A, Subgrupo A2), Especialidad Ingenieros Técnicos Industriales, convocadas
-mediante Resolución de 11 de abril de 2018.
 
 38. Dentro de los derechos individuales de los empleados públicos en relación con la condición de
 funcionario de carrera, el Estatuto Básico del Empleado Público dispone que se tiene derecho a
@@ -450,6 +393,7 @@ a. Falta de asistencia injustificada de un día.
 b. No guardar sigilo de los asuntos conocidos por el cargo.
 c. Abandono del servicio.
 d. Incumplir las normas sobre incompatibilidades.
+
 40. Dentro de los términos de la Constitución, el Estatuto de Autonomía de Canarias es:
 a. La norma institucional supletoria de la Comunidad Autónoma de Canarias y el Estado lo
 reconocerá y amparará como parte integrante de su ordenamiento.
@@ -460,29 +404,19 @@ tónoma de Canarias y el Estado lo
 reconocerá y amparará como parte integrante de su ordenamiento jurídico.
 d. La norma competencial básica de la Comunidad Autónoma de Canarias y el Estado lo
 reconocerá y amparará como parte integrante de su ordenamiento jurídico.
+
 41. La iniciativa de la reforma del Estatuto de Autonomía de Canarias corresponderá a:
 a. Al Parlamento, al Gobierno de Canarias o al Presidente del Gobierno.
 b. Al Parlamento, al Presidente del Gobierno o a las Cortes Generales.
 c. Al Parlamento, al Gobierno de Canarias o a las Cortes Generales.
 d. Al Gobierno de Canarias, al Presidente del Gobierno, a las Cortes Generales.
+
 42. De conformidad con el Estatuto de Autonomía de Canarias, la organización de la Administración
 Pública Canaria responderá a los principios de:
 a. Eficacia, economía, máxima proximidad a los ciudadanos y atención al hecho insular.
 b. Eficacia, economía, máxima proximidad a los ciudadanos y atención al hecho municipal.
 c. Eficiencia, economía, máxima proximidad a los ciudadanos y atención al hecho insular.
 d. Eficiencia, economía, máxima proximidad a los ciudadanos y atención al hecho municipal.
-
-ϵ
-
-En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada la
-autenticidad de esta copia, mediante el número de documento electrónico siguiente:
-
-0Fqdl2GmQ7VWVO7aluBRLBvPYDz3kEiNS
-
-Pruebas selectivas para el ingreso, por el sistema general de acceso libre, al Cuerpo Facultativo de Técnicos de
-Grado Medio, Escala de Arquitectos e Ingenieros Técnicos de la Administración Pública de la Comunidad
-Autónoma de Canarias (Grupo A, Subgrupo A2), Especialidad Ingenieros Técnicos Industriales, convocadas
-mediante Resolución de 11 de abril de 2018.
 
 43. Los reglamentos orgánicos de los Departamentos determinarán:
 a. Únicamente las estructuras centrales y territoriales de los mismos.
@@ -491,12 +425,13 @@ c. Las estructuras centrales de los mismos, asignando a dichos órganos las atri
 específicas que les correspondan dentro del área de funciones de la Consejería.
 d. Las estructuras centrales y territoriales de los mismos, asignando a cada órgano las
 atribuciones específicas que les correspondan dentro del área de funciones de la Consejería.
+
 44. Se entenderá por sede de las Consejerías:
 a. La ciudad en la que se fije la oficina principal de despacho del Consejero.
 b. La ciudad en la que resida el Consejero.
 c. La ciudad que fije el Consejero.
-
 d. La ciudad que fije el Parlamento de Canarias.
+
 45. El número y denominación de las Consejerías del Gobierno se establecerá:
 a. En el Estatuto de autonomía de Canarias.
 b. Por Ley.
@@ -525,11 +460,6 @@ c. Al régimen jurídico regulador del ejercicio de las competencias autonómica
 singularidades previstas en los decretos de delegación.
 d. Al régimen jurídico regulador del ejercicio de las competencias autonómicas, y las
 singularidades previstas en la Ley 8/2015, de 1 de abril, de cabildos insulares.
-
-Pruebas selectivas para el ingreso, por el sistema general de acceso libre, al Cuerpo Facultativo de Técnicos de
-Grado Medio, Escala de Arquitectos e Ingenieros Técnicos de la Administración Pública de la Comunidad
-Autónoma de Canarias (Grupo A, Subgrupo A2), Especialidad Ingenieros Técnicos Industriales, convocadas
-mediante Resolución de 11 de abril de 2018.
 
 49. A los efectos de la Ley de Municipios de Canarias, constituye parte del sector público municipal
 de Canarias:
